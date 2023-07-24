@@ -1,0 +1,2809 @@
+player,pokemon,turns_active,times_brought_in,kos,pct_dmg_dealt,pct_dmg_taken,pct_dmg_healed,hits_taken,tera,tera_type,team_tera,team_tera_first,lead,faint,team_win
+Redemption,Dragonite,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Redemption,Enamorus,8,7,3,416,100,0,3,0,,0,0,1,1,1
+Redemption,Great Tusk,9,4,0,91,100,0,6,0,,0,0,0,1,1
+Redemption,Kingambit,4,5,0,41,46,6,2,0,,0,0,0,0,1
+Redemption,Slowking-Galar,0,5,0,0,215,115,5,0,,0,0,0,1,1
+Redemption,Zamazenta,5,1,3,231,92,12,1,0,,0,0,0,0,1
+Ox the Fox,Amoonguss,3,6,0,24,267,167,6,0,,1,1,0,1,0
+Ox the Fox,Dragapult,6,8,1,259,100,0,1,0,,1,1,1,1,0
+Ox the Fox,Enamorus,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Ox the Fox,Great Tusk,11,6,1,101,184,84,10,0,,1,1,0,1,0
+Ox the Fox,Kingambit,4,2,1,56,100,0,1,1,Dark,1,1,0,1,0
+Ox the Fox,Ting-Lu,1,2,0,0,118,18,2,0,,1,1,0,1,0
+Fakee,Amoonguss,2,5,0,0,11,11,1,0,,1,0,0,0,1
+Fakee,Cinderace,3,1,2,95,53,0,1,0,,1,0,0,0,1
+Fakee,Enamorus-Therian,6,1,1,186,154,54,3,0,,1,0,0,1,1
+Fakee,Garganacl,19,6,1,131,449,349,14,1,Fairy,1,0,0,1,1
+Fakee,Hydreigon,14,3,2,395,155,55,4,0,,1,0,0,1,1
+Fakee,Thundurus-Therian,3,3,0,75,44,0,1,0,,1,0,1,0,1
+so noisy,Baxcalibur,4,3,1,34,100,0,3,1,Fairy,1,1,0,1,0
+so noisy,Dondozo,14,6,0,52,361,261,8,0,,1,1,0,1,0
+so noisy,Great Tusk,5,2,0,45,125,25,2,0,,1,1,0,1,0
+so noisy,Heatran,4,2,1,66,131,31,2,0,,1,1,0,1,0
+so noisy,Slowking-Galar,17,11,1,372,384,284,12,0,,1,1,1,1,0
+so noisy,Zapdos,6,4,0,79,147,47,3,0,,1,1,0,1,0
+S.Berlusconi VGC,Enamorus,3,2,2,163,100,0,4,0,,1,0,0,1,1
+S.Berlusconi VGC,Gholdengo,1,2,1,100,12,0,1,0,,1,0,0,0,1
+S.Berlusconi VGC,Kingambit,2,2,1,137,0,0,1,1,Ghost,1,0,0,0,1
+S.Berlusconi VGC,Ting-Lu,3,1,1,100,124,24,4,0,,1,0,0,1,1
+S.Berlusconi VGC,Volcanion,1,1,1,100,0,0,0,0,,1,0,0,0,1
+S.Berlusconi VGC,Zapdos,1,2,0,0,100,0,5,0,,1,0,1,1,1
+Floss,Baxcalibur,1,1,0,86,100,0,1,0,,1,1,1,1,0
+Floss,Dragonite,3,2,2,60,100,0,1,1,Normal,1,1,0,1,0
+Floss,Gholdengo,4,1,0,103,100,0,3,0,,1,1,0,1,0
+Floss,Great Tusk,3,1,0,23,100,0,2,0,,1,1,0,1,0
+Floss,Iron Valiant,2,1,0,0,100,0,1,0,,1,1,0,1,0
+Floss,Samurott-Hisui,2,1,1,40,100,0,2,0,,1,1,0,1,0
+Luirromen,Cinderace,1,2,0,0,100,0,2,1,Ghost,1,1,0,1,0
+Luirromen,Great Tusk,5,3,2,145,100,0,4,0,,1,1,0,1,0
+Luirromen,Kingambit,4,2,2,103,106,6,2,0,,1,1,0,1,0
+Luirromen,Roaring Moon,1,1,0,69,100,0,1,0,,1,1,0,1,0
+Luirromen,Slowking,4,5,1,123,234,134,6,0,,1,1,0,1,0
+Luirromen,Zapdos,1,4,0,91,100,0,3,0,,1,1,1,1,0
+avarice,Baxcalibur,2,1,1,106,62,0,2,1,Fairy,1,0,0,0,1
+avarice,Great Tusk,9,1,3,220,100,0,3,0,,1,0,0,1,1
+avarice,Iron Valiant,4,1,1,68,100,0,2,0,,1,0,0,1,1
+avarice,Kingambit,2,1,1,100,106,6,2,0,,1,0,0,1,1
+avarice,Samurott-Hisui,5,1,0,159,100,0,2,0,,1,0,0,1,1
+avarice,Sneasler,2,1,0,87,100,0,2,0,,1,0,1,1,1
+z0mog,Cinderace,9,4,1,114,127,27,5,0,,1,0,0,1,0
+z0mog,Kingambit,6,3,2,214,126,26,2,1,Flying,1,0,0,1,0
+z0mog,Landorus-Therian,4,4,0,139,100,0,4,0,,1,0,1,1,0
+z0mog,Scream Tail,3,2,0,0,168,68,3,0,,1,0,0,1,0
+z0mog,Slowking-Galar,2,5,0,35,109,9,2,0,,1,0,0,1,0
+z0mog,Zamazenta,2,4,1,100,100,0,3,0,,1,0,0,1,0
+carkoala,Amoonguss,3,3,0,25,84,34,2,0,,1,1,0,0,1
+carkoala,Baxcalibur,5,3,1,168,100,0,4,1,Ice,1,1,1,1,1
+carkoala,Dragapult,3,3,0,19,100,0,1,0,,1,1,0,1,1
+carkoala,Great Tusk,5,2,0,45,131,31,5,0,,1,1,0,1,1
+carkoala,Iron Valiant,0,2,0,0,100,0,2,0,,1,1,0,1,1
+carkoala,Kingambit,9,6,5,317,124,44,4,0,,1,1,0,0,1
+eternally,Azumarill,1,1,0,0,125,25,2,0,,1,1,0,1,0
+eternally,Dragapult,3,3,1,0,100,0,2,0,,1,1,0,1,0
+eternally,Enamorus,1,1,0,53,100,0,1,1,Dark,1,1,0,1,0
+eternally,Meowscarada,2,1,0,29,100,0,2,0,,1,1,1,1,0
+eternally,Sneasler,3,3,1,64,100,0,4,0,,1,1,0,1,0
+eternally,Ursaluna,3,3,0,97,100,0,4,0,,1,1,0,1,0
+wait of the world,Dragapult,9,4,3,222,100,0,2,0,,0,0,0,1,1
+wait of the world,Enamorus,3,2,1,160,29,0,2,0,,0,0,1,0,1
+wait of the world,Great Tusk,2,2,0,23,100,0,2,0,,0,0,0,1,1
+wait of the world,Hoopa-Unbound,1,1,1,3,0,0,0,0,,0,0,0,0,1
+wait of the world,Kingambit,1,1,1,76,53,0,1,0,,0,0,0,0,1
+wait of the world,Slowking-Galar,0,1,0,0,0,0,0,0,,0,0,0,0,1
+Lucians Call,Dragapult,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Lucians Call,Garganacl,4,2,0,23,36,30,2,1,Water,1,1,0,0,1
+Lucians Call,Great Tusk,2,2,1,88,113,13,5,0,,1,1,0,1,1
+Lucians Call,Hoopa-Unbound,13,2,2,479,100,0,4,0,,1,1,0,1,1
+Lucians Call,Skeledirge,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Lucians Call,Zapdos,12,5,3,260,145,47,6,0,,1,1,1,0,1
+MANNAT,Dragapult,2,1,0,77,100,0,2,0,,1,0,0,1,0
+MANNAT,Enamorus,2,2,1,102,100,0,1,1,Fairy,1,0,0,1,0
+MANNAT,Great Tusk,3,4,0,34,100,0,2,0,,1,0,0,1,0
+MANNAT,Kingambit,2,3,0,85,100,0,2,0,,1,0,0,1,0
+MANNAT,Volcanion,2,2,0,19,100,0,3,0,,1,0,0,1,0
+MANNAT,Zapdos,14,6,1,77,500,400,15,0,,1,0,1,1,0
+Fusien,Cresselia,7,6,0,39,267,167,7,0,,1,0,0,1,0
+Fusien,Great Tusk,10,7,1,309,100,0,4,0,,1,0,0,1,0
+Fusien,Heatran,4,3,0,16,100,0,2,0,,1,0,0,1,0
+Fusien,Kingambit,5,3,1,210,132,32,4,1,Flying,1,0,0,1,0
+Fusien,Landorus-Therian,6,6,0,95,100,0,4,0,,1,0,1,1,0
+Fusien,Toxapex,19,11,1,273,285,274,6,0,,1,0,0,0,0
+stareal,Cinderace,4,3,0,15,49,0,1,0,,1,1,0,0,1
+stareal,Corviknight,7,4,1,8,200,145,7,0,,1,1,0,0,1
+stareal,Dondozo,12,3,2,277,164,64,5,0,,1,1,0,1,1
+stareal,Garganacl,25,6,2,191,428,368,15,1,Water,1,1,0,0,1
+stareal,Landorus-Therian,2,3,0,7,106,6,4,0,,1,1,1,1,1
+stareal,Toxapex,7,7,0,0,248,148,8,0,,1,1,0,1,1
+mimilimi,Corviknight,1,1,0,0,100,0,2,0,,1,1,0,1,0
+mimilimi,Enamorus,6,2,1,220,100,0,2,0,,1,1,1,1,0
+mimilimi,Great Tusk,1,1,0,58,100,0,1,0,,1,1,0,1,0
+mimilimi,Skeledirge,6,1,1,115,91,91,4,1,Water,1,1,0,1,0
+mimilimi,Slowking-Galar,5,3,0,9,133,33,2,0,,1,1,0,1,0
+mimilimi,Ting-Lu,3,2,1,84,118,18,1,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Dragapult,4,2,0,0,100,0,3,0,,1,0,0,1,1
+Kaif☆彡Plays♗,Enamorus-Therian,3,1,0,27,55,24,3,0,,1,0,0,0,1
+Kaif☆彡Plays♗,Hatterene,11,1,5,447,209,192,4,1,Water,1,0,0,0,1
+Kaif☆彡Plays♗,Iron Valiant,4,1,0,64,100,0,3,0,,1,0,0,1,1
+Kaif☆彡Plays♗,Meowscarada,2,1,0,30,100,0,2,0,,1,0,1,1,1
+Kaif☆彡Plays♗,Zamazenta,0,0,0,0,0,0,0,0,,1,0,0,0,1
+myjava,Dragapult,3,3,1,25,100,0,2,0,,1,0,0,1,0
+myjava,Great Tusk,2,2,0,30,117,17,3,0,,1,0,0,1,0
+myjava,Kingambit,6,4,1,156,143,43,4,0,,1,0,0,1,0
+myjava,Slowking-Galar,8,2,1,234,134,34,3,1,Flying,1,0,0,1,0
+myjava,Volcanion,3,2,0,62,100,0,2,0,,1,0,0,1,0
+myjava,Zapdos,3,4,0,37,100,0,3,0,,1,0,1,1,0
+Kushalos,Alomomola,1,1,1,89,74,18,2,0,,1,1,0,0,1
+Kushalos,Cinderace,3,2,0,11,100,0,2,0,,1,1,1,1,1
+Kushalos,Garganacl,11,2,3,95,223,223,9,0,,1,1,0,0,1
+Kushalos,Gholdengo,1,1,0,22,6,0,0,0,,1,1,0,0,1
+Kushalos,Landorus-Therian,7,4,2,160,131,31,2,0,,1,1,0,1,1
+Kushalos,Meowscarada,4,3,0,185,100,0,2,1,Grass,1,1,0,1,1
+ice pais,Dragonite,0,0,0,0,0,0,0,0,,1,0,0,0,1
+ice pais,Great Tusk,4,4,2,151,121,37,4,1,Fairy,1,0,0,0,1
+ice pais,Iron Valiant,2,1,0,0,100,0,1,0,,1,0,0,1,1
+ice pais,Kingambit,6,2,2,213,52,0,1,0,,1,0,0,0,1
+ice pais,Slowking-Galar,6,7,1,100,254,154,7,0,,1,0,0,1,1
+ice pais,Zapdos,10,4,0,108,350,250,8,0,,1,0,1,1,1
+ZoroDark,Dragapult,6,4,0,62,59,0,3,0,,1,1,0,0,0
+ZoroDark,Enamorus,4,2,0,69,100,0,2,1,Steel,1,1,0,1,0
+ZoroDark,Iron Valiant,3,1,2,171,100,0,2,0,,1,1,0,1,0
+ZoroDark,Kingambit,2,1,0,52,113,13,3,0,,1,1,0,1,0
+ZoroDark,Sneasler,8,4,1,238,100,0,1,0,,1,1,1,1,0
+ZoroDark,Zamazenta,5,1,0,155,100,0,2,0,,1,1,0,1,0
+One Last Boba,Enamorus,3,5,2,63,74,0,2,0,,1,0,0,0,1
+One Last Boba,Garganacl,20,9,1,63,624,524,13,1,Water,1,0,0,1,1
+One Last Boba,Gholdengo,6,9,1,150,49,49,5,0,,1,0,1,0,1
+One Last Boba,Great Tusk,10,4,0,96,100,0,5,0,,1,0,0,1,1
+One Last Boba,Samurott-Hisui,4,4,1,70,68,0,1,0,,1,0,0,0,1
+One Last Boba,Slowking-Galar,10,12,0,71,269,239,9,0,,1,0,0,0,1
+Tace,Amoonguss,13,13,0,194,288,259,3,0,,1,1,1,0,0
+Tace,Dragonite,3,4,0,96,150,50,3,0,,1,1,0,1,0
+Tace,Garganacl,18,6,0,239,313,213,5,1,Water,1,1,0,1,0
+Tace,Gholdengo,10,6,1,201,250,150,6,0,,1,1,0,1,0
+Tace,Great Tusk,6,3,0,51,119,19,6,0,,1,1,0,1,0
+Tace,Zamazenta,7,3,1,93,125,25,4,0,,1,1,0,1,0
+Unamed,Baxcalibur,5,6,2,250,100,0,2,1,Ice,1,1,0,1,0
+Unamed,Dragapult,4,2,1,117,100,0,1,0,,1,1,0,1,0
+Unamed,Great Tusk,0,2,0,0,112,12,2,0,,1,1,0,1,0
+Unamed,Kingambit,2,6,0,96,118,18,3,0,,1,1,0,1,0
+Unamed,Slowking-Galar,1,1,0,0,100,0,2,0,,1,1,0,1,0
+Unamed,Zapdos,2,2,0,37,100,0,3,0,,1,1,1,1,0
+msnt,Dragapult,3,3,2,213,9,0,1,0,,1,0,0,0,1
+msnt,Enamorus,5,3,2,212,106,6,3,1,Steel,1,0,0,1,1
+msnt,Gholdengo,1,4,0,0,150,50,4,0,,1,0,0,1,1
+msnt,Great Tusk,1,2,0,66,100,0,1,0,,1,0,0,1,1
+msnt,Samurott-Hisui,3,3,2,128,48,0,1,0,,1,0,0,0,1
+msnt,Slowking-Galar,3,2,0,0,93,28,2,0,,1,0,1,0,1
+EeveetoTheN00b,Arcanine-Hisui,1,1,1,88,0,0,0,0,,1,1,0,1,0
+EeveetoTheN00b,Corviknight,3,4,0,2,173,73,5,0,,1,1,0,1,0
+EeveetoTheN00b,Dondozo,7,4,1,138,118,18,4,1,Fairy,1,1,0,1,0
+EeveetoTheN00b,Great Tusk,2,2,1,78,106,6,1,0,,1,1,0,1,0
+EeveetoTheN00b,Muk-Alola,6,4,1,152,123,23,2,0,,1,1,1,1,0
+EeveetoTheN00b,Slowking,3,3,0,15,100,0,1,0,,1,1,0,1,0
+Fogbound Lake,Baxcalibur,6,2,0,98,16,0,0,0,,0,0,0,0,1
+Fogbound Lake,Gholdengo,9,4,3,203,101,49,4,0,,0,0,0,0,1
+Fogbound Lake,Iron Valiant,2,2,1,113,100,0,2,0,,0,0,1,1,1
+Fogbound Lake,Landorus-Therian,1,2,0,5,100,0,2,0,,0,0,0,1,1
+Fogbound Lake,Mimikyu,2,1,0,0,100,0,2,0,,0,0,0,1,1
+Fogbound Lake,Samurott-Hisui,3,2,1,118,100,0,3,0,,0,0,0,1,1
+damien the genius,Amoonguss,15,6,0,228,219,119,11,0,,1,1,1,1,0
+damien the genius,Great Tusk,2,3,0,10,100,0,3,0,,1,1,0,1,0
+damien the genius,Iron Valiant,4,1,1,99,100,0,2,0,,1,1,0,1,0
+damien the genius,Kingambit,5,1,1,143,119,19,4,1,Flying,1,1,0,1,0
+damien the genius,Walking Wake,2,3,0,50,100,0,3,0,,1,1,0,1,0
+damien the genius,Zapdos,5,5,1,75,150,50,3,0,,1,1,0,1,0
+pdt,Amoonguss,9,6,0,136,188,88,10,0,,0,0,0,1,1
+pdt,Dragapult,1,2,0,73,100,0,3,0,,0,0,0,1,1
+pdt,Enamorus,4,3,2,112,98,0,2,0,,0,0,1,1,1
+pdt,Great Tusk,3,1,1,39,100,0,1,0,,0,0,0,1,1
+pdt,Kingambit,3,4,1,85,94,0,4,0,,0,0,0,0,1
+pdt,Ting-Lu,10,5,2,250,139,86,6,0,,0,0,0,0,1
+VertXXX,Baxcalibur,2,1,1,146,100,0,3,0,,1,0,0,1,0
+VertXXX,Cresselia,8,1,0,27,154,54,5,1,Poison,1,0,0,1,0
+VertXXX,Glimmora,2,1,0,0,100,0,2,0,,1,0,1,1,0
+VertXXX,Iron Valiant,0,1,0,0,18,0,0,0,,1,0,0,0,0
+VertXXX,Sneasler,5,2,2,133,100,0,2,0,,1,0,0,1,0
+VertXXX,Walking Wake,4,1,1,160,100,0,2,0,,1,0,0,1,0
+Skc44,Dragapult,3,2,1,156,100,0,3,0,,1,1,1,1,1
+Skc44,Enamorus-Therian,2,2,1,59,154,54,3,0,,1,1,0,1,1
+Skc44,Great Tusk,3,1,1,44,125,25,6,0,,1,1,0,1,1
+Skc44,Heatran,10,1,1,69,27,27,7,0,,1,1,0,0,1
+Skc44,Samurott-Hisui,3,1,0,43,100,0,2,0,,1,1,0,1,1
+Skc44,Scizor,1,1,1,73,0,0,0,1,Steel,1,1,0,0,1
+SOULWIND,Dragapult,0,1,0,0,100,0,1,0,,1,1,0,1,0
+SOULWIND,Enamorus,1,1,1,35,64,0,2,0,,1,1,0,0,0
+SOULWIND,Great Tusk,1,2,0,50,113,13,2,0,,1,1,0,1,0
+SOULWIND,Kingambit,3,3,1,127,100,0,2,0,,1,1,0,1,0
+SOULWIND,Slowking-Galar,1,3,0,0,138,38,2,0,,1,1,0,1,0
+SOULWIND,Volcanion,2,2,1,165,60,0,3,1,Fairy,1,1,1,0,0
+freezai,Baxcalibur,2,1,0,5,100,0,1,0,,1,0,0,1,1
+freezai,Dragapult,2,1,0,30,106,6,2,0,,1,0,0,1,1
+freezai,Gholdengo,2,2,0,69,50,0,1,0,,1,0,0,0,1
+freezai,Iron Valiant,5,1,4,254,0,0,0,1,Dark,1,0,0,0,1
+freezai,Kingambit,1,1,0,26,21,0,1,0,,1,0,0,0,1
+freezai,Samurott-Hisui,3,1,0,103,100,0,2,0,,1,0,1,1,1
+Perazoa,Great Tusk,2,2,0,56,100,0,2,0,,0,0,0,1,1
+Perazoa,Iron Moth,1,1,0,18,100,0,1,0,,0,0,0,1,1
+Perazoa,Iron Valiant,6,1,4,251,94,0,2,0,,0,0,0,0,1
+Perazoa,Kingambit,2,1,1,68,100,0,2,0,,0,0,0,1,1
+Perazoa,Meowscarada,1,1,0,0,100,0,2,0,,0,0,1,1,1
+Perazoa,Roaring Moon,5,1,1,198,100,0,2,0,,0,0,0,1,1
+INSULT,Amoonguss,1,2,0,0,134,34,3,1,Water,1,1,0,1,0
+INSULT,Baxcalibur,5,2,2,183,100,0,2,0,,1,1,1,1,0
+INSULT,Dragapult,0,1,0,0,100,0,1,0,,1,1,0,1,0
+INSULT,Landorus-Therian,1,3,0,45,106,6,2,0,,1,1,0,1,0
+INSULT,Ting-Lu,2,1,0,94,112,12,3,0,,1,1,0,1,0
+INSULT,Volcanion,4,2,3,223,100,0,3,0,,1,1,0,1,0
+Uzigunner,Dragapult,3,3,2,100,106,6,1,0,,1,0,0,1,1
+Uzigunner,Great Tusk,1,1,0,91,119,19,3,0,,1,0,0,1,1
+Uzigunner,Kingambit,2,2,2,128,39,6,1,1,Flying,1,0,0,0,1
+Uzigunner,Samurott-Hisui,4,2,1,122,118,18,3,0,,1,0,0,1,1
+Uzigunner,Slowking-Galar,5,5,1,127,207,107,6,0,,1,0,1,1,1
+Uzigunner,Zapdos,2,3,0,30,157,57,3,0,,1,0,0,1,1
+RggV,Iron Valiant,6,1,1,129,116,16,3,1,Steel,1,1,0,1,0
+RggV,Kingambit,6,2,2,187,151,51,4,0,,1,1,0,1,0
+RggV,Moltres,0,1,0,0,100,0,2,0,,1,1,0,1,0
+RggV,Rillaboom,4,4,1,138,107,7,1,0,,1,1,1,1,0
+RggV,Sandy Shocks,5,4,0,70,112,12,3,0,,1,1,0,1,0
+RggV,Sneasler,2,2,1,81,106,6,1,0,,1,1,0,1,0
+Oshim,Enamorus,7,1,1,136,100,0,3,0,,1,0,0,1,0
+Oshim,Great Tusk,1,2,0,53,100,0,3,0,,1,0,0,1,0
+Oshim,Samurott-Hisui,2,3,0,47,100,0,3,0,,1,0,0,1,0
+Oshim,Skeledirge,8,4,3,188,179,79,6,1,Water,1,0,0,1,0
+Oshim,Sneasler,7,4,0,138,100,0,2,0,,1,0,1,1,0
+Oshim,Zamazenta,4,1,1,108,100,0,4,0,,1,0,0,1,0
+ayevon,Dragapult,5,4,3,259,100,0,2,0,,1,1,0,1,1
+ayevon,Great Tusk,4,2,0,75,124,24,2,0,,1,1,0,1,1
+ayevon,Rotom-Wash,8,4,1,150,143,43,6,1,Steel,1,1,0,1,1
+ayevon,Slowking-Galar,3,4,0,29,199,99,4,0,,1,1,0,1,1
+ayevon,Ting-Lu,0,2,0,0,112,12,3,0,,1,1,0,1,1
+ayevon,Zamazenta,6,3,2,160,118,43,6,0,,1,1,1,0,1
+Trosko,Baxcalibur,5,2,1,172,100,0,2,0,,0,0,0,1,0
+Trosko,Garganacl,0,2,0,0,112,12,3,0,,0,0,0,1,0
+Trosko,Gholdengo,2,2,0,0,134,34,2,0,,0,0,0,1,0
+Trosko,Great Tusk,5,3,2,166,106,6,3,0,,0,0,0,1,0
+Trosko,Slowking,4,4,0,0,200,100,5,0,,0,0,1,1,0
+Trosko,Zapdos,11,2,1,101,342,242,6,0,,0,0,0,1,0
+arce9,Cinderace,10,3,3,352,47,0,1,0,,1,1,0,0,1
+arce9,Dragapult,8,5,2,406,100,0,2,1,Ghost,1,1,1,1,1
+arce9,Great Tusk,0,1,0,0,112,12,3,0,,1,1,0,1,1
+arce9,Kingambit,1,3,1,100,6,6,0,0,,1,1,0,0,1
+arce9,Slowking-Galar,2,3,0,0,116,16,3,0,,1,1,0,1,1
+arce9,Zapdos,5,5,0,132,100,0,5,0,,1,1,0,1,1
+Spitfire arcanine,Cinderace,1,2,1,100,97,0,1,0,,1,1,0,0,1
+Spitfire arcanine,Dragapult,3,3,1,80,100,0,2,0,,1,1,1,1,1
+Spitfire arcanine,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Spitfire arcanine,Kingambit,8,1,4,393,123,51,4,1,Fairy,1,1,0,0,1
+Spitfire arcanine,Slowking-Galar,2,2,0,0,106,34,3,0,,1,1,0,0,1
+Spitfire arcanine,Zapdos,4,2,0,27,182,150,4,0,,1,1,0,0,1
+msnt,Azumarill,2,2,0,75,100,0,4,0,,1,0,1,1,0
+msnt,Dragonite,2,1,0,53,100,0,2,1,Normal,1,0,0,1,0
+msnt,Iron Moth,5,1,1,203,100,0,2,0,,1,0,0,1,0
+msnt,Iron Valiant,1,1,0,18,100,0,1,0,,1,0,0,1,0
+msnt,Kingambit,1,1,0,20,100,0,1,0,,1,0,0,1,0
+msnt,Sandy Shocks,6,1,0,215,100,0,3,0,,1,0,0,1,0
+Leo,Enamorus,1,2,0,93,100,0,2,1,Fairy,1,1,0,1,0
+Leo,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,0
+Leo,Kingambit,0,1,0,0,0,0,0,0,,1,1,0,0,0
+Leo,Rotom-Wash,2,1,0,22,26,0,1,0,,1,1,1,0,0
+Leo,Slowking-Galar,2,2,0,38,111,11,2,0,,1,1,0,1,0
+Leo,Zamazenta,0,1,0,0,14,0,1,0,,1,1,0,0,0
+VertXXX,Cinderace,0,0,0,0,0,0,0,0,,0,0,0,0,1
+VertXXX,Garganacl,0,0,0,0,0,0,0,0,,0,0,0,0,1
+VertXXX,Great Tusk,0,0,0,0,0,0,0,0,,0,0,0,0,1
+VertXXX,Hoopa-Unbound,4,3,2,214,131,38,3,0,,0,0,1,0,1
+VertXXX,Scream Tail,2,1,0,0,0,0,0,0,,0,0,0,0,1
+VertXXX,Zapdos,2,1,0,37,22,0,2,0,,0,0,0,0,1
+Fairy Peak!,Enamorus,0,0,0,0,0,0,0,0,,1,0,0,0,0
+Fairy Peak!,Iron Moth,0,0,0,0,0,0,0,0,,1,0,0,0,0
+Fairy Peak!,Iron Valiant,0,0,0,0,0,0,0,0,,1,0,0,0,0
+Fairy Peak!,Landorus-Therian,1,2,0,18,100,0,1,0,,1,0,0,1,0
+Fairy Peak!,Meowscarada,3,2,1,202,99,0,2,0,,1,0,1,0,0
+Fairy Peak!,Zamazenta,0,1,0,0,100,0,1,1,Dark,1,0,0,1,0
+MichaelderBeste2,Armarouge,0,0,0,0,0,0,0,0,,1,1,0,0,1
+MichaelderBeste2,Azelf,1,2,0,99,100,0,1,0,,1,1,1,1,1
+MichaelderBeste2,Hatterene,1,2,0,0,45,0,2,0,,1,1,0,0,1
+MichaelderBeste2,Indeedee,0,1,0,0,75,0,1,0,,1,1,0,0,1
+MichaelderBeste2,Polteageist,0,0,0,0,0,0,0,0,,1,1,0,0,1
+MichaelderBeste2,Sneasler,3,1,2,200,0,0,0,1,Psychic,1,1,0,0,1
+RUBYBLOOD,Cinderace,4,2,0,11,54,0,1,0,,1,0,1,0,1
+RUBYBLOOD,Cresselia,0,1,0,0,12,6,0,0,,1,0,0,0,1
+RUBYBLOOD,Dragonite,0,0,0,0,0,0,0,0,,1,0,0,0,1
+RUBYBLOOD,Garganacl,5,2,1,31,250,150,6,1,Water,1,0,0,1,1
+RUBYBLOOD,Slowking-Galar,4,2,0,70,120,20,3,0,,1,0,0,1,1
+RUBYBLOOD,Zamazenta,11,2,1,196,122,69,4,0,,1,0,0,0,1
+DugZaッ,Amoonguss,7,3,0,64,158,66,3,0,,1,1,0,0,0
+DugZaッ,Baxcalibur,0,0,0,0,0,0,0,0,,1,1,0,0,0
+DugZaッ,Great Tusk,5,2,0,65,47,30,2,0,,1,1,1,0,0
+DugZaッ,Hoopa-Unbound,5,3,1,168,148,48,2,0,,1,1,0,1,0
+DugZaッ,Iron Valiant,6,1,1,145,100,0,3,1,Ghost,1,1,0,1,0
+DugZaッ,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,0
+KillaLeston,Baxcalibur,4,3,2,78,100,0,4,1,Steel,1,0,0,1,0
+KillaLeston,Cresselia,0,3,0,0,100,0,4,0,,1,0,0,1,0
+KillaLeston,Greninja,3,1,1,156,100,0,2,0,,1,0,0,1,0
+KillaLeston,Iron Valiant,4,3,1,91,100,0,2,0,,1,0,0,1,0
+KillaLeston,Samurott-Hisui,1,2,0,68,100,0,2,0,,1,0,1,1,0
+KillaLeston,Sneasler,2,1,1,127,100,0,3,0,,1,0,0,1,0
+Igniizard,Baxcalibur,2,1,1,94,100,0,2,0,,1,1,0,1,1
+Igniizard,Gholdengo,4,3,1,155,100,0,5,0,,1,1,0,1,1
+Igniizard,Great Tusk,2,1,1,100,100,0,2,0,,1,1,0,1,1
+Igniizard,Kingambit,3,3,2,90,52,0,1,1,Fairy,1,1,0,0,1
+Igniizard,Samurott-Hisui,2,1,1,58,100,0,2,0,,1,1,0,1,1
+Igniizard,Zapdos,4,3,0,70,100,0,2,0,,1,1,1,1,1
+ninjadog,Great Tusk,11,7,3,364,60,0,2,0,,1,1,0,0,1
+ninjadog,Iron Valiant,0,0,0,0,0,0,0,0,,1,1,0,0,1
+ninjadog,Kingambit,8,5,3,288,100,0,5,1,Ghost,1,1,0,1,1
+ninjadog,Slowking-Galar,1,1,0,0,100,0,1,0,,1,1,0,1,1
+ninjadog,Volcanion,3,4,0,61,100,0,3,0,,1,1,0,1,1
+ninjadog,Zapdos,19,8,0,31,457,363,10,0,,1,1,1,0,1
+RggV,Baxcalibur,6,6,2,261,100,0,4,0,,1,0,1,1,0
+RggV,Cinderace,3,3,0,0,100,0,1,0,,1,0,0,1,0
+RggV,Clodsire,6,10,0,6,233,133,8,0,,1,0,0,1,0
+RggV,Corviknight,4,4,0,41,175,75,4,0,,1,0,0,1,0
+RggV,Iron Valiant,10,4,1,416,100,0,3,0,,1,0,0,1,0
+RggV,Zapdos-Galar,2,3,0,55,100,0,3,1,Fire,1,0,0,1,0
+crying,Amoonguss,6,7,2,126,258,158,6,0,,1,1,0,1,0
+crying,Dragonite,4,2,1,164,100,0,2,1,Fire,1,1,0,1,0
+crying,Great Tusk,4,4,2,175,119,19,2,0,,1,1,1,1,0
+crying,Iron Valiant,1,1,0,0,100,0,2,0,,1,1,0,1,0
+crying,Kleavor,0,2,0,0,100,0,2,0,,1,1,0,1,0
+crying,Ting-Lu,1,3,0,0,119,19,2,0,,1,1,0,1,0
+Skc44,Gholdengo,3,2,1,107,100,0,2,0,,1,0,0,1,1
+Skc44,Glimmora,1,1,0,1,100,0,2,0,,1,0,1,1,1
+Skc44,Great Tusk,4,2,1,82,100,0,3,0,,1,0,0,1,1
+Skc44,Iron Valiant,4,1,1,121,100,0,1,0,,1,0,0,1,1
+Skc44,Kingambit,2,2,2,102,39,0,1,1,Fairy,1,0,0,0,1
+Skc44,Walking Wake,10,3,1,334,100,0,1,0,,1,0,0,1,1
+Raj.Shoot ♫ ❤ ツ,Dragapult,1,2,0,0,100,0,1,1,Ghost,1,0,0,1,0
+Raj.Shoot ♫ ❤ ツ,Enamorus,3,4,1,69,100,0,2,0,,1,0,0,1,0
+Raj.Shoot ♫ ❤ ツ,Great Tusk,3,5,0,57,137,37,3,0,,1,0,0,1,0
+Raj.Shoot ♫ ❤ ツ,Kingambit,12,11,2,376,100,0,3,0,,1,0,0,1,0
+Raj.Shoot ♫ ❤ ツ,Rotom-Wash,9,5,1,143,145,45,3,0,,1,0,1,1,0
+Raj.Shoot ♫ ❤ ツ,Slowking-Galar,2,6,0,25,237,137,4,0,,1,0,0,1,0
+lax,Blissey,4,4,2,88,8,0,2,0,,1,1,0,0,1
+lax,Clodsire,2,2,0,0,100,0,4,0,,1,1,0,1,1
+lax,Dondozo,8,2,1,93,125,25,5,0,,1,1,0,1,1
+lax,Gholdengo,2,3,3,75,95,0,2,0,,1,1,0,0,1
+lax,Landorus-Therian,7,7,0,63,210,110,7,0,,1,1,0,1,1
+lax,Ting-Lu,8,8,0,0,170,70,6,1,Ghost,1,1,1,1,1
+Oshim,Dragapult,2,2,0,65,100,0,2,0,,1,1,1,1,0
+Oshim,Dragonite,3,1,0,23,100,0,3,0,,1,1,0,1,0
+Oshim,Iron Valiant,2,2,2,101,100,0,1,0,,1,1,0,1,0
+Oshim,Kingambit,3,1,1,65,100,0,3,1,Flying,1,1,0,1,0
+Oshim,Ting-Lu,2,1,0,0,100,0,2,0,,1,1,0,1,0
+Oshim,Volcanion,1,2,0,54,100,0,2,0,,1,1,0,1,0
+Highv0ltag3,Enamorus,3,1,0,98,6,6,1,0,,0,0,1,0,1
+Highv0ltag3,Great Tusk,1,1,1,23,2,0,0,0,,0,0,0,0,1
+Highv0ltag3,Iron Moth,2,1,1,100,100,0,2,0,,0,0,0,1,1
+Highv0ltag3,Kingambit,0,1,0,0,0,0,0,0,,0,0,0,0,1
+Highv0ltag3,Samurott-Hisui,1,1,1,34,100,0,1,0,,0,0,0,1,1
+Highv0ltag3,Zamazenta,8,1,3,345,148,48,4,0,,0,0,0,1,1
+Cabra Venezuela,Dragapult,4,2,0,14,100,0,3,0,,1,0,0,1,0
+Cabra Venezuela,Enamorus-Therian,1,2,0,27,100,0,1,0,,1,0,0,1,0
+Cabra Venezuela,Great Tusk,1,1,0,71,100,0,1,0,,1,0,1,1,0
+Cabra Venezuela,Iron Valiant,3,1,1,104,100,0,2,0,,1,0,0,1,0
+Cabra Venezuela,Kingambit,3,2,2,89,130,30,3,1,Fire,1,0,0,1,0
+Cabra Venezuela,Volcanion,0,1,0,0,100,0,1,0,,1,0,0,1,0
+ITALIAN BOOMER,Enamorus,1,1,1,100,100,0,2,0,,1,1,1,1,1
+ITALIAN BOOMER,Great Tusk,4,2,1,76,100,0,1,0,,1,1,0,1,1
+ITALIAN BOOMER,Iron Moth,3,1,3,296,0,0,0,1,Ground,1,1,0,0,1
+ITALIAN BOOMER,Kingambit,2,2,0,34,41,0,2,0,,1,1,0,0,1
+ITALIAN BOOMER,Roaring Moon,0,0,0,0,0,0,0,0,,1,1,0,0,1
+ITALIAN BOOMER,Zamazenta,3,2,1,124,113,13,2,0,,1,1,0,1,1
+M Dragon,Cresselia,15,8,0,135,345,245,10,1,Poison,1,0,0,1,0
+M Dragon,Dragapult,5,5,0,20,100,0,2,0,,1,0,0,1,0
+M Dragon,Great Tusk,12,16,1,201,254,154,8,0,,1,0,0,1,0
+M Dragon,Heatran,3,5,0,73,130,30,4,0,,1,0,0,1,0
+M Dragon,Ting-Lu,1,2,0,75,119,19,4,0,,1,0,0,1,0
+M Dragon,Zapdos,13,10,1,161,151,51,7,0,,1,0,1,1,0
+oldspicemike,Amoonguss,7,9,1,56,121,109,4,0,,1,1,0,0,1
+oldspicemike,Cinderace,6,4,1,189,73,0,2,0,,1,1,0,0,1
+oldspicemike,Garganacl,10,12,0,50,229,129,13,1,Ghost,1,1,1,1,1
+oldspicemike,Kingambit,15,8,3,403,179,91,7,0,,1,1,0,0,1
+oldspicemike,Landorus-Therian,9,11,1,106,100,0,7,0,,1,1,0,1,1
+oldspicemike,Zamazenta,3,3,0,23,42,19,2,0,,1,1,0,0,1
+sylveon supremacy,Baxcalibur,2,1,0,50,100,0,1,0,,1,1,0,1,0
+sylveon supremacy,Dragonite,2,1,0,36,100,0,2,0,,1,1,0,1,0
+sylveon supremacy,Great Tusk,2,1,0,128,100,0,2,0,,1,1,1,1,0
+sylveon supremacy,Iron Valiant,0,1,0,0,100,0,1,0,,1,1,0,1,0
+sylveon supremacy,Kingambit,3,2,1,100,100,0,2,1,Fire,1,1,0,1,0
+sylveon supremacy,Moltres,1,1,1,71,0,0,0,0,,1,1,0,1,0
+freezai,Dragapult,2,1,0,0,100,0,2,0,,1,0,0,1,1
+freezai,Glimmora,1,1,0,71,99,0,1,0,,1,0,1,0,1
+freezai,Hatterene,0,0,0,0,0,0,0,0,,1,0,0,0,1
+freezai,Iron Valiant,2,1,1,29,100,0,2,0,,1,0,0,1,1
+freezai,Moltres-Galar,6,1,3,288,86,0,4,1,Dark,1,0,0,0,1
+freezai,Sneasler,2,1,1,76,0,0,0,0,,1,0,0,0,1
+outb pj,Dondozo,13,4,0,69,179,163,12,0,,1,0,0,0,1
+outb pj,Dragapult,2,2,2,200,0,0,0,0,,1,0,1,0,1
+outb pj,Enamorus-Therian,1,1,0,10,114,14,2,0,,1,0,0,1,1
+outb pj,Great Tusk,0,2,1,0,106,6,2,0,,1,0,0,1,1
+outb pj,Kingambit,8,1,1,37,0,0,0,1,Flying,1,0,0,0,1
+outb pj,Toxapex,5,4,2,157,56,26,3,0,,1,0,0,1,1
+Sylveon is so cute,Azumarill,7,2,0,114,125,25,3,0,,1,1,0,1,0
+Sylveon is so cute,Baxcalibur,2,3,0,32,100,0,2,0,,1,1,0,1,0
+Sylveon is so cute,Iron Moth,1,2,0,16,100,0,2,0,,1,1,0,1,0
+Sylveon is so cute,Iron Valiant,3,1,0,30,100,0,3,0,,1,1,0,1,0
+Sylveon is so cute,Roaring Moon,14,1,2,207,100,0,4,1,Flying,1,1,0,1,0
+Sylveon is so cute,Zamazenta,4,1,0,56,100,0,2,0,,1,1,1,1,0
+Luirromen,Cinderace,5,5,1,67,100,0,3,0,,1,1,0,1,0
+Luirromen,Gholdengo,5,4,3,147,100,0,4,0,,1,1,0,1,0
+Luirromen,Landorus-Therian,4,3,0,60,100,0,2,0,,1,1,1,1,0
+Luirromen,Meowscarada,5,4,1,167,100,0,2,1,Grass,1,1,0,1,0
+Luirromen,Rotom-Heat,2,1,0,87,100,0,2,0,,1,1,0,1,0
+Luirromen,Samurott-Hisui,1,1,0,63,100,0,2,0,,1,1,0,1,0
+Lily,Hoopa-Unbound,2,2,1,100,100,0,1,0,,0,0,0,1,1
+Lily,Kingambit,2,2,1,59,113,13,2,0,,0,0,0,1,1
+Lily,Landorus-Therian,2,2,1,100,119,19,3,0,,0,0,0,1,1
+Lily,Samurott-Hisui,3,2,1,100,100,0,1,0,,0,0,0,1,1
+Lily,Slither Wing,5,4,1,67,97,0,4,0,,0,0,1,0,1
+Lily,Toxapex,7,4,1,60,263,163,7,0,,0,0,0,1,1
+TFG Spec╪ear,Amoonguss,4,3,0,71,145,45,5,0,,1,1,0,1,0
+TFG Spec╪ear,Dragapult,8,5,3,315,100,0,3,1,Electric,1,1,0,1,0
+TFG Spec╪ear,Enamorus,2,3,0,62,100,0,3,0,,1,1,0,1,0
+TFG Spec╪ear,Great Tusk,1,2,0,0,103,3,2,0,,1,1,0,1,0
+TFG Spec╪ear,Skeledirge,1,1,0,66,100,0,3,0,,1,1,0,1,0
+TFG Spec╪ear,Ursaluna,2,2,1,106,100,0,2,0,,1,1,1,1,0
+arce9,Dragapult,4,2,1,103,100,0,3,1,Ghost,1,0,0,1,1
+arce9,Garganacl,3,3,1,114,102,56,6,0,,1,0,0,0,1
+arce9,Great Tusk,1,1,1,94,106,6,2,0,,1,0,0,1,1
+arce9,Slowking,4,3,0,12,62,31,2,0,,1,0,1,0,1
+arce9,Sneasler,7,3,2,147,100,0,5,0,,1,0,0,1,1
+arce9,Zapdos,4,3,1,117,150,50,6,0,,1,0,0,1,1
+Stellar Flares,Dragapult,3,4,1,214,36,0,1,0,,0,0,1,0,0
+Stellar Flares,Great Tusk,2,2,0,37,23,6,1,0,,0,0,0,0,0
+Stellar Flares,Kingambit,0,5,0,0,40,18,2,0,,0,0,0,0,0
+Stellar Flares,Slowking-Galar,0,3,0,0,72,47,2,0,,0,0,0,0,0
+Stellar Flares,Zamazenta,1,3,0,0,112,12,2,0,,0,0,0,1,0
+Stellar Flares,Zapdos,0,1,0,0,0,0,0,0,,0,0,0,0,0
+FAKEE,Amoonguss,1,4,0,0,109,55,3,0,,1,1,0,0,1
+FAKEE,Baxcalibur,2,5,1,112,100,0,1,1,Fairy,1,1,1,1,1
+FAKEE,Dragapult,3,3,0,98,0,0,1,0,,1,1,0,0,1
+FAKEE,Great Tusk,1,2,0,7,0,0,0,0,,1,1,0,0,1
+FAKEE,Hatterene,0,0,0,0,0,0,0,0,,1,1,0,0,1
+FAKEE,Rotom-Heat,3,2,0,33,42,0,1,0,,1,1,0,0,1
+LLLiolae,Dragonite,4,3,1,130,100,0,2,0,,1,1,0,1,0
+LLLiolae,Kingambit,1,1,0,0,100,0,1,0,,1,1,0,1,0
+LLLiolae,Landorus-Therian,4,3,1,80,100,0,4,0,,1,1,0,1,0
+LLLiolae,Sandy Shocks,3,3,0,129,100,0,2,1,Fairy,1,1,1,1,0
+LLLiolae,Slowking,3,4,0,0,172,72,5,0,,1,1,0,1,0
+LLLiolae,Zamazenta,5,3,3,223,100,0,2,0,,1,1,0,1,0
+Fogbound Lake,Baxcalibur,7,2,4,305,91,31,2,1,Ground,1,0,0,0,1
+Fogbound Lake,Great Tusk,1,3,1,5,100,0,2,0,,1,0,0,1,1
+Fogbound Lake,Iron Valiant,4,1,1,135,100,0,3,0,,1,0,0,1,1
+Fogbound Lake,Samurott-Hisui,2,3,0,107,100,0,2,0,,1,0,1,1,1
+Fogbound Lake,Slowking-Galar,4,4,0,0,142,42,3,0,,1,0,0,1,1
+Fogbound Lake,Zapdos,4,1,0,120,100,0,3,0,,1,0,0,1,1
+Mushfiq98,Enamorus-Therian,4,1,1,140,148,48,3,0,,1,0,0,1,0
+Mushfiq98,Great Tusk,2,1,0,76,100,0,3,0,,1,0,0,1,0
+Mushfiq98,Iron Moth,5,2,2,152,100,0,3,0,,1,0,0,1,0
+Mushfiq98,Iron Valiant,2,1,1,52,100,0,2,1,Ghost,1,0,0,1,0
+Mushfiq98,Sandy Shocks,2,3,0,38,100,0,1,0,,1,0,1,1,0
+Mushfiq98,Scizor,3,1,1,146,100,0,2,0,,1,0,0,1,0
+mind gaming,Amoonguss,7,3,1,177,105,33,3,0,,1,1,1,0,1
+mind gaming,Cinderace,3,2,3,122,100,0,3,0,,1,1,0,1,1
+mind gaming,Iron Valiant,2,1,1,96,100,0,1,0,,1,1,0,1,1
+mind gaming,Kingambit,1,2,0,79,106,6,2,0,,1,1,0,1,1
+mind gaming,Landorus-Therian,4,1,1,100,118,18,2,1,Water,1,1,0,1,1
+mind gaming,Zamazenta,1,1,0,0,100,0,2,0,,1,1,0,1,1
+Dasmer03,Dragonite,5,4,1,216,121,21,2,1,Normal,1,1,0,1,0
+Dasmer03,Gholdengo,1,3,1,36,100,0,3,0,,1,1,0,1,0
+Dasmer03,Great Tusk,2,2,1,43,125,25,3,0,,1,1,0,1,0
+Dasmer03,Samurott-Hisui,2,2,1,50,100,0,2,0,,1,1,0,1,0
+Dasmer03,Slowking-Galar,3,4,0,0,111,100,3,0,,1,1,0,0,0
+Dasmer03,Zapdos,3,3,0,114,100,0,3,0,,1,1,1,1,0
+1 True Lycan,Dragapult,2,2,0,48,28,0,0,0,,1,0,0,0,1
+1 True Lycan,Enamorus,3,2,1,34,100,0,2,0,,1,0,0,1,1
+1 True Lycan,Kingambit,5,1,3,184,104,31,2,1,Dark,1,0,0,0,1
+1 True Lycan,Samurott-Hisui,2,2,0,70,100,0,2,0,,1,0,1,1,1
+1 True Lycan,Sandy Shocks,3,2,0,73,100,0,2,0,,1,0,0,1,1
+1 True Lycan,Zamazenta,5,2,1,105,130,30,3,0,,1,0,0,1,1
+Ruft,Amoonguss,5,4,1,53,92,80,2,0,,1,1,0,0,1
+Ruft,Enamorus,1,2,0,19,100,0,2,0,,1,1,0,1,1
+Ruft,Garganacl,21,5,2,154,265,226,13,1,Water,1,1,0,0,1
+Ruft,Great Tusk,6,1,0,52,100,0,4,0,,1,1,0,1,1
+Ruft,Kingambit,0,2,0,0,100,0,1,0,,1,1,1,1,1
+Ruft,Zamazenta,6,2,3,190,100,0,3,0,,1,1,0,1,1
+CHRI$TIAN DIOR,Baxcalibur,6,1,1,133,100,0,2,1,Fairy,1,0,0,1,0
+CHRI$TIAN DIOR,Enamorus,1,3,0,9,100,0,1,0,,1,0,0,1,0
+CHRI$TIAN DIOR,Great Tusk,4,4,0,67,100,0,3,0,,1,0,0,1,0
+CHRI$TIAN DIOR,Kingambit,4,2,2,125,100,0,3,0,,1,0,0,1,0
+CHRI$TIAN DIOR,Ting-Lu,10,4,1,198,135,35,9,0,,1,0,0,1,0
+CHRI$TIAN DIOR,Toxapex,11,5,0,36,236,136,8,0,,1,0,1,1,0
+ZDen,Amoonguss,2,4,0,18,166,66,3,0,,1,1,0,1,0
+ZDen,Garchomp,5,3,0,88,100,0,1,0,,1,1,0,1,0
+ZDen,Great Tusk,0,1,0,0,100,0,1,1,Steel,1,1,1,1,0
+ZDen,Iron Valiant,1,2,1,98,49,0,0,0,,1,1,0,0,0
+ZDen,Kingambit,3,1,1,31,118,18,2,0,,1,1,0,1,0
+ZDen,Thundurus-Therian,0,2,0,0,100,0,1,0,,1,1,0,1,0
+xdRudi.exe,Amoonguss,1,1,0,0,30,0,2,0,,1,0,0,0,1
+xdRudi.exe,Enamorus,4,4,2,274,37,0,1,1,Fairy,1,0,1,0,1
+xdRudi.exe,Gholdengo,2,2,1,65,6,0,0,0,,1,0,0,0,1
+xdRudi.exe,Great Tusk,1,1,1,74,100,0,1,0,,1,0,0,1,1
+xdRudi.exe,Ting-Lu,3,2,0,0,131,31,4,0,,1,0,0,1,1
+xdRudi.exe,Volcanion,1,1,1,92,0,0,0,0,,1,0,0,0,1
+Oshim,Dragonite,3,1,1,102,100,0,2,0,,1,1,0,1,1
+Oshim,Garchomp,2,1,0,33,100,0,4,0,,1,1,0,1,1
+Oshim,Gholdengo,1,1,1,94,100,0,2,0,,1,1,0,1,1
+Oshim,Iron Valiant,2,2,1,93,100,0,2,1,Fighting,1,1,1,1,1
+Oshim,Roaring Moon,2,1,1,20,100,0,1,0,,1,1,0,1,1
+Oshim,Scizor,2,2,2,118,53,0,0,0,,1,1,0,0,1
+3d,Baxcalibur,1,1,1,69,100,0,2,0,,1,0,0,1,0
+3d,Iron Moth,2,2,1,83,100,0,1,0,,1,0,0,1,0
+3d,Iron Valiant,2,1,1,93,100,0,1,0,,1,0,0,1,0
+3d,Kingambit,2,1,1,115,100,0,3,0,,1,0,0,1,0
+3d,Roaring Moon,1,1,1,3,100,0,2,1,Flying,1,0,0,1,0
+3d,Samurott-Hisui,4,2,0,89,100,0,1,0,,1,0,1,1,0
+QWILY,Enamorus,5,6,1,174,82,0,2,0,,0,0,0,0,1
+QWILY,Garganacl,23,8,0,160,302,275,11,0,,0,0,0,0,1
+QWILY,Great Tusk,2,4,0,27,131,31,3,0,,0,0,0,1,1
+QWILY,Samurott-Hisui,0,1,0,0,0,0,0,0,,0,0,1,0,1
+QWILY,Slowking-Galar,15,14,1,25,234,222,9,0,,0,0,0,0,1
+QWILY,Zapdos,9,6,0,285,168,144,2,0,,0,0,0,0,1
+Lucians Call,Cinderace,10,6,0,120,45,0,1,0,,1,1,0,0,0
+Lucians Call,Corviknight,7,5,0,0,325,257,8,0,,1,1,0,0,0
+Lucians Call,Dragapult,4,5,0,62,92,0,1,0,,1,1,0,0,0
+Lucians Call,Great Tusk,2,5,0,110,100,0,4,0,,1,1,0,1,0
+Lucians Call,Iron Hands,10,9,1,212,100,0,3,1,Fairy,1,1,1,1,0
+Lucians Call,Toxapex,12,10,0,177,566,554,11,0,,1,1,0,0,0
+McMeghan,Dragonite,4,1,1,183,100,0,2,1,Normal,1,1,0,1,1
+McMeghan,Enamorus,2,1,1,49,100,0,1,0,,1,1,0,1,1
+McMeghan,Great Tusk,1,1,0,0,106,6,2,0,,1,1,0,1,1
+McMeghan,Kingambit,3,1,3,74,37,13,1,0,,1,1,0,0,1
+McMeghan,Slowking-Galar,1,1,1,17,12,0,0,0,,1,1,0,1,1
+McMeghan,Zamazenta,6,2,0,239,124,24,4,0,,1,1,1,1,1
+Xrn,Baxcalibur,1,1,0,38,100,0,2,0,,1,0,0,1,0
+Xrn,Gholdengo,4,2,3,225,100,0,4,0,,1,0,0,1,0
+Xrn,Glimmora,0,2,0,0,100,0,2,0,,1,0,0,1,0
+Xrn,Iron Valiant,2,1,1,62,100,0,2,0,,1,0,0,1,0
+Xrn,Kingambit,3,2,0,97,100,0,2,1,Flying,1,0,0,1,0
+Xrn,Samurott-Hisui,1,2,0,9,100,0,2,0,,1,0,1,1,0
+Quartos,Enamorus-Therian,7,1,0,76,172,72,4,1,Water,1,1,0,1,0
+Quartos,Great Tusk,4,1,1,75,100,0,3,0,,1,1,0,1,0
+Quartos,Grimmsnarl,12,5,0,0,106,6,4,0,,1,1,1,1,0
+Quartos,Kingambit,4,6,3,104,106,6,4,0,,1,1,0,1,0
+Quartos,Rillaboom,7,5,0,214,149,49,5,0,,1,1,0,1,0
+Quartos,Sneasler,9,2,1,167,124,24,2,0,,1,1,0,1,0
+Electric win,Corviknight,5,2,1,53,100,0,4,0,,1,0,0,1,1
+Electric win,Garganacl,2,2,0,12,119,19,2,0,,1,0,0,1,1
+Electric win,Great Tusk,1,2,1,6,107,7,3,0,,1,0,0,1,1
+Electric win,Heatran,10,6,2,137,0,0,2,0,,1,0,0,0,1
+Electric win,Slowking-Galar,8,9,0,0,217,117,6,1,Flying,1,0,0,1,1
+Electric win,Sneasler,10,6,2,288,112,12,2,0,,1,0,1,1,1
+SAMQIAN 9000,Cinderace,2,1,0,15,0,0,0,0,,1,0,0,0,0
+SAMQIAN 9000,Enamorus,0,1,0,0,100,0,1,0,,1,0,1,1,0
+SAMQIAN 9000,Great Tusk,3,3,1,127,100,0,3,0,,1,0,0,1,0
+SAMQIAN 9000,Iron Valiant,1,1,0,0,100,0,2,1,Dark,1,0,0,1,0
+SAMQIAN 9000,Kingambit,4,5,0,150,100,0,4,0,,1,0,0,1,0
+SAMQIAN 9000,Slowking-Galar,2,3,0,39,129,29,5,0,,1,0,0,1,0
+Floss,Amoonguss,0,1,0,0,38,0,1,0,,1,1,0,0,1
+Floss,Dragapult,3,3,1,156,0,0,0,1,Ghost,1,1,1,0,1
+Floss,Great Tusk,2,3,0,67,60,0,1,0,,1,1,0,0,1
+Floss,Heatran,5,1,1,75,82,38,2,0,,1,1,0,0,1
+Floss,Hoopa-Unbound,0,1,0,0,100,0,1,0,,1,1,0,1,1
+Floss,Zapdos,7,4,3,189,84,0,2,0,,1,1,0,0,1
+0ne last kiss♪,Dondozo,1,2,1,0,52,0,2,0,,0,0,0,0,1
+0ne last kiss♪,Dragapult,0,0,0,0,0,0,0,0,,0,0,0,0,1
+0ne last kiss♪,Enamorus-Therian,0,1,0,0,0,0,0,0,,0,0,0,0,1
+0ne last kiss♪,Great Tusk,2,3,0,99,100,0,2,0,,0,0,1,1,1
+0ne last kiss♪,Kingambit,1,1,0,30,31,13,1,0,,0,0,0,0,1
+0ne last kiss♪,Toxapex,1,1,0,56,72,0,2,0,,0,0,0,0,1
+Gum Pop,Baxcalibur,0,0,0,0,0,0,0,0,,1,1,0,0,0
+Gum Pop,Gholdengo,2,2,0,112,0,0,0,0,,1,1,0,0,0
+Gum Pop,Great Tusk,0,1,0,0,30,0,1,0,,1,1,0,0,0
+Gum Pop,Iron Moth,5,1,1,132,81,0,1,1,Ground,1,1,0,0,0
+Gum Pop,Iron Valiant,0,0,0,0,0,0,0,0,,1,1,0,0,0
+Gum Pop,Samurott-Hisui,1,1,0,11,100,0,1,0,,1,1,1,1,0
+Ahsan-219,Amoonguss,1,4,0,50,135,35,2,0,,0,0,1,1,0
+Ahsan-219,Cinderace,2,2,0,42,100,0,1,0,,0,0,0,1,0
+Ahsan-219,Corviknight,5,3,0,77,169,69,6,0,,0,0,0,1,0
+Ahsan-219,Garchomp,2,2,0,33,100,0,2,0,,0,0,0,1,0
+Ahsan-219,Hoopa-Unbound,1,1,0,35,12,0,0,0,,0,0,0,0,0
+Ahsan-219,Iron Thorns,0,0,0,0,0,0,0,0,,0,0,0,0,0
+Aberforth,Azumarill,4,1,3,188,104,25,2,1,Water,1,1,0,0,1
+Aberforth,Great Tusk,2,1,1,57,62,0,1,0,,1,1,0,0,1
+Aberforth,Iron Valiant,1,1,0,39,0,0,0,0,,1,1,0,0,1
+Aberforth,Kingambit,0,1,0,0,0,0,0,0,,1,1,0,0,1
+Aberforth,Slowking-Galar,2,3,0,0,112,66,2,0,,1,1,0,0,1
+Aberforth,Zapdos,8,2,0,187,0,0,0,0,,1,1,1,0,1
+Starfire Scarlet,Dragonite,4,1,2,200,100,0,2,0,,1,0,0,1,1
+Starfire Scarlet,Gholdengo,2,1,2,129,0,0,0,1,Fighting,1,0,0,0,1
+Starfire Scarlet,Iron Moth,3,1,2,142,100,0,3,0,,1,0,0,1,1
+Starfire Scarlet,Iron Valiant,2,1,0,34,100,0,1,0,,1,0,0,1,1
+Starfire Scarlet,Kingambit,0,0,0,0,0,0,0,0,,1,0,0,0,1
+Starfire Scarlet,Samurott-Hisui,1,1,0,33,100,0,2,0,,1,0,1,1,1
+DugZaッ,Baxcalibur,1,1,0,52,100,0,1,0,,1,1,0,1,0
+DugZaッ,Dragapult,0,1,0,0,100,0,1,0,,1,1,0,1,0
+DugZaッ,Gholdengo,1,2,1,100,100,0,2,1,Dark,1,1,0,1,0
+DugZaッ,Iron Valiant,1,1,0,43,100,0,1,0,,1,1,0,1,0
+DugZaッ,Kingambit,2,3,2,49,112,12,1,0,,1,1,0,1,0
+DugZaッ,Samurott-Hisui,3,2,1,156,100,0,3,0,,1,1,1,1,0
+Xrn,Cinderace,7,5,1,135,156,56,3,0,,1,0,1,1,0
+Xrn,Dondozo,4,4,0,26,332,232,9,0,,1,0,0,1,0
+Xrn,Dragonite,2,2,2,162,12,0,2,1,Flying,1,0,0,1,0
+Xrn,Great Tusk,1,1,1,28,100,0,2,0,,1,0,0,1,0
+Xrn,Kingambit,4,3,0,167,130,30,3,0,,1,0,0,1,0
+Xrn,Scream Tail,15,5,1,48,386,286,9,0,,1,0,0,1,0
+eternally,Azumarill,13,3,0,364,100,0,2,0,,1,1,0,1,1
+eternally,Dragapult,2,3,0,0,100,0,3,0,,1,1,0,1,1
+eternally,Iron Valiant,4,3,1,112,100,0,1,0,,1,1,0,1,1
+eternally,Kingambit,14,6,4,312,106,77,2,1,Water,1,1,0,0,1
+eternally,Landorus-Therian,4,4,0,74,100,0,3,0,,1,1,0,1,1
+eternally,Meowscarada,2,2,0,54,100,0,2,0,,1,1,1,1,1
+damien the genius,Azumarill,4,1,1,170,125,25,4,1,Water,1,1,0,1,0
+damien the genius,Great Tusk,3,4,0,38,100,0,6,0,,1,1,0,1,0
+damien the genius,Iron Valiant,2,5,0,49,100,0,3,0,,1,1,0,1,0
+damien the genius,Kingambit,2,3,0,57,118,18,4,0,,1,1,0,1,0
+damien the genius,Slowking-Galar,8,9,1,103,155,55,5,0,,1,1,0,1,0
+damien the genius,Zapdos,15,9,0,233,257,157,8,0,,1,1,1,1,0
+Garay oak,Amoonguss,6,8,0,127,160,68,6,0,,1,0,1,0,1
+Garay oak,Dragapult,2,2,0,84,100,0,2,0,,1,0,0,1,1
+Garay oak,Enamorus,1,5,0,0,47,0,1,0,,1,0,0,1,1
+Garay oak,Great Tusk,18,7,6,453,245,158,7,1,Water,1,0,0,0,1
+Garay oak,Magnezone,5,5,0,132,32,0,3,0,,1,0,0,0,1
+Garay oak,Samurott-Hisui,1,3,0,17,100,0,1,0,,1,0,0,1,1
+mimilimi,Enamorus,9,3,0,151,136,36,2,1,Ground,1,1,0,1,1
+mimilimi,Gholdengo,3,1,1,104,100,0,2,0,,1,1,0,1,1
+mimilimi,Glimmora,1,1,0,0,100,0,2,0,,1,1,1,1,1
+mimilimi,Iron Valiant,3,1,2,113,57,0,1,0,,1,1,0,0,1
+mimilimi,Kingambit,2,2,1,57,107,7,2,0,,1,1,0,1,1
+mimilimi,Roaring Moon,5,1,2,188,100,0,4,0,,1,1,0,1,1
+fatfighter2,Gholdengo,1,1,0,57,100,0,1,0,,1,0,0,1,0
+fatfighter2,Great Tusk,4,2,2,239,127,27,3,0,,1,0,0,1,0
+fatfighter2,Iron Valiant,2,2,1,100,100,0,1,0,,1,0,1,1,0
+fatfighter2,Rotom-Wash,5,5,1,68,124,24,3,0,,1,0,0,1,0
+fatfighter2,Slowking-Galar,4,3,1,88,133,33,3,1,Grass,1,0,0,1,0
+fatfighter2,Ting-Lu,1,2,0,0,120,20,3,0,,1,0,0,1,0
+Joeshh,Baxcalibur,3,1,1,116,69,0,2,1,Poison,1,0,0,0,1
+Joeshh,Enamorus,0,1,0,0,100,0,1,0,,1,0,0,1,1
+Joeshh,Gholdengo,2,2,0,127,0,0,1,0,,1,0,0,0,1
+Joeshh,Glimmora,2,1,0,12,100,0,2,0,,1,0,1,1,1
+Joeshh,Great Tusk,5,1,3,208,100,0,3,0,,1,0,0,1,1
+Joeshh,Greninja,4,2,1,88,100,0,3,0,,1,0,0,1,1
+GABIBBO VGC,Dragonite,3,3,1,41,100,0,2,0,,1,1,0,1,0
+GABIBBO VGC,Gholdengo,3,2,1,167,100,0,2,0,,1,1,1,1,0
+GABIBBO VGC,Great Tusk,1,1,0,25,100,0,2,0,,1,1,0,1,0
+GABIBBO VGC,Iron Valiant,3,2,1,136,98,0,2,1,Steel,1,1,0,0,0
+GABIBBO VGC,Samurott-Hisui,3,1,0,33,100,0,5,0,,1,1,0,1,0
+GABIBBO VGC,Tornadus-Therian,2,2,1,29,133,33,2,0,,1,1,0,1,0
+Luispeikou,Corviknight,6,5,0,143,125,25,3,0,,0,0,0,1,1
+Luispeikou,Garganacl,26,5,0,231,415,404,12,0,,0,0,0,0,1
+Luispeikou,Great Tusk,5,1,1,84,134,34,3,0,,0,0,0,1,1
+Luispeikou,Heatran,8,5,2,136,164,76,5,0,,0,0,0,0,1
+Luispeikou,Slowking-Galar,16,7,2,161,299,199,9,0,,0,0,0,1,1
+Luispeikou,Sneasler,20,12,1,403,59,0,0,0,,0,0,1,0,1
+KillaLeston,Baxcalibur,6,4,2,287,100,0,1,0,,1,1,0,1,0
+KillaLeston,Cinderace,3,4,0,49,100,0,3,0,,1,1,0,1,0
+KillaLeston,Great Tusk,5,8,0,59,100,0,6,0,,1,1,0,1,0
+KillaLeston,Roaring Moon,11,9,1,100,392,292,9,1,Fairy,1,1,0,1,0
+KillaLeston,Slowking-Galar,35,16,0,441,803,703,34,0,,1,1,0,1,0
+KillaLeston,Zapdos,4,4,0,54,150,50,6,0,,1,1,1,1,0
+Fusien,Dragapult,5,3,2,173,100,0,2,0,,1,0,1,1,1
+Fusien,Dragonite,15,5,2,110,88,59,8,0,,1,0,0,0,1
+Fusien,Gholdengo,18,8,0,230,420,391,13,1,Ghost,1,0,0,0,1
+Fusien,Great Tusk,4,6,1,64,100,0,5,0,,1,0,0,1,1
+Fusien,Samurott-Hisui,3,3,0,93,100,0,2,0,,1,0,0,1,1
+Fusien,Ting-Lu,4,5,1,23,46,25,5,0,,1,0,0,0,1
+njnp,Garganacl,22,8,1,165,538,438,12,1,Water,1,1,0,1,0
+njnp,Great Tusk,11,6,0,112,186,86,6,0,,1,1,0,1,0
+njnp,Slowking-Galar,5,4,0,21,201,101,6,0,,1,1,0,1,0
+njnp,Sneasler,4,4,1,42,100,0,0,0,,1,1,1,1,0
+njnp,Ting-Lu,5,3,0,112,136,36,3,0,,1,1,0,1,0
+njnp,Zapdos,5,4,1,16,146,46,4,0,,1,1,0,1,0
+avarice,Dragapult,8,3,2,275,148,48,2,0,,1,1,0,1,1
+avarice,Enamorus,6,2,1,182,138,38,2,1,Ground,1,1,0,1,1
+avarice,Glimmora,2,1,0,5,100,0,3,0,,1,1,1,1,1
+avarice,Iron Moth,2,1,0,66,100,0,1,0,,1,1,0,1,1
+avarice,Iron Valiant,2,1,0,63,100,0,2,0,,1,1,0,1,1
+avarice,Kingambit,4,1,3,95,91,0,2,0,,1,1,0,0,1
+Lily,Cinderace,3,2,0,110,100,0,2,0,,1,0,0,1,0
+Lily,Garganacl,7,4,1,69,199,99,8,1,Water,1,0,0,1,0
+Lily,Great Tusk,4,1,2,168,124,24,4,0,,1,0,0,1,0
+Lily,Hoopa-Unbound,1,1,1,76,100,0,3,0,,1,0,0,1,0
+Lily,Scream Tail,2,1,0,0,112,12,2,0,,1,0,0,1,0
+Lily,Zapdos,4,2,1,100,100,0,3,0,,1,0,1,1,0
+70to90gxe,Baxcalibur,4,2,1,119,100,0,1,0,,1,0,1,1,0
+70to90gxe,Dondozo,1,1,1,32,0,0,0,0,,1,0,0,1,0
+70to90gxe,Iron Valiant,1,1,0,22,100,0,1,0,,1,0,0,1,0
+70to90gxe,Kingambit,5,1,1,175,100,0,3,1,Flying,1,0,0,1,0
+70to90gxe,Ting-Lu,2,1,1,59,100,0,2,0,,1,0,0,1,0
+70to90gxe,Zapdos,1,1,0,68,100,0,2,0,,1,0,0,1,0
+oldspicemike,Great Tusk,5,1,1,76,100,0,3,0,,1,1,0,1,1
+oldspicemike,Iron Moth,0,1,0,0,0,0,0,0,,1,1,0,0,1
+oldspicemike,Iron Valiant,4,1,1,100,100,0,2,0,,1,1,0,1,1
+oldspicemike,Kingambit,4,1,2,277,100,0,5,1,Fairy,1,1,0,1,1
+oldspicemike,Meowscarada,2,1,0,0,100,0,2,0,,1,1,1,1,1
+oldspicemike,Roaring Moon,1,1,1,35,75,0,1,0,,1,1,0,0,1
+mind gaming,Baxcalibur,5,3,3,177,74,43,1,0,,1,0,0,0,1
+mind gaming,Cinderace,3,1,1,68,100,0,3,0,,1,0,0,1,1
+mind gaming,Enamorus,3,2,1,102,100,0,2,0,,1,0,0,1,1
+mind gaming,Great Tusk,3,3,0,124,100,0,1,1,Steel,1,0,1,1,1
+mind gaming,Kingambit,3,1,1,98,119,19,2,0,,1,0,0,1,1
+mind gaming,Slowking-Galar,2,1,0,0,37,0,2,0,,1,0,0,0,1
+Finchinator,Baxcalibur,4,1,2,159,100,0,3,1,Fairy,1,1,0,1,0
+Finchinator,Gholdengo,3,1,1,140,100,0,3,0,,1,1,0,1,0
+Finchinator,Iron Valiant,2,2,0,37,100,0,1,0,,1,1,0,1,0
+Finchinator,Sneasler,1,2,0,0,100,0,1,0,,1,1,0,1,0
+Finchinator,Ting-Lu,5,1,0,54,100,0,4,0,,1,1,1,1,0
+Finchinator,Walking Wake,1,1,1,59,100,0,2,0,,1,1,0,1,0
+Skypenguin,Gholdengo,1,1,0,0,100,0,2,0,,1,1,0,1,0
+Skypenguin,Glimmora,1,2,0,0,100,0,2,0,,1,1,1,1,0
+Skypenguin,Great Tusk,8,1,3,280,100,0,4,1,Ice,1,1,0,1,0
+Skypenguin,Iron Valiant,2,1,0,51,100,0,1,0,,1,1,0,1,0
+Skypenguin,Kingambit,2,3,0,71,118,18,2,0,,1,1,0,1,0
+Skypenguin,Walking Wake,5,3,1,151,100,0,3,0,,1,1,0,1,0
+MichaelderBeste2,Baxcalibur,1,1,0,22,106,6,2,0,,1,0,0,1,1
+MichaelderBeste2,Cinderace,6,3,2,222,71,0,1,0,,1,0,0,0,1
+MichaelderBeste2,Enamorus,1,1,0,61,100,0,1,0,,1,0,0,1,1
+MichaelderBeste2,Great Tusk,3,1,0,10,100,0,2,1,Steel,1,0,0,1,1
+MichaelderBeste2,Kingambit,4,4,2,45,102,7,2,0,,1,0,0,0,1
+MichaelderBeste2,Slowking-Galar,6,3,2,228,100,0,3,0,,1,0,1,1,1
+M Dragon,Alomomola,3,3,1,17,157,57,2,0,,0,0,0,1,0
+M Dragon,Blissey,16,1,0,156,345,245,11,0,,0,0,0,1,0
+M Dragon,Dondozo,0,1,0,0,100,0,1,0,,0,0,0,1,0
+M Dragon,Ting-Lu,4,2,1,172,100,0,3,0,,0,0,1,1,0
+M Dragon,Toxapex,0,1,0,0,100,0,1,0,,0,0,0,1,0
+M Dragon,Zapdos,1,1,0,13,100,0,1,0,,0,0,0,1,0
+Eoward,Dragapult,5,1,1,24,100,0,4,0,,1,1,0,1,1
+Eoward,Glimmora,2,1,0,26,100,0,2,0,,1,1,1,1,1
+Eoward,Hatterene,21,1,5,745,183,148,7,1,Water,1,1,0,0,1
+Eoward,Iron Valiant,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Eoward,Moltres-Galar,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Eoward,Sneasler,1,1,0,33,0,0,0,0,,1,1,0,0,1
+kythr,Baxcalibur,0,0,0,0,0,0,0,0,,1,1,0,0,0
+kythr,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,0
+kythr,Kingambit,9,3,2,323,138,38,4,1,Flying,1,1,1,1,0
+kythr,Samurott-Hisui,0,3,0,0,100,0,3,0,,1,1,0,1,0
+kythr,Slowking-Galar,4,4,0,0,108,72,3,0,,1,1,0,0,0
+kythr,Zapdos,5,3,2,124,100,0,2,0,,1,1,0,1,0
+carkoala,Dragapult,4,1,0,31,112,12,2,0,,1,0,0,1,1
+carkoala,Grimmsnarl,4,2,0,0,100,0,3,0,,1,0,1,1,1
+carkoala,Hatterene,13,1,3,314,104,104,2,1,Water,1,0,0,0,1
+carkoala,Kingambit,0,0,0,0,0,0,0,0,,1,0,0,0,1
+carkoala,Rillaboom,1,2,0,14,100,0,2,0,,1,0,0,1,1
+carkoala,Sneasler,2,1,0,55,106,6,2,0,,1,0,0,1,1
+watashi,Dragapult,2,3,1,48,100,0,1,0,,1,0,0,1,0
+watashi,Great Tusk,4,2,3,106,129,29,4,1,Water,1,0,0,1,0
+watashi,Heatran,2,2,0,35,100,0,2,0,,1,0,1,1,0
+watashi,Meowscarada,1,1,0,38,100,0,1,0,,1,0,0,1,0
+watashi,Thundurus-Therian,0,1,0,0,100,0,1,0,,1,0,0,1,0
+watashi,Toxapex,3,5,1,95,219,119,7,0,,1,0,0,1,0
+Lily,Floatzel,2,1,1,114,100,0,1,1,Water,1,1,0,1,1
+Lily,Kilowattrel,2,1,1,140,100,0,1,0,,1,1,0,1,1
+Lily,Kingambit,1,1,1,13,6,0,0,0,,1,1,0,0,1
+Lily,Overqwil,3,1,1,146,100,0,3,0,,1,1,0,1,1
+Lily,Pelipper,4,3,0,68,100,0,2,0,,1,1,1,1,1
+Lily,Walking Wake,6,2,2,267,100,0,4,0,,1,1,0,1,1
+Wanony,Dragapult,4,4,3,194,100,0,2,0,,1,1,0,1,0
+Wanony,Great Tusk,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Wanony,Iron Valiant,2,1,1,169,100,0,1,1,Dark,1,1,0,1,0
+Wanony,Samurott-Hisui,2,2,0,8,100,0,3,0,,1,1,0,1,0
+Wanony,Scizor,1,1,0,31,100,0,1,0,,1,1,0,1,0
+Wanony,Zapdos,2,2,1,100,100,0,2,0,,1,1,1,1,0
+freezai,Dragapult,4,2,1,56,124,24,1,0,,1,0,0,1,1
+freezai,Dragonite,2,1,1,137,100,0,2,0,,1,0,0,1,1
+freezai,Gholdengo,1,1,1,88,100,0,2,0,,1,0,0,1,1
+freezai,Iron Valiant,2,1,1,52,100,0,2,0,,1,0,0,1,1
+freezai,Kingambit,3,2,2,90,63,0,1,1,Flying,1,0,0,0,1
+freezai,Samurott-Hisui,1,1,0,48,100,0,2,0,,1,0,1,1,1
+TFG Spec╪ear,Amoonguss,1,2,1,7,100,0,2,0,,1,1,0,1,0
+TFG Spec╪ear,Garchomp,1,2,0,0,100,0,2,0,,1,1,1,1,0
+TFG Spec╪ear,Great Tusk,2,1,0,88,100,0,3,0,,1,1,0,1,0
+TFG Spec╪ear,Iron Valiant,3,3,1,117,100,0,1,1,Fairy,1,1,0,1,0
+TFG Spec╪ear,Kingambit,4,3,1,39,130,30,3,0,,1,1,0,1,0
+TFG Spec╪ear,Thundurus-Therian,3,3,0,78,100,0,3,0,,1,1,0,1,0
+Raiza,Dragapult,3,2,1,134,100,0,2,1,Ghost,1,0,1,1,1
+Raiza,Dragonite,1,1,0,0,0,0,0,0,,1,0,0,0,1
+Raiza,Gholdengo,4,4,2,198,42,0,1,0,,1,0,0,0,1
+Raiza,Great Tusk,3,2,1,67,100,0,3,0,,1,0,0,1,1
+Raiza,Samurott-Hisui,1,1,1,22,12,0,0,0,,1,0,0,0,1
+Raiza,Ting-Lu,4,1,1,128,126,26,5,0,,1,0,0,1,1
+Redemption,Amoonguss,2,2,0,25,134,34,3,0,,1,1,0,1,1
+Redemption,Basculegion-F,3,1,1,82,100,0,2,0,,1,1,0,1,1
+Redemption,Baxcalibur,3,1,0,127,100,0,1,0,,1,1,0,1,1
+Redemption,Great Tusk,3,2,1,101,118,18,2,0,,1,1,0,1,1
+Redemption,Kingambit,4,1,2,200,118,18,3,1,Fairy,1,1,0,1,1
+Redemption,Pelipper,5,2,2,65,56,0,1,0,,1,1,1,0,1
+CHRI$TIAN DIOR,Baxcalibur,6,2,3,196,100,0,4,0,,1,0,0,1,0
+CHRI$TIAN DIOR,Gholdengo,1,1,1,100,100,0,3,0,,1,0,0,1,0
+CHRI$TIAN DIOR,Iron Valiant,1,1,0,19,100,0,2,1,Steel,1,0,0,1,0
+CHRI$TIAN DIOR,Sneasler,1,1,0,66,100,0,1,0,,1,0,0,1,0
+CHRI$TIAN DIOR,Ting-Lu,2,2,0,0,100,0,4,0,,1,0,1,1,0
+CHRI$TIAN DIOR,Walking Wake,4,3,1,142,100,0,4,0,,1,0,0,1,0
+sunsetss,Dragapult,2,3,0,14,100,0,1,0,,0,0,1,1,0
+sunsetss,Great Tusk,0,1,0,0,100,0,3,0,,0,0,0,1,0
+sunsetss,Hoopa-Unbound,3,3,0,96,100,0,3,0,,0,0,0,1,0
+sunsetss,Iron Valiant,1,1,0,0,100,0,1,0,,0,0,0,1,0
+sunsetss,Kingambit,4,4,1,162,100,0,5,0,,0,0,0,1,0
+sunsetss,Moltres,11,5,2,191,148,48,4,0,,0,0,0,1,0
+Kebab mlml,Baxcalibur,7,1,2,288,100,0,2,0,,0,0,0,1,1
+Kebab mlml,Garganacl,0,1,0,0,12,7,1,0,,0,0,0,0,1
+Kebab mlml,Great Tusk,6,3,2,96,100,0,3,0,,0,0,0,1,1
+Kebab mlml,Iron Valiant,2,1,2,97,0,0,0,0,,0,0,0,0,1
+Kebab mlml,Moltres,2,2,0,0,144,44,4,0,,0,0,1,1,1
+Kebab mlml,Rotom-Wash,6,4,0,81,120,29,5,0,,0,0,0,0,1
+Sylveon is so cute,Baxcalibur,4,1,2,208,100,0,2,0,,1,0,0,1,0
+Sylveon is so cute,Dragapult,6,2,0,0,100,0,3,0,,1,0,0,1,0
+Sylveon is so cute,Glimmora,3,1,0,38,100,0,3,0,,1,0,1,1,0
+Sylveon is so cute,Moltres-Galar,1,1,1,72,100,0,2,1,Ghost,1,0,0,1,0
+Sylveon is so cute,Roaring Moon,4,1,1,110,100,0,4,0,,1,0,0,1,0
+Sylveon is so cute,Sneasler,1,1,0,28,100,0,2,0,,1,0,0,1,0
+Hayburner,Dragonite,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Hayburner,Great Tusk,4,2,0,66,114,14,3,0,,1,1,0,1,1
+Hayburner,Iron Valiant,4,1,2,177,100,0,2,1,Ghost,1,1,0,1,1
+Hayburner,Kingambit,1,1,1,59,32,0,1,0,,1,1,0,0,1
+Hayburner,Slowking-Galar,2,3,0,59,138,38,2,0,,1,1,0,1,1
+Hayburner,Zapdos,9,6,3,161,100,0,2,0,,1,1,1,1,1
+Xen『QT』,Cinderace,8,5,0,58,58,0,1,0,,1,0,0,0,1
+Xen『QT』,Dragonite,1,3,0,45,100,0,3,0,,1,0,0,1,1
+Xen『QT』,Gholdengo,10,7,4,229,111,89,5,1,Water,1,0,0,0,1
+Xen『QT』,Great Tusk,7,4,0,67,152,52,8,0,,1,0,0,1,1
+Xen『QT』,Ting-Lu,1,2,0,49,68,0,3,0,,1,0,0,0,1
+Xen『QT』,Zapdos,11,7,1,189,236,136,6,0,,1,0,1,1,1
+vaboh,Cinderace,9,4,0,153,100,0,4,0,,1,1,0,1,0
+vaboh,Garganacl,7,8,0,5,290,290,9,1,Fairy,1,1,1,0,0
+vaboh,Gholdengo,4,3,1,131,100,0,2,0,,1,1,0,1,0
+vaboh,Great Tusk,5,5,1,90,117,17,6,0,,1,1,0,1,0
+vaboh,Hoopa-Unbound,4,4,1,86,121,21,3,0,,1,1,0,1,0
+vaboh,Rotom-Wash,5,5,0,148,100,0,5,0,,1,1,0,1,0
+Dasmer03,Dragonite,3,2,2,45,50,0,1,1,Normal,1,1,0,0,1
+Dasmer03,Great Tusk,12,5,0,140,192,92,8,0,,1,1,0,1,1
+Dasmer03,Kingambit,19,6,2,664,114,14,1,0,,1,1,0,1,1
+Dasmer03,Landorus-Therian,32,7,0,438,324,224,2,0,,1,1,1,1,1
+Dasmer03,Skeledirge,3,1,1,34,100,0,2,0,,1,1,0,1,1
+Dasmer03,Slowking-Galar,24,13,0,123,200,155,8,0,,1,1,0,0,1
+myjava,Dondozo,46,10,1,161,583,483,24,0,,1,0,0,1,0
+myjava,Enamorus,1,4,0,0,0,0,0,0,,1,0,0,1,0
+myjava,Great Tusk,11,4,1,181,135,35,7,0,,1,0,1,1,0
+myjava,Heatran,12,9,1,151,253,153,8,1,Grass,1,0,0,1,0
+myjava,Roaring Moon,15,2,0,14,498,398,14,0,,1,0,0,1,0
+myjava,Slowking-Galar,7,8,1,52,148,48,4,0,,1,0,0,1,0
+xdRudi.exe,Amoonguss,2,2,0,0,126,26,4,0,,1,0,0,1,0
+xdRudi.exe,Enamorus,3,5,1,110,100,0,1,0,,1,0,0,1,0
+xdRudi.exe,Great Tusk,3,2,0,130,100,0,1,0,,1,0,1,1,0
+xdRudi.exe,Heatran,7,2,1,59,148,48,6,1,Grass,1,0,0,1,0
+xdRudi.exe,Hoopa-Unbound,2,3,2,103,100,0,1,0,,1,0,0,1,0
+xdRudi.exe,Zapdos,2,2,0,60,100,0,3,0,,1,0,0,1,0
+starmaster,Cinderace,0,2,0,0,100,0,1,0,,1,1,0,1,1
+starmaster,Kingambit,1,1,1,1,6,0,0,0,,1,1,0,0,1
+starmaster,Landorus-Therian,3,3,1,108,124,24,4,0,,1,1,0,1,1
+starmaster,Rotom-Wash,4,1,0,26,67,19,1,0,,1,1,1,0,1
+starmaster,Slowking-Galar,6,4,0,65,128,28,5,0,,1,1,0,1,1
+starmaster,Zamazenta,8,4,4,315,100,0,1,1,Fighting,1,1,0,1,1
+LLLiolae,Dragapult,6,6,0,69,100,0,3,0,,1,1,1,1,1
+LLLiolae,Enamorus,2,4,1,100,0,0,1,1,Fire,1,1,0,0,1
+LLLiolae,Great Tusk,6,5,0,96,100,0,4,0,,1,1,0,1,1
+LLLiolae,Hoopa-Unbound,5,3,1,234,79,0,1,0,,1,1,0,0,1
+LLLiolae,Kingambit,8,4,4,284,67,0,4,0,,1,1,0,0,1
+LLLiolae,Slowking-Galar,1,1,0,0,7,6,1,0,,1,1,0,0,1
+quixana,Amoonguss,6,10,1,124,314,214,8,0,,1,0,1,1,0
+quixana,Cinderace,2,3,0,23,100,0,2,0,,1,0,0,1,0
+quixana,Garganacl,1,5,0,1,132,32,5,1,Water,1,0,0,1,0
+quixana,Iron Valiant,1,1,0,79,100,0,2,0,,1,0,0,1,0
+quixana,Kingambit,4,5,1,84,156,56,4,0,,1,0,0,1,0
+quixana,Landorus-Therian,4,4,0,8,136,36,3,0,,1,0,0,1,0
+stareal,Cinderace,1,2,0,22,100,0,2,0,,1,1,0,1,0
+stareal,Dragapult,10,7,3,196,100,0,2,0,,1,1,1,1,0
+stareal,Great Tusk,5,6,0,78,44,29,1,0,,1,1,0,0,0
+stareal,Kingambit,1,3,1,100,100,0,2,0,,1,1,0,1,0
+stareal,Slowking-Galar,11,10,0,0,492,392,14,1,Water,1,1,0,1,0
+stareal,Zapdos,5,5,0,94,150,50,5,0,,1,1,0,1,0
+Jytcampbell,Dragapult,3,4,1,74,100,0,2,0,,1,0,0,1,1
+Jytcampbell,Garganacl,11,8,1,41,179,179,4,0,,1,0,1,0,1
+Jytcampbell,Great Tusk,4,6,1,115,10,10,0,0,,1,0,0,0,1
+Jytcampbell,Hoopa-Unbound,8,3,1,273,100,0,3,0,,1,0,0,1,1
+Jytcampbell,Skeledirge,5,1,1,151,100,0,2,1,Fairy,1,0,0,1,1
+Jytcampbell,Zapdos,4,5,0,61,146,46,4,0,,1,0,0,1,1
+DonSalvatore,Baxcalibur,3,1,1,153,58,0,1,0,,0,0,1,0,1
+DonSalvatore,Enamorus,10,2,3,295,0,0,1,0,,0,0,0,1,1
+DonSalvatore,Great Tusk,0,0,0,0,0,0,0,0,,0,0,0,0,1
+DonSalvatore,Kingambit,3,1,0,13,112,12,2,0,,0,0,0,1,1
+DonSalvatore,Slowking-Galar,4,3,0,41,117,17,3,0,,0,0,0,1,1
+DonSalvatore,Zamazenta,3,2,2,159,59,12,1,0,,0,0,0,0,1
+b1kharma,Dragapult,3,1,0,0,100,0,2,0,,1,1,0,1,0
+b1kharma,Enamorus-Therian,14,2,1,129,161,61,9,1,Steel,1,1,0,1,0
+b1kharma,Glimmora,1,1,0,58,100,0,2,0,,1,1,1,1,0
+b1kharma,Iron Valiant,1,2,0,0,100,0,1,0,,1,1,0,1,0
+b1kharma,Kingambit,0,1,0,0,100,0,1,0,,1,1,0,1,0
+b1kharma,Walking Wake,3,1,1,159,100,0,3,0,,1,1,0,1,0
+Fc ❤,Dragapult,4,3,2,106,100,0,3,0,,1,1,0,1,0
+Fc ❤,Garganacl,19,8,1,68,563,463,16,0,,1,1,0,1,0
+Fc ❤,Great Tusk,18,11,0,289,132,32,7,0,,1,1,0,1,0
+Fc ❤,Scizor,6,6,1,137,150,50,5,0,,1,1,0,1,0
+Fc ❤,Volcanion,2,1,0,47,100,0,1,1,Fairy,1,1,0,1,0
+Fc ❤,Zapdos,10,9,0,152,138,38,7,0,,1,1,1,1,0
+Malekith,Amoonguss,18,7,1,519,289,189,12,0,,1,0,0,1,1
+Malekith,Enamorus,5,6,0,144,92,0,3,0,,1,0,1,1,1
+Malekith,Garganacl,2,6,0,10,151,51,6,0,,1,0,0,1,1
+Malekith,Great Tusk,12,10,0,89,132,32,9,0,,1,0,0,1,1
+Malekith,Kingambit,7,7,4,284,199,114,7,1,Flying,1,0,0,0,1
+Malekith,Zamazenta,6,2,1,83,107,7,5,0,,1,0,0,1,1
+Heroic Verse,Gholdengo,1,1,1,24,43,0,2,0,,1,1,0,0,1
+Heroic Verse,Glimmora,1,2,0,76,100,0,3,0,,1,1,1,1,1
+Heroic Verse,Great Tusk,3,1,2,158,100,0,2,0,,1,1,0,1,1
+Heroic Verse,Iron Valiant,7,3,2,274,100,0,2,1,Fire,1,1,0,1,1
+Heroic Verse,Kingambit,1,2,0,18,50,12,2,0,,1,1,0,0,1
+Heroic Verse,Walking Wake,1,1,1,50,100,0,1,0,,1,1,0,1,1
+ZDen,Dragapult,4,3,1,257,100,0,2,0,,1,0,1,1,0
+ZDen,Enamorus,0,1,0,0,100,0,1,0,,1,0,0,1,0
+ZDen,Gholdengo,2,1,0,75,100,0,3,1,Fairy,1,0,0,1,0
+ZDen,Great Tusk,3,2,2,2,100,0,4,0,,1,0,0,1,0
+ZDen,Samurott-Hisui,2,1,1,64,100,0,2,0,,1,0,0,1,0
+ZDen,Slowking-Galar,1,2,0,0,100,0,1,0,,1,0,0,1,0
+ATTRIBUTE,Dragapult,5,1,3,90,80,30,1,1,Steel,1,1,0,0,1
+ATTRIBUTE,Garganacl,5,1,0,2,73,69,2,0,,1,1,0,0,1
+ATTRIBUTE,Gholdengo,3,4,0,38,128,98,5,0,,1,1,0,0,1
+ATTRIBUTE,Great Tusk,4,1,0,55,100,0,4,0,,1,1,0,1,1
+ATTRIBUTE,Moltres,1,1,0,15,29,0,1,0,,1,1,0,0,1
+ATTRIBUTE,Ting-Lu,5,5,0,43,131,31,5,0,,1,1,1,1,1
+Kyo,Garganacl,3,2,0,16,119,19,1,1,Fairy,1,0,0,1,0
+Kyo,Great Tusk,5,2,0,72,81,6,3,0,,1,0,0,0,0
+Kyo,Heatran,8,5,1,129,100,0,2,0,,1,0,0,1,0
+Kyo,Iron Valiant,0,0,0,0,0,0,0,0,,1,0,0,0,0
+Kyo,Meowscarada,2,3,0,35,100,0,2,0,,1,0,1,1,0
+Kyo,Rotom-Wash,6,4,1,162,69,12,3,0,,1,0,0,0,0
+PikachuZappyZap,Gholdengo,3,3,1,80,150,50,2,0,,1,0,0,1,1
+PikachuZappyZap,Great Tusk,4,2,0,43,100,0,2,0,,1,0,0,1,1
+PikachuZappyZap,Hoopa-Unbound,5,4,3,120,100,0,0,0,,1,0,0,1,1
+PikachuZappyZap,Kingambit,2,2,1,47,46,13,1,0,,1,0,0,0,1
+PikachuZappyZap,Volcanion,10,5,1,290,100,0,4,1,Ground,1,0,0,1,1
+PikachuZappyZap,Zapdos,12,10,0,338,46,46,3,0,,1,0,1,0,1
+ABR,Corviknight,0,2,0,0,114,14,3,0,,1,1,0,1,0
+ABR,Garganacl,4,3,1,2,134,34,4,0,,1,1,0,1,0
+ABR,Great Tusk,6,6,0,46,147,47,3,0,,1,1,0,1,0
+ABR,Ting-Lu,3,3,0,60,131,31,4,1,Water,1,1,0,1,0
+ABR,Toxapex,7,8,1,2,454,354,10,0,,1,1,1,1,0
+ABR,Zamazenta,6,5,2,161,100,0,3,0,,1,1,0,1,0
+ninjadog,Cinderace,3,2,1,68,100,0,2,0,,1,1,1,1,1
+ninjadog,Garganacl,7,5,1,48,174,115,4,1,Water,1,1,0,0,1
+ninjadog,Great Tusk,4,2,0,113,100,0,3,0,,1,1,0,1,1
+ninjadog,Hoopa-Unbound,2,3,1,77,147,47,3,0,,1,1,0,1,1
+ninjadog,Scream Tail,3,2,0,0,39,39,1,0,,1,1,0,0,1
+ninjadog,Zapdos,20,4,3,410,337,237,8,0,,1,1,0,1,1
+Uzigunner,Amoonguss,10,5,0,184,183,83,6,1,Dark,1,0,0,1,0
+Uzigunner,Baxcalibur,4,5,0,119,100,0,4,0,,1,0,1,1,0
+Uzigunner,Great Tusk,6,6,1,198,107,7,5,0,,1,0,0,1,0
+Uzigunner,Iron Valiant,3,2,1,68,100,0,2,0,,1,0,0,1,0
+Uzigunner,Kingambit,4,2,2,125,100,0,3,0,,1,0,0,1,0
+Uzigunner,Slowking,2,2,0,0,183,83,5,0,,1,0,0,1,0
+McMeghan,Great Tusk,3,3,0,7,100,0,4,0,,1,0,0,1,0
+McMeghan,Kingambit,10,6,2,349,138,38,4,1,Fairy,1,0,0,1,0
+McMeghan,Slowking-Galar,11,10,0,45,288,188,6,0,,1,0,1,1,0
+McMeghan,Tornadus-Therian,18,8,0,178,333,234,6,0,,1,0,0,0,0
+McMeghan,Volcanion,7,4,1,179,100,0,1,0,,1,0,0,1,0
+McMeghan,Zamazenta,7,4,1,92,82,0,1,0,,1,0,0,0,0
+creature of steel,Dondozo,13,5,0,101,161,161,6,0,,1,1,0,0,1
+creature of steel,Great Tusk,1,1,0,11,100,0,1,0,,1,1,0,1,1
+creature of steel,Moltres,4,4,0,22,201,101,5,0,,1,1,0,1,1
+creature of steel,Muk-Alola,29,13,4,263,246,219,11,0,,1,1,1,0,1
+creature of steel,Rotom-Wash,4,4,0,38,137,37,5,0,,1,1,0,1,1
+creature of steel,Ting-Lu,4,2,0,49,100,0,4,1,Ghost,1,1,0,1,1
+crying,Amoonguss,3,5,0,64,183,83,4,0,,1,0,0,1,1
+crying,Dragonite,0,0,0,0,0,0,0,0,,1,0,0,0,1
+crying,Gholdengo,5,2,0,49,118,18,1,0,,1,0,0,1,1
+crying,Greninja,6,5,1,228,51,0,1,0,,1,0,0,0,1
+crying,Hydreigon,5,3,1,100,100,0,4,0,,1,0,1,1,1
+crying,Iron Valiant,3,1,2,86,0,0,0,1,Ghost,1,0,0,0,1
+Leo,Baxcalibur,1,1,0,96,57,0,1,0,,1,1,0,0,0
+Leo,Great Tusk,0,3,0,0,115,15,3,0,,1,1,0,1,0
+Leo,Iron Valiant,1,5,0,18,100,0,3,0,,1,1,0,1,0
+Leo,Kingambit,6,2,1,69,130,30,9,1,Fairy,1,1,0,1,0
+Leo,Rotom-Heat,2,2,0,28,100,0,4,0,,1,1,1,1,0
+Leo,Volcanion,7,4,2,192,92,0,2,0,,1,1,0,0,0
+outb pj,Garganacl,1,1,1,1,106,6,2,1,Water,1,1,0,1,0
+outb pj,Gholdengo,0,1,0,0,100,0,1,0,,1,1,0,1,0
+outb pj,Great Tusk,0,1,0,0,100,0,1,0,,1,1,0,1,0
+outb pj,Meowscarada,3,3,0,118,100,0,2,0,,1,1,1,1,0
+outb pj,Volcanion,0,1,0,0,100,0,2,0,,1,1,0,1,0
+outb pj,Zapdos,3,2,1,81,100,0,3,0,,1,1,0,1,0
+TPP,Armarouge,5,1,1,152,100,0,3,0,,1,0,0,1,1
+TPP,Great Tusk,0,0,0,0,0,0,0,0,,1,0,0,0,1
+TPP,Greninja,5,1,5,447,49,0,0,1,Water,1,0,0,0,1
+TPP,Hatterene,2,1,0,7,100,0,3,0,,1,0,0,1,1
+TPP,Indeedee,0,1,0,0,0,0,0,0,,1,0,1,0,1
+TPP,Sneasler,0,0,0,0,0,0,0,0,,1,0,0,0,1
+ZoroDark,Amoonguss,3,1,0,32,100,0,2,0,,1,1,1,1,1
+ZoroDark,Enamorus,3,2,1,79,74,0,2,0,,1,1,0,1,1
+ZoroDark,Garganacl,5,2,0,50,131,131,3,1,Water,1,1,0,0,1
+ZoroDark,Great Tusk,3,2,0,21,99,0,2,0,,1,1,0,0,1
+ZoroDark,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,1
+ZoroDark,Zamazenta,8,1,5,319,41,0,1,0,,1,1,0,0,1
+Uxilon,Cinderace,3,2,0,13,100,0,2,0,,1,0,0,1,0
+Uxilon,Enamorus,0,1,0,0,100,0,1,0,,1,0,0,1,0
+Uxilon,Kingambit,5,1,0,115,132,32,2,0,,1,0,0,1,0
+Uxilon,Landorus-Therian,3,1,0,0,100,0,3,0,,1,0,0,1,0
+Uxilon,Slowking-Galar,1,4,1,54,106,6,3,0,,1,0,1,1,0
+Uxilon,Zamazenta,4,3,0,202,100,0,2,1,Fighting,1,0,0,1,0
+EeveetoTheN00b,Clodsire,9,5,1,114,151,148,4,0,,1,1,0,0,1
+EeveetoTheN00b,Cresselia,12,1,3,182,179,142,10,0,,1,1,0,0,1
+EeveetoTheN00b,Dragapult,7,3,1,332,0,0,0,1,Dragon,1,1,1,0,1
+EeveetoTheN00b,Great Tusk,4,4,1,113,29,23,1,0,,1,1,0,0,1
+EeveetoTheN00b,Meowscarada,3,3,0,115,36,0,1,0,,1,1,0,0,1
+EeveetoTheN00b,Moltres,6,5,0,83,109,50,4,0,,1,1,0,0,1
+quixana,Garganacl,3,2,0,0,256,156,10,0,,1,0,0,1,0
+quixana,Gholdengo,1,2,0,46,100,0,2,0,,1,0,0,1,0
+quixana,Great Tusk,4,5,0,46,113,13,3,0,,1,0,0,1,0
+quixana,Samurott-Hisui,5,4,0,239,100,0,2,0,,1,0,0,1,0
+quixana,Slowking-Galar,8,9,0,32,277,177,10,0,,1,0,0,1,0
+quixana,Zapdos,11,11,0,105,320,220,7,1,Fairy,1,0,1,1,0
+PikachuZappyZap,Amoonguss,3,4,0,0,201,101,5,0,,1,1,0,1,0
+PikachuZappyZap,Enamorus,4,4,1,16,0,0,0,0,,1,1,0,1,0
+PikachuZappyZap,Gholdengo,1,2,0,69,100,0,2,0,,1,1,0,1,0
+PikachuZappyZap,Great Tusk,2,1,0,0,100,0,2,0,,1,1,0,1,0
+PikachuZappyZap,Iron Hands,5,3,1,35,171,71,3,1,Flying,1,1,0,1,0
+PikachuZappyZap,Ting-Lu,4,3,0,78,132,32,5,0,,1,1,1,1,0
+kythr,Great Tusk,4,2,2,133,100,0,2,0,,1,0,0,1,1
+kythr,Iron Valiant,4,1,1,100,18,0,0,1,Dark,1,0,0,0,1
+kythr,Kingambit,0,0,0,0,0,0,0,0,,1,0,0,0,1
+kythr,Landorus-Therian,6,2,1,216,142,42,1,0,,1,0,0,1,1
+kythr,Rotom-Wash,7,3,0,123,103,44,3,0,,1,0,1,0,1
+kythr,Slowking-Galar,4,3,1,132,88,64,1,0,,1,0,0,0,1
+so noisy,Azumarill,3,1,2,102,100,0,3,0,,1,1,0,1,0
+so noisy,Baxcalibur,0,1,0,0,100,0,1,0,,1,1,0,1,0
+so noisy,Glimmora,2,1,0,92,100,0,2,0,,1,1,1,1,0
+so noisy,Iron Valiant,2,1,1,134,100,0,2,0,,1,1,0,1,0
+so noisy,Kingambit,2,2,1,100,100,0,1,0,,1,1,0,1,0
+so noisy,Moltres-Galar,2,1,1,100,100,0,2,1,Ground,1,1,0,1,0
+punk choi,Baxcalibur,4,2,3,255,52,0,1,1,Fairy,1,0,0,0,1
+punk choi,Dragapult,2,2,1,12,100,0,2,0,,1,0,0,1,1
+punk choi,Gholdengo,2,1,0,88,100,0,2,0,,1,0,0,1,1
+punk choi,Iron Valiant,1,1,1,100,100,0,1,0,,1,0,0,1,1
+punk choi,Kingambit,1,1,0,45,106,6,1,0,,1,0,0,1,1
+punk choi,Samurott-Hisui,3,1,1,100,100,0,2,0,,1,0,1,1,1
+Luispeikou,Baxcalibur,3,2,2,133,100,0,2,1,Dragon,1,0,0,1,1
+Luispeikou,Garganacl,15,3,1,35,386,286,13,0,,1,0,0,1,1
+Luispeikou,Gholdengo,0,0,0,0,0,0,0,0,,1,0,0,0,1
+Luispeikou,Great Tusk,3,2,2,90,6,6,0,0,,1,0,0,0,1
+Luispeikou,Slowking,2,2,0,11,100,0,2,0,,1,0,1,1,1
+Luispeikou,Zapdos,1,2,1,106,100,0,2,0,,1,0,0,1,1
+thankyou,Dragapult,2,2,1,61,100,0,1,0,,1,1,1,1,0
+thankyou,Great Tusk,5,3,0,111,100,0,2,0,,1,1,0,1,0
+thankyou,Heatran,8,3,2,164,144,44,5,1,Grass,1,1,0,1,0
+thankyou,Kingambit,2,2,1,100,100,0,2,0,,1,1,0,1,0
+thankyou,Landorus-Therian,5,2,0,150,100,0,3,0,,1,1,0,1,0
+thankyou,Rotom-Wash,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Tace㋛,Cinderace,4,2,1,127,73,24,4,0,,1,0,0,0,0
+Tace㋛,Kingambit,2,1,0,68,112,12,2,1,Flying,1,0,0,1,0
+Tace㋛,Landorus-Therian,2,2,0,4,100,0,3,0,,1,0,0,1,0
+Tace㋛,Rotom-Wash,1,2,1,84,100,0,2,0,,1,0,0,1,0
+Tace㋛,Slowking-Galar,4,6,1,139,216,116,4,0,,1,0,1,1,0
+Tace㋛,Zamazenta,1,2,1,24,106,6,1,0,,1,0,0,1,0
+R0SE VILLAIN,Hawlucha,2,1,0,84,100,0,2,0,,1,1,0,1,1
+R0SE VILLAIN,Heatran,3,1,0,71,119,19,3,0,,1,1,0,1,1
+R0SE VILLAIN,Iron Valiant,2,1,0,60,112,12,2,0,,1,1,0,1,1
+R0SE VILLAIN,Mew,7,1,3,352,193,93,4,1,Fairy,1,1,0,1,1
+R0SE VILLAIN,Rillaboom,4,3,1,34,24,0,0,0,,1,1,1,0,1
+R0SE VILLAIN,Sneasler,1,1,1,45,6,6,0,0,,1,1,0,0,1
+SAMQIAN 9000,Dragapult,7,3,0,162,148,48,3,0,,1,0,0,1,0
+SAMQIAN 9000,Enamorus,4,4,0,142,100,0,4,0,,1,0,0,1,0
+SAMQIAN 9000,Glimmora,2,2,0,25,100,0,2,0,,1,0,1,1,0
+SAMQIAN 9000,Great Tusk,2,1,0,0,100,0,3,0,,1,0,0,1,0
+SAMQIAN 9000,Iron Valiant,6,3,3,170,100,0,2,1,Dark,1,0,0,1,0
+SAMQIAN 9000,Kingambit,5,3,1,73,125,25,2,0,,1,0,0,1,0
+S.Berlusconi VGC,Cinderace,3,3,2,31,29,0,1,0,,1,1,0,0,1
+S.Berlusconi VGC,Garganacl,9,4,3,91,284,184,11,1,Water,1,1,0,1,1
+S.Berlusconi VGC,Great Tusk,5,4,0,116,112,12,2,0,,1,1,0,1,1
+S.Berlusconi VGC,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,1
+S.Berlusconi VGC,Landorus-Therian,5,3,1,165,143,43,1,0,,1,1,0,1,1
+S.Berlusconi VGC,Slowking-Galar,4,3,0,82,158,58,3,0,,1,1,1,1,1
+TFG Spec╪ear,Baxcalibur,10,6,2,426,100,0,2,1,Dragon,1,0,0,1,0
+TFG Spec╪ear,Great Tusk,3,2,1,167,119,19,3,0,,1,0,0,1,0
+TFG Spec╪ear,Iron Valiant,8,5,0,228,100,0,3,0,,1,0,0,1,0
+TFG Spec╪ear,Kingambit,3,3,0,43,113,13,3,0,,1,0,0,1,0
+TFG Spec╪ear,Rotom-Heat,4,3,0,51,100,0,5,0,,1,0,0,1,0
+TFG Spec╪ear,Volcanion,3,3,1,145,100,0,3,0,,1,0,1,1,0
+Trosko,Garganacl,19,3,3,224,476,415,15,1,Water,1,1,0,0,1
+Trosko,Gholdengo,2,3,1,58,150,50,4,0,,1,1,0,1,1
+Trosko,Great Tusk,3,2,0,9,101,31,2,0,,1,1,0,0,1
+Trosko,Meowscarada,6,5,2,145,100,0,2,0,,1,1,0,1,1
+Trosko,Slowking-Galar,2,2,0,0,133,33,3,0,,1,1,0,1,1
+Trosko,Zapdos,4,3,0,141,100,0,2,0,,1,1,1,1,1
+Finchinator,Dragapult,5,5,1,187,100,0,2,0,,1,1,0,1,0
+Finchinator,Great Tusk,2,5,1,92,100,0,4,1,Fairy,1,1,0,1,0
+Finchinator,Kingambit,1,2,0,0,106,6,1,0,,1,1,0,1,0
+Finchinator,Landorus-Therian,3,3,0,6,106,6,3,0,,1,1,1,1,0
+Finchinator,Samurott-Hisui,5,4,1,182,100,0,2,0,,1,1,0,1,0
+Finchinator,Slowking-Galar,12,8,0,34,273,173,8,0,,1,1,0,1,0
+tesoro mio,Baxcalibur,5,3,1,133,16,0,0,0,,0,0,0,0,1
+tesoro mio,Corviknight,5,5,0,19,153,112,2,0,,0,0,0,0,1
+tesoro mio,Great Tusk,4,3,1,124,134,34,2,0,,0,0,0,1,1
+tesoro mio,Ting-Lu,1,2,0,43,100,0,3,0,,0,0,0,1,1
+tesoro mio,Tornadus-Therian,11,6,4,376,93,33,3,0,,0,0,0,0,1
+tesoro mio,Toxapex,1,4,0,11,139,39,4,0,,0,0,1,1,1
+Ox the Fox,Enamorus-Therian,2,2,0,0,100,0,2,0,,1,1,0,1,0
+Ox the Fox,Great Tusk,4,1,1,114,100,0,2,0,,1,1,0,1,0
+Ox the Fox,Grimmsnarl,2,3,0,0,100,0,2,0,,1,1,1,1,0
+Ox the Fox,Hatterene,2,2,1,7,113,13,2,0,,1,1,0,1,0
+Ox the Fox,Iron Hands,3,2,0,84,114,14,4,0,,1,1,0,1,0
+Ox the Fox,Kingambit,4,3,1,168,100,0,3,1,Flying,1,1,0,1,0
+gilbert arenas,Gholdengo,10,2,6,438,73,50,3,1,Dark,1,0,0,0,1
+gilbert arenas,Great Tusk,5,2,0,68,100,0,3,0,,1,0,0,1,1
+gilbert arenas,Samurott-Hisui,2,2,0,0,100,0,1,0,,1,0,0,1,1
+gilbert arenas,Slowking-Galar,3,1,0,37,0,0,0,0,,1,0,1,0,1
+gilbert arenas,Walking Wake,0,0,0,0,0,0,0,0,,1,0,0,0,1
+gilbert arenas,Zapdos,3,3,0,35,100,0,2,0,,1,0,0,1,1
+mind gaming,Baxcalibur,7,1,2,355,74,6,1,1,Dragon,1,1,0,0,1
+mind gaming,Cinderace,6,4,0,59,100,0,5,0,,1,1,0,1,1
+mind gaming,Enamorus,4,4,1,225,100,0,3,0,,1,1,0,1,1
+mind gaming,Great Tusk,10,10,0,352,71,65,3,0,,1,1,0,0,1
+mind gaming,Kingambit,3,3,3,154,69,7,1,0,,1,1,0,0,1
+mind gaming,Slowking-Galar,25,16,0,61,249,231,13,0,,1,1,1,0,1
+tesoro mio,Cinderace,7,4,1,117,100,0,3,0,,1,0,1,1,0
+tesoro mio,Corviknight,17,11,0,110,393,293,20,0,,1,0,0,1,0
+tesoro mio,Dondozo,3,2,0,0,179,79,4,0,,1,0,0,1,0
+tesoro mio,Garganacl,18,12,1,218,261,161,8,0,,1,0,0,1,0
+tesoro mio,Great Tusk,6,3,0,72,118,18,2,0,,1,0,0,1,0
+tesoro mio,Toxapex,1,4,0,0,179,79,4,1,Fairy,1,0,0,1,0
+Ciro Napoli,Baxcalibur,4,2,1,120,100,0,2,0,,1,0,0,1,0
+Ciro Napoli,Dragapult,5,4,0,248,100,0,1,0,,1,0,1,1,0
+Ciro Napoli,Kingambit,5,1,1,138,100,0,3,0,,1,0,0,1,0
+Ciro Napoli,Ting-Lu,5,5,0,22,100,0,5,0,,1,0,0,1,0
+Ciro Napoli,Toxapex,5,3,1,68,100,0,2,1,Fairy,1,0,0,1,0
+Ciro Napoli,Zapdos,14,6,1,165,301,201,8,0,,1,0,0,1,0
+damien the genius,Great Tusk,2,3,1,16,100,0,4,0,,1,1,0,1,1
+damien the genius,Hoopa-Unbound,7,2,1,224,110,10,3,0,,1,1,0,1,1
+damien the genius,Kingambit,2,3,2,81,83,13,1,0,,1,1,0,0,1
+damien the genius,Slowking-Galar,11,11,1,35,360,267,13,1,Fairy,1,1,1,0,1
+damien the genius,Zamazenta,0,3,0,0,112,12,2,0,,1,1,0,1,1
+damien the genius,Zapdos,10,5,1,224,120,20,3,0,,1,1,0,1,1
+Ciro Napoli,Baxcalibur,5,3,1,137,100,0,2,0,,1,0,0,1,0
+Ciro Napoli,Garganacl,3,3,0,73,131,31,3,1,Water,1,0,0,1,0
+Ciro Napoli,Great Tusk,5,2,0,60,100,0,4,0,,1,0,1,1,0
+Ciro Napoli,Iron Valiant,1,1,0,62,100,0,1,0,,1,0,0,1,0
+Ciro Napoli,Moltres,17,5,1,263,294,194,7,0,,1,0,0,1,0
+Ciro Napoli,Rotom-Wash,3,3,0,16,124,24,3,0,,1,0,0,1,0
+Garay oak,Cinderace,1,1,0,3,59,0,1,0,,1,1,0,0,1
+Garay oak,Dragonite,8,2,1,169,201,101,6,0,,1,1,0,1,1
+Garay oak,Enamorus,4,3,4,169,62,0,2,0,,1,1,0,0,1
+Garay oak,Great Tusk,4,2,1,100,106,6,6,0,,1,1,0,1,1
+Garay oak,Kingambit,2,2,0,127,74,12,2,1,Fairy,1,1,0,0,1
+Garay oak,Slowking-Galar,10,6,0,168,193,133,9,0,,1,1,1,0,1
+Wanony,Enamorus,3,4,1,114,100,0,2,0,,1,1,0,1,0
+Wanony,Grimmsnarl,5,2,0,43,100,0,6,0,,1,1,1,1,0
+Wanony,Moltres-Galar,1,1,1,12,100,0,2,0,,1,1,0,1,0
+Wanony,Sneasler,3,2,0,147,100,0,2,0,,1,1,0,1,0
+Wanony,Ursaluna,1,2,1,26,100,0,2,0,,1,1,0,1,0
+Wanony,Zamazenta,8,1,1,279,100,0,4,1,Steel,1,1,0,1,0
+sylveon supremacy,Baxcalibur,2,2,2,75,19,0,0,0,,1,0,0,0,1
+sylveon supremacy,Cinderace,0,1,0,19,100,0,1,0,,1,0,0,1,1
+sylveon supremacy,Enamorus,4,2,2,213,100,0,2,0,,1,0,0,1,1
+sylveon supremacy,Great Tusk,7,2,1,100,138,38,4,0,,1,0,1,1,1
+sylveon supremacy,Kingambit,6,2,1,187,124,24,4,1,Flying,1,0,0,1,1
+sylveon supremacy,Slowking-Galar,4,3,0,0,159,67,4,0,,1,0,0,0,1
+ice pais,Baxcalibur,4,4,1,128,100,0,3,0,,1,0,0,1,0
+ice pais,Great Tusk,3,3,0,123,100,0,4,0,,1,0,0,1,0
+ice pais,Samurott-Hisui,3,3,0,71,100,0,3,0,,1,0,0,1,0
+ice pais,Slowking-Galar,9,8,0,145,300,200,10,1,Grass,1,0,0,1,0
+ice pais,Sneasler,0,2,0,0,100,0,2,0,,1,0,0,1,0
+ice pais,Zapdos,9,9,0,164,200,100,7,0,,1,0,1,1,0
+mushamu,Amoonguss,6,3,0,73,98,43,4,1,Fairy,1,1,1,0,1
+mushamu,Cinderace,5,3,2,98,55,0,1,0,,1,1,0,0,1
+mushamu,Garganacl,10,3,0,47,320,220,11,0,,1,1,0,1,1
+mushamu,Iron Valiant,9,2,3,333,81,0,1,0,,1,1,0,0,1
+mushamu,Kingambit,5,2,1,203,33,25,3,0,,1,1,0,0,1
+mushamu,Landorus-Therian,4,1,0,109,68,6,1,0,,1,1,0,0,1
+Roller K,Cinderace,5,4,0,113,100,0,3,0,,1,0,0,1,0
+Roller K,Garganacl,15,4,1,115,294,194,9,1,Water,1,0,0,1,0
+Roller K,Great Tusk,4,3,2,167,112,12,3,0,,1,0,0,1,0
+Roller K,Hoopa-Unbound,3,5,0,149,159,59,5,0,,1,0,0,1,0
+Roller K,Scream Tail,8,5,0,0,222,122,7,0,,1,0,1,1,0
+Roller K,Zapdos,6,8,0,180,161,61,5,0,,1,0,0,1,0
+Fogbound Lake,Baxcalibur,17,6,4,569,166,66,5,1,Ground,1,1,0,1,1
+Fogbound Lake,Cinderace,3,3,0,10,100,0,2,0,,1,1,1,1,1
+Fogbound Lake,Enamorus,4,6,1,196,100,0,3,0,,1,1,0,1,1
+Fogbound Lake,Great Tusk,3,4,1,23,84,19,3,0,,1,1,0,0,1
+Fogbound Lake,Kingambit,0,2,0,0,50,7,1,0,,1,1,0,0,1
+Fogbound Lake,Slowking-Galar,14,9,0,156,316,217,10,0,,1,1,0,0,1
+Ruft,Cinderace,2,2,0,0,100,0,1,1,Ghost,1,1,0,1,1
+Ruft,Garganacl,17,4,2,190,380,280,13,0,,1,1,0,1,1
+Ruft,Great Tusk,10,6,4,253,148,112,6,0,,1,1,0,0,1
+Ruft,Hoopa-Unbound,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Ruft,Scream Tail,6,3,0,0,200,100,4,0,,1,1,0,1,1
+Ruft,Zapdos,3,2,0,138,43,0,1,0,,1,1,1,0,1
+Ox the Fox,Dragapult,2,4,0,0,118,18,2,0,,1,0,0,1,0
+Ox the Fox,Dragonite,16,1,0,297,318,218,4,0,,1,0,0,1,0
+Ox the Fox,Great Tusk,3,3,0,81,100,0,4,0,,1,0,0,1,0
+Ox the Fox,Iron Hands,10,5,1,245,192,92,5,0,,1,0,0,1,0
+Ox the Fox,Kingambit,6,3,2,237,130,30,2,1,Dark,1,0,0,1,0
+Ox the Fox,Samurott-Hisui,1,2,0,11,100,0,2,0,,1,0,1,1,0
+Kushalos,Dragonite,2,2,0,35,26,0,2,0,,1,0,0,0,1
+Kushalos,Gholdengo,1,1,0,0,100,0,1,0,,1,0,0,1,1
+Kushalos,Great Tusk,2,1,0,42,71,0,2,0,,1,0,0,0,1
+Kushalos,Iron Moth,5,1,3,192,100,0,2,0,,1,0,0,1,1
+Kushalos,Iron Valiant,5,1,3,246,85,0,2,1,Ghost,1,0,0,0,1
+Kushalos,Samurott-Hisui,2,3,0,48,100,0,2,0,,1,0,1,1,1
+Dasmer03,Garganacl,3,2,0,30,154,54,3,1,Water,1,1,0,1,0
+Dasmer03,Gholdengo,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Dasmer03,Great Tusk,5,2,2,172,106,6,3,0,,1,1,0,1,0
+Dasmer03,Iron Valiant,2,3,1,67,100,0,1,0,,1,1,0,1,0
+Dasmer03,Slowking-Galar,1,1,0,0,100,0,2,0,,1,1,0,1,0
+Dasmer03,Zapdos,1,2,0,188,100,0,3,0,,1,1,1,1,0
+mimilimi,Drifblim,1,1,1,10,24,0,0,0,,0,0,0,0,1
+mimilimi,Enamorus-Therian,0,1,0,0,100,0,2,0,,0,0,0,1,1
+mimilimi,Rillaboom,2,3,1,106,81,0,2,0,,0,0,0,0,1
+mimilimi,Samurott-Hisui,2,3,0,85,112,12,2,0,,0,0,1,1,1
+mimilimi,Sneasler,3,2,1,124,112,12,2,0,,0,0,0,1,1
+mimilimi,Ursaluna,5,3,3,294,118,18,3,0,,0,0,0,1,1
+Trogba Trogba,Cinderace,1,1,0,41,106,6,2,0,,1,1,0,1,0
+Trogba Trogba,Garganacl,1,2,0,17,112,12,2,1,Water,1,1,0,1,0
+Trogba Trogba,Great Tusk,1,1,0,0,112,12,2,0,,1,1,0,1,0
+Trogba Trogba,Hoopa-Unbound,5,3,2,201,106,6,1,0,,1,1,0,1,0
+Trogba Trogba,Scream Tail,2,1,0,25,131,31,3,0,,1,1,0,1,0
+Trogba Trogba,Zapdos,3,3,2,105,100,0,3,0,,1,1,1,1,0
+vaboh,Cinderace,0,0,0,0,0,0,0,0,,1,1,0,0,1
+vaboh,Corviknight,3,2,0,10,55,50,1,0,,1,1,0,0,1
+vaboh,Great Tusk,1,1,0,21,67,6,1,0,,1,1,0,0,1
+vaboh,Heatran,4,1,0,22,2,2,1,0,,1,1,0,0,1
+vaboh,Torkoal,1,4,0,0,4,0,1,0,,1,1,1,0,1
+vaboh,Walking Wake,40,4,4,1031,162,162,1,1,Water,1,1,0,0,1
+Electric win,Alomomola,18,9,0,0,476,376,9,0,,1,0,0,1,0
+Electric win,Blissey,1,1,0,0,100,0,3,0,,1,0,0,1,0
+Electric win,Corviknight,0,4,0,0,136,36,3,0,,1,0,0,1,0
+Electric win,Dondozo,0,2,0,0,100,0,3,0,,1,0,0,1,0
+Electric win,Tornadus-Therian,6,7,0,6,339,253,8,0,,1,0,0,0,0
+Electric win,Ursaluna,11,7,0,171,176,102,3,1,Water,1,0,1,0,0
+vaboh,Dragapult,1,2,1,1,100,0,2,0,,1,0,0,1,1
+vaboh,Great Tusk,8,4,1,96,130,30,5,0,,1,0,1,1,1
+vaboh,Kingambit,2,1,2,116,25,6,1,1,Flying,1,0,0,0,1
+vaboh,Slowking-Galar,3,1,0,17,100,0,3,0,,1,0,0,1,1
+vaboh,Volcanion,7,4,2,228,0,0,0,0,,1,0,0,0,1
+vaboh,Zapdos,2,3,0,59,100,0,2,0,,1,0,0,1,1
+Leftiez,Dragapult,5,2,0,20,118,18,3,0,,1,1,0,1,0
+Leftiez,Grimmsnarl,5,3,0,0,103,3,4,0,,1,1,0,1,0
+Leftiez,Hatterene,9,1,2,168,185,85,5,1,Water,1,1,0,1,0
+Leftiez,Kingambit,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Leftiez,Rillaboom,1,2,0,6,106,6,3,0,,1,1,0,1,0
+Leftiez,Sneasler,6,3,2,237,112,12,2,0,,1,1,1,1,0
+Aberforth,Cinderace,4,2,1,93,68,0,2,0,,1,0,0,0,1
+Aberforth,Kingambit,1,2,1,76,79,6,1,0,,1,0,0,0,1
+Aberforth,Landorus-Therian,4,4,1,147,112,12,3,0,,1,0,0,1,1
+Aberforth,Rotom-Wash,5,2,1,6,5,5,1,0,,1,0,1,0,1
+Aberforth,Slowking-Galar,3,2,0,0,100,0,1,0,,1,0,0,1,1
+Aberforth,Zamazenta,2,2,2,176,54,0,1,1,Fighting,1,0,0,0,1
+VOLDEMANNAT,Dragapult,3,3,0,0,100,0,4,0,,1,1,1,1,0
+VOLDEMANNAT,Enamorus,4,1,1,100,100,0,1,1,Ground,1,1,0,1,0
+VOLDEMANNAT,Great Tusk,5,1,0,51,100,0,1,0,,1,1,0,1,0
+VOLDEMANNAT,Iron Valiant,4,1,1,121,100,0,1,0,,1,1,0,1,0
+VOLDEMANNAT,Kingambit,3,2,0,84,100,0,1,0,,1,1,0,1,0
+VOLDEMANNAT,Scizor,2,1,0,38,100,0,2,0,,1,1,0,1,0
+sunsetss,Armarouge,3,3,0,97,100,0,3,0,,1,0,0,1,0
+sunsetss,Great Tusk,3,1,0,59,100,0,1,0,,1,0,1,1,0
+sunsetss,Hatterene,0,1,0,0,100,0,1,0,,1,0,0,1,0
+sunsetss,Hawlucha,2,1,1,41,100,0,2,0,,1,0,0,1,0
+sunsetss,Indeedee,1,4,0,0,100,0,1,0,,1,0,0,1,0
+sunsetss,Sneasler,12,2,2,177,100,0,2,1,Psychic,1,0,0,1,0
+chloe,Cinderace,1,2,0,39,0,0,0,0,,1,1,1,0,1
+chloe,Dragapult,3,3,2,253,100,0,2,0,,1,1,0,1,1
+chloe,Great Tusk,0,2,0,25,100,0,1,0,,1,1,0,1,1
+chloe,Kingambit,8,4,2,175,0,0,2,0,,1,1,0,0,1
+chloe,Slowking-Galar,4,2,1,8,74,22,2,0,,1,1,0,0,1
+chloe,Zapdos,2,2,1,74,100,0,2,1,Fairy,1,1,0,1,1
+Mushfiq98,Hydreigon,13,10,1,235,203,103,3,0,,1,1,0,1,0
+Mushfiq98,Iron Valiant,1,3,0,0,120,20,2,0,,1,1,0,1,0
+Mushfiq98,Kingambit,5,2,1,163,130,30,3,1,Flying,1,1,0,1,0
+Mushfiq98,Landorus-Therian,13,4,0,238,178,78,6,0,,1,1,1,1,0
+Mushfiq98,Slowking-Galar,53,20,1,491,896,796,30,0,,1,1,0,1,0
+Mushfiq98,Zamazenta,17,15,2,535,100,0,5,0,,1,1,0,1,0
+Finchinator,Corviknight,22,9,0,263,421,321,16,0,,1,0,0,1,1
+Finchinator,Garganacl,33,11,3,183,704,604,22,1,Ghost,1,0,0,1,1
+Finchinator,Great Tusk,1,1,0,20,100,0,2,0,,1,0,0,1,1
+Finchinator,Ting-Lu,17,16,1,299,446,346,18,0,,1,0,1,1,1
+Finchinator,Toxapex,6,14,1,8,510,425,9,0,,1,0,0,0,1
+Finchinator,Zamazenta,5,5,1,176,100,0,2,0,,1,0,0,1,1
+Kushalos,Dragapult,3,3,2,173,12,0,0,1,Ghost,1,1,0,0,1
+Kushalos,Garganacl,1,1,0,0,143,43,3,0,,1,1,0,1,1
+Kushalos,Great Tusk,9,3,1,218,129,29,5,0,,1,1,0,1,1
+Kushalos,Heatran,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Kushalos,Rotom-Wash,3,3,0,29,107,7,3,0,,1,1,1,1,1
+Kushalos,Slowbro,5,2,3,190,92,0,2,0,,1,1,0,0,1
+1 True Lycan,Great Tusk,5,3,1,167,106,6,4,0,,1,0,0,1,0
+1 True Lycan,Hydreigon,6,2,2,215,100,0,1,0,,1,0,0,1,0
+1 True Lycan,Iron Valiant,1,1,0,0,100,0,2,1,Steel,1,0,0,1,0
+1 True Lycan,Landorus-Therian,4,5,0,22,118,18,3,0,,1,0,1,1,0
+1 True Lycan,Scizor,3,2,0,48,106,6,5,0,,1,0,0,1,0
+1 True Lycan,Slowking-Galar,1,3,0,0,141,41,3,0,,1,0,0,1,0
+Xrn,Baxcalibur,2,2,0,70,48,24,0,0,,1,1,0,0,1
+Xrn,Cinderace,7,5,0,203,100,0,3,0,,1,1,0,1,1
+Xrn,Enamorus,15,7,4,594,49,0,3,1,Fairy,1,1,0,0,1
+Xrn,Great Tusk,4,1,0,73,98,0,4,0,,1,1,0,0,1
+Xrn,Kingambit,2,2,0,20,12,12,1,0,,1,1,0,0,1
+Xrn,Slowking-Galar,9,7,0,30,98,98,4,0,,1,1,1,0,1
+course of a day,Cresselia,13,5,1,100,314,223,8,1,Steel,1,0,0,0,0
+course of a day,Dondozo,2,3,0,58,60,0,4,0,,1,0,0,0,0
+course of a day,Great Tusk,4,2,0,69,100,0,5,0,,1,0,0,1,0
+course of a day,Moltres,5,5,0,28,213,113,6,0,,1,0,0,1,0
+course of a day,Slowking,2,5,0,0,233,133,4,0,,1,0,1,1,0
+course of a day,Ting-Lu,4,5,0,49,131,31,4,0,,1,0,0,1,0
+Starfire Scarlet,Dragapult,7,5,3,297,100,0,2,0,,0,0,0,1,0
+Starfire Scarlet,Great Tusk,5,2,1,175,100,0,2,0,,0,0,0,1,0
+Starfire Scarlet,Kingambit,0,2,0,0,100,0,1,0,,0,0,0,1,0
+Starfire Scarlet,Meowscarada,1,2,0,53,100,0,2,0,,0,0,1,1,0
+Starfire Scarlet,Rotom-Wash,5,5,0,62,131,31,4,0,,0,0,0,1,0
+Starfire Scarlet,Slowking-Galar,6,6,0,40,233,133,5,0,,0,0,0,1,0
+blunderr,Amoonguss,4,7,0,127,277,200,9,0,,1,1,1,0,1
+blunderr,Cinderace,4,3,1,47,100,0,2,0,,1,1,0,1,1
+blunderr,Dragapult,0,1,0,0,100,0,1,0,,1,1,0,1,1
+blunderr,Iron Valiant,5,3,2,190,100,0,3,1,Steel,1,1,0,1,1
+blunderr,Landorus-Therian,2,3,0,0,118,18,2,0,,1,1,0,1,1
+blunderr,Samurott-Hisui,6,5,3,245,40,0,1,0,,1,1,0,0,1
+DonSalvatore,Enamorus-Therian,24,7,1,385,163,163,5,1,Water,1,0,0,0,1
+DonSalvatore,Great Tusk,6,1,0,97,53,9,2,0,,1,0,0,0,1
+DonSalvatore,Grimmsnarl,5,2,0,52,100,0,2,0,,1,0,1,1,1
+DonSalvatore,Kingambit,4,5,0,119,24,0,0,0,,1,0,0,0,1
+DonSalvatore,Rillaboom,3,3,0,18,72,12,2,0,,1,0,0,0,1
+DonSalvatore,Sneasler,2,1,1,116,111,11,1,0,,1,0,0,1,1
+Aurella,Baxcalibur,0,0,0,0,0,0,0,0,,1,1,0,0,0
+Aurella,Corviknight,16,6,0,123,392,292,9,0,,1,1,0,1,0
+Aurella,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,0
+Aurella,Ting-Lu,3,3,0,50,106,6,2,0,,1,1,1,1,0
+Aurella,Tornadus-Therian,5,4,1,121,80,18,2,0,,1,1,0,0,0
+Aurella,Toxapex,16,9,1,101,209,136,6,1,Fairy,1,1,0,0,0
+Kaif☆彡Plays♗,Baxcalibur,6,3,1,175,161,61,2,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Cinderace,0,2,0,0,100,0,1,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Enamorus,5,8,1,204,100,0,1,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Great Tusk,2,2,0,107,118,18,3,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Kingambit,0,1,0,0,106,6,2,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Slowking-Galar,9,9,0,0,279,179,7,1,Water,1,1,1,1,0
+fatfighter2,Amoonguss,1,2,0,0,27,0,1,0,,1,0,0,0,1
+fatfighter2,Enamorus,5,3,2,144,67,0,2,0,,1,0,0,0,1
+fatfighter2,Garganacl,7,4,2,78,181,124,6,1,Water,1,0,0,0,1
+fatfighter2,Great Tusk,7,5,2,297,100,0,2,0,,1,0,0,1,1
+fatfighter2,Heatran,2,2,0,0,11,0,1,0,,1,0,0,0,1
+fatfighter2,Zapdos,2,3,0,42,100,0,4,0,,1,0,1,1,1
+pitita queen,Dragonite,1,1,1,63,100,0,1,0,,1,1,0,1,0
+pitita queen,Enamorus,3,4,1,211,100,0,2,1,Fairy,1,1,0,1,0
+pitita queen,Garganacl,2,3,1,14,125,25,5,0,,1,1,0,1,0
+pitita queen,Gholdengo,1,3,0,70,100,0,2,0,,1,1,1,1,0
+pitita queen,Great Tusk,3,4,1,20,100,0,5,0,,1,1,0,1,0
+pitita queen,Slowking-Galar,3,4,0,0,175,75,4,0,,1,1,0,1,0
+MichaelderBeste2,Baxcalibur,2,1,1,151,100,0,1,0,,1,0,0,1,1
+MichaelderBeste2,Cinderace,4,3,0,58,42,0,1,0,,1,0,0,0,1
+MichaelderBeste2,Enamorus,6,4,3,372,100,0,2,0,,1,0,1,1,1
+MichaelderBeste2,Great Tusk,4,3,0,80,100,0,2,0,,1,0,0,1,1
+MichaelderBeste2,Kingambit,2,2,2,39,16,0,1,1,Flying,1,0,0,0,1
+MichaelderBeste2,Slowking-Galar,2,2,0,0,133,33,2,0,,1,0,0,1,1
+King of Capitalism,Baxcalibur,0,1,0,0,100,0,1,0,,1,0,0,1,0
+King of Capitalism,Ceruledge,2,1,0,28,115,15,3,0,,1,0,0,1,0
+King of Capitalism,Enamorus-Therian,5,2,0,36,150,50,4,0,,1,0,0,1,0
+King of Capitalism,Glimmora,3,3,0,6,100,0,2,0,,1,0,1,1,0
+King of Capitalism,Great Tusk,7,3,1,230,100,0,3,1,Water,1,0,0,1,0
+King of Capitalism,Iron Valiant,2,2,1,92,100,0,3,0,,1,0,0,1,0
+cheb funky,Baxcalibur,4,1,2,146,100,0,3,0,,1,1,0,1,1
+cheb funky,Gholdengo,1,2,1,49,12,0,1,0,,1,1,0,0,1
+cheb funky,Great Tusk,3,1,1,115,64,0,2,0,,1,1,0,1,1
+cheb funky,Hydreigon,4,3,1,139,125,25,3,0,,1,1,1,1,1
+cheb funky,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,1
+cheb funky,Skeledirge,8,4,1,216,167,71,6,1,Water,1,1,0,0,1
+Uxilon,Dragapult,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Uxilon,Glimmora,2,2,0,36,100,0,2,0,,1,1,1,1,0
+Uxilon,Hatterene,7,2,1,152,180,80,4,1,Water,1,1,0,1,0
+Uxilon,Iron Valiant,1,1,0,0,100,0,1,0,,1,1,0,1,0
+Uxilon,Moltres-Galar,3,2,1,100,100,0,2,0,,1,1,0,1,0
+Uxilon,Sneasler,2,1,0,43,100,0,2,0,,1,1,0,1,0
+mushamu,Garganacl,1,1,0,34,112,12,2,0,,1,0,0,1,1
+mushamu,Gholdengo,3,2,1,100,43,0,1,0,,1,0,0,0,1
+mushamu,Great Tusk,2,1,0,38,103,3,1,0,,1,0,0,1,1
+mushamu,Samurott-Hisui,4,3,4,229,24,0,0,1,Water,1,0,0,0,1
+mushamu,Slowking-Galar,3,2,0,57,55,33,3,0,,1,0,0,0,1
+mushamu,Zapdos,3,3,1,156,33,0,1,0,,1,0,1,0,1
+lax,Dragapult,2,1,1,38,106,6,2,0,,1,0,0,1,0
+lax,Gholdengo,5,2,1,79,247,147,6,1,Fairy,1,0,0,1,0
+lax,Great Tusk,8,4,1,120,112,12,4,0,,1,0,0,1,0
+lax,Moltres,5,5,0,51,100,0,4,0,,1,0,0,1,0
+lax,Rillaboom,4,5,1,132,124,24,0,0,,1,0,1,1,0
+lax,Ursaluna,6,4,1,133,204,104,7,0,,1,0,0,1,0
+ATTRIBUTE,Gholdengo,5,4,1,137,162,62,4,0,,1,1,0,1,1
+ATTRIBUTE,Great Tusk,3,3,0,51,100,0,4,0,,1,1,0,1,1
+ATTRIBUTE,Moltres,4,4,0,49,100,0,4,0,,1,1,0,1,1
+ATTRIBUTE,Rotom-Wash,5,2,3,185,75,37,2,0,,1,1,0,0,1
+ATTRIBUTE,Sneasler,9,5,1,198,130,30,2,1,Ghost,1,1,0,1,1
+ATTRIBUTE,Ting-Lu,5,4,1,17,142,42,7,0,,1,1,1,1,1
+AtraX Madara,Cinderace,2,1,0,45,10,0,1,0,,0,0,1,0,1
+AtraX Madara,Cresselia,12,1,4,348,145,126,6,0,,0,0,0,0,1
+AtraX Madara,Dragonite,0,0,0,0,0,0,0,0,,0,0,0,0,1
+AtraX Madara,Garganacl,1,1,0,7,0,0,0,0,,0,0,0,0,1
+AtraX Madara,Slowking-Galar,0,1,0,0,54,6,1,0,,0,0,0,0,1
+AtraX Madara,Zamazenta,0,0,0,0,0,0,0,0,,0,0,0,0,1
+RggV,Baxcalibur,1,2,0,35,100,0,2,0,,0,0,0,1,0
+RggV,Cinderace,4,3,0,84,100,0,2,0,,0,0,0,1,0
+RggV,Clodsire,2,3,0,65,124,24,3,0,,0,0,0,1,0
+RggV,Corviknight,3,1,0,0,100,0,2,0,,0,0,0,1,0
+RggV,Iron Valiant,0,0,0,0,0,0,0,0,,0,0,0,0,0
+RggV,Zapdos-Galar,1,2,0,25,0,0,0,0,,0,0,1,0,0
+Trogba Trogba,Dragonite,3,2,0,0,150,50,3,0,,1,1,0,1,0
+Trogba Trogba,Gholdengo,0,2,0,0,100,0,2,0,,1,1,0,1,0
+Trogba Trogba,Glimmora,1,2,0,0,100,0,2,0,,1,1,1,1,0
+Trogba Trogba,Iron Valiant,1,1,0,0,100,0,1,0,,1,1,0,1,0
+Trogba Trogba,Kingambit,2,2,0,87,113,13,2,0,,1,1,0,1,0
+Trogba Trogba,Mew,6,2,2,248,100,0,4,1,Fairy,1,1,0,1,0
+fatfighter2,Dragapult,2,1,0,121,0,0,0,0,,0,0,1,0,1
+fatfighter2,Garganacl,1,1,0,14,106,6,2,0,,0,0,0,1,1
+fatfighter2,Great Tusk,2,1,2,89,29,0,1,0,,0,0,0,0,1
+fatfighter2,Kingambit,2,1,0,43,112,12,2,0,,0,0,0,1,1
+fatfighter2,Moltres,10,2,4,299,124,54,3,0,,0,0,0,0,1
+fatfighter2,Rotom-Wash,0,0,0,0,0,0,0,0,,0,0,0,0,1
+LLLiolae,Amoonguss,6,4,0,20,103,33,2,0,,1,0,0,0,1
+LLLiolae,Cinderace,2,4,0,8,100,0,2,0,,1,0,1,1,1
+LLLiolae,Iron Valiant,1,1,0,10,24,0,0,0,,1,0,0,0,1
+LLLiolae,Kingambit,0,2,0,0,16,6,1,0,,1,0,0,0,1
+LLLiolae,Landorus-Therian,7,1,2,258,136,36,3,0,,1,0,0,1,1
+LLLiolae,Zamazenta,6,2,4,300,71,0,1,1,Fighting,1,0,0,0,1
+EeveetoTheN00b,Clodsire,2,3,0,25,110,10,4,0,,1,1,0,1,0
+EeveetoTheN00b,Corviknight,3,3,0,38,118,18,3,0,,1,1,0,1,0
+EeveetoTheN00b,Delphox,3,4,1,68,100,0,1,1,Fighting,1,1,1,1,0
+EeveetoTheN00b,Dondozo,0,3,0,0,100,0,3,0,,1,1,0,1,0
+EeveetoTheN00b,Great Tusk,1,2,1,7,107,7,2,0,,1,1,0,1,0
+EeveetoTheN00b,Samurott-Hisui,3,3,0,96,100,0,1,0,,1,1,0,1,0
+Xen『QT』,Blissey,24,10,0,35,156,150,16,0,,1,0,0,0,1
+Xen『QT』,Clodsire,29,12,0,0,277,265,15,0,,1,0,0,0,1
+Xen『QT』,Dondozo,15,9,2,223,310,267,21,0,,1,0,0,0,1
+Xen『QT』,Gholdengo,5,4,1,56,107,50,4,1,Water,1,0,0,0,1
+Xen『QT』,Great Tusk,11,7,0,87,198,98,9,0,,1,0,0,1,1
+Xen『QT』,Scream Tail,14,8,1,95,193,93,9,0,,1,0,1,1,1
+Electric win,Baxcalibur,15,4,1,196,100,0,2,0,,1,1,0,1,0
+Electric win,Corviknight,18,9,0,220,226,186,10,0,,1,1,0,0,0
+Electric win,Gholdengo,54,10,0,343,415,365,15,0,,1,1,0,0,0
+Electric win,Great Tusk,10,7,0,208,100,0,4,0,,1,1,0,1,0
+Electric win,Iron Valiant,4,1,1,48,100,0,4,1,Steel,1,1,0,1,0
+Electric win,Ting-Lu,19,7,0,121,106,6,7,0,,1,1,1,1,0
+Airi Pearl,Baxcalibur,3,2,0,66,24,0,0,0,,1,1,0,0,1
+Airi Pearl,Cinderace,1,1,0,35,100,0,2,0,,1,1,0,1,1
+Airi Pearl,Enamorus,6,4,4,321,100,0,5,0,,1,1,0,1,1
+Airi Pearl,Great Tusk,2,1,0,30,100,0,3,0,,1,1,0,1,1
+Airi Pearl,Kingambit,2,2,1,100,118,18,3,1,Flying,1,1,0,1,1
+Airi Pearl,Slowking-Galar,2,3,1,24,65,33,2,0,,1,1,1,0,1
+watashi,Baxcalibur,5,2,2,117,100,0,2,1,Fairy,1,0,0,1,0
+watashi,Ceruledge,4,1,1,171,159,59,3,0,,1,0,0,1,0
+watashi,Glimmora,2,3,1,95,100,0,2,0,,1,0,0,1,0
+watashi,Landorus-Therian,3,2,0,70,100,0,2,0,,1,0,1,1,0
+watashi,Walking Wake,1,1,0,0,100,0,2,0,,1,0,0,1,0
+watashi,Zamazenta,3,2,0,30,118,18,2,0,,1,0,0,1,0
+chloe,Amoonguss,10,6,2,228,174,74,7,0,,1,1,0,1,0
+chloe,Dragapult,1,2,0,9,100,0,2,0,,1,1,0,1,0
+chloe,Enamorus,5,4,1,218,100,0,3,1,Fairy,1,1,1,1,0
+chloe,Great Tusk,1,2,0,26,100,0,3,0,,1,1,0,1,0
+chloe,Kingambit,3,6,1,60,100,0,3,0,,1,1,0,1,0
+chloe,Ting-Lu,5,4,0,153,100,0,4,0,,1,1,0,1,0
+kaladin,Cinderace,6,4,4,224,100,0,2,1,Fire,1,0,0,1,1
+kaladin,Garganacl,3,2,0,28,124,24,4,0,,1,0,0,1,1
+kaladin,Great Tusk,3,4,1,81,57,30,1,0,,1,0,0,0,1
+kaladin,Hoopa-Unbound,7,3,1,228,161,61,5,0,,1,0,0,1,1
+kaladin,Scream Tail,8,4,0,64,251,151,6,0,,1,0,0,1,1
+kaladin,Zapdos,2,4,0,0,61,52,3,0,,1,0,1,0,1
+Perazoa,Baxcalibur,1,2,1,47,100,0,3,0,,1,0,0,1,0
+Perazoa,Garchomp,2,3,0,0,100,0,3,0,,1,0,1,1,0
+Perazoa,Gholdengo,8,6,1,296,100,0,5,1,Water,1,0,0,1,0
+Perazoa,Iron Valiant,2,4,0,67,100,0,2,0,,1,0,0,1,0
+Perazoa,Roaring Moon,6,5,1,187,100,0,3,0,,1,0,0,1,0
+Perazoa,Sneasler,3,2,0,34,100,0,2,0,,1,0,0,1,0
+Summerchu,Dondozo,2,2,0,34,72,72,2,0,,1,1,0,0,1
+Summerchu,Garganacl,3,3,1,27,129,75,3,0,,1,1,0,0,1
+Summerchu,Gholdengo,4,4,0,69,141,91,3,0,,1,1,0,0,1
+Summerchu,Great Tusk,8,1,3,286,162,62,5,1,Fire,1,1,0,1,1
+Summerchu,Scream Tail,10,5,2,104,199,99,4,0,,1,1,1,1,1
+Summerchu,Zamazenta,0,1,0,0,100,0,1,0,,1,1,0,1,1
+Skc44,Dondozo,4,1,1,60,124,24,3,0,,1,0,0,1,1
+Skc44,Garganacl,3,1,0,28,118,18,2,0,,1,0,0,1,1
+Skc44,Great Tusk,8,3,3,241,88,32,3,1,Steel,1,0,0,0,1
+Skc44,Scream Tail,1,4,0,0,130,30,4,0,,1,0,0,1,1
+Skc44,Zamazenta,5,3,0,173,16,0,0,0,,1,0,0,0,1
+Skc44,Zapdos,3,5,2,90,100,0,4,0,,1,0,1,1,1
+GasaiiYunoSan,Amoonguss,1,3,0,0,100,0,3,0,,1,1,0,1,0
+GasaiiYunoSan,Gengar,7,4,1,182,100,0,3,0,,1,1,0,1,0
+GasaiiYunoSan,Great Tusk,2,2,0,0,100,0,2,0,,1,1,0,1,0
+GasaiiYunoSan,Kingambit,3,5,2,78,111,11,2,0,,1,1,0,1,0
+GasaiiYunoSan,Roaring Moon,6,2,1,180,100,0,3,1,Flying,1,1,0,1,0
+GasaiiYunoSan,Zapdos,4,5,0,68,100,0,3,0,,1,1,1,1,0
+McMeghan,Alomomola,40,39,1,167,943,906,25,0,,1,1,1,0,1
+McMeghan,Blissey,12,29,0,120,168,152,15,0,,1,1,0,0,1
+McMeghan,Ditto,25,29,2,406,859,835,26,0,,1,1,0,0,1
+McMeghan,Dondozo,20,20,2,270,282,223,16,0,,1,1,0,0,1
+McMeghan,Ting-Lu,7,7,0,0,173,154,8,0,,1,1,0,0,1
+McMeghan,Toxapex,18,20,0,0,756,656,26,1,Fairy,1,1,0,1,1
+eternally,Amoonguss,46,38,0,420,945,845,25,0,,0,0,0,1,0
+eternally,Enamorus,1,2,0,0,49,0,0,0,,0,0,0,1,0
+eternally,Garganacl,64,15,0,496,668,568,17,0,,0,0,0,1,0
+eternally,Great Tusk,10,9,0,128,100,0,2,0,,0,0,1,1,0
+eternally,Kingambit,33,25,1,541,447,347,10,0,,0,0,0,1,0
+eternally,Zamazenta,16,4,0,232,184,84,3,0,,0,0,0,1,0
+ninjadog,Dragapult,3,2,3,291,12,0,0,0,,1,1,0,0,1
+ninjadog,Great Tusk,1,1,1,100,54,0,1,0,,1,1,0,0,1
+ninjadog,Kingambit,1,1,0,99,106,6,3,1,Flying,1,1,0,1,1
+ninjadog,Scizor,5,1,1,100,31,0,1,0,,1,1,0,0,1
+ninjadog,Slowking-Galar,3,2,0,0,29,4,2,0,,1,1,1,0,1
+ninjadog,Zapdos,0,2,0,0,100,0,1,0,,1,1,0,1,1
+AtraX Madara,Great Tusk,2,1,0,31,100,0,3,0,,1,0,0,1,0
+AtraX Madara,Greninja,1,1,0,25,100,0,1,0,,1,0,0,1,0
+AtraX Madara,Hatterene,1,1,0,4,100,0,1,0,,1,0,0,1,0
+AtraX Madara,Indeedee,2,2,0,0,0,0,0,0,,1,0,1,1,0
+AtraX Madara,Polteageist,5,2,2,206,199,99,2,0,,1,0,0,1,0
+AtraX Madara,Sneasler,2,1,0,52,100,0,1,1,Poison,1,0,0,1,0
+crying,Delphox,1,1,0,0,100,0,1,0,,1,1,0,1,0
+crying,Garganacl,3,1,0,3,134,34,2,0,,1,1,0,1,0
+crying,Great Tusk,3,1,0,126,119,19,3,0,,1,1,0,1,0
+crying,Skeledirge,1,1,1,17,0,0,0,0,,1,1,0,1,0
+crying,Thundurus-Therian,4,4,1,89,100,0,3,1,Electric,1,1,0,1,0
+crying,Tinkaton,1,2,0,0,106,6,2,0,,1,1,1,1,0
+VertXXX,Enamorus-Therian,0,0,0,0,0,0,0,0,,0,0,0,0,1
+VertXXX,Hatterene,2,1,0,0,21,0,1,0,,0,0,0,1,1
+VertXXX,Iron Valiant,4,2,2,140,106,50,2,0,,0,0,0,1,1
+VertXXX,Kingambit,0,0,0,0,0,0,0,0,,0,0,0,0,1
+VertXXX,Rabsca,4,1,0,34,99,49,1,0,,0,0,0,1,1
+VertXXX,Ursaluna,7,3,3,385,112,12,3,0,,0,0,1,1,1
+Uzigunner,Enamorus,1,2,0,49,100,0,2,0,,1,1,0,1,0
+Uzigunner,Great Tusk,3,2,2,120,100,0,3,1,Electric,1,1,0,1,0
+Uzigunner,Iron Moth,1,1,1,94,100,0,2,0,,1,1,0,1,0
+Uzigunner,Kingambit,1,1,0,38,100,0,1,0,,1,1,0,1,0
+Uzigunner,Quaquaval,2,1,0,19,100,0,1,0,,1,1,1,1,0
+Uzigunner,Ting-Lu,2,2,0,0,100,0,3,0,,1,1,0,1,0
+AtraX Madara,Azumarill,4,2,1,179,100,0,2,0,,1,0,0,1,1
+AtraX Madara,Dragonite,5,2,1,115,100,0,2,0,,1,0,0,1,1
+AtraX Madara,Glimmora,0,1,0,0,0,0,0,0,,1,0,1,0,1
+AtraX Madara,Iron Moth,3,1,3,214,62,0,1,1,Fairy,1,0,0,0,1
+AtraX Madara,Iron Valiant,2,1,1,92,100,0,1,0,,1,0,0,1,1
+AtraX Madara,Kingambit,0,0,0,0,0,0,0,0,,1,0,0,0,1
+Luispeikou,Garganacl,8,1,2,68,215,138,7,1,Water,1,0,0,0,1
+Luispeikou,Gholdengo,3,4,1,110,100,0,1,0,,1,0,1,1,1
+Luispeikou,Great Tusk,3,2,1,61,125,25,2,0,,1,0,0,1,1
+Luispeikou,Samurott-Hisui,2,1,0,33,100,0,1,0,,1,0,0,1,1
+Luispeikou,Slowking-Galar,4,3,0,0,95,58,3,0,,1,0,0,0,1
+Luispeikou,Zapdos,8,4,2,213,29,0,2,0,,1,0,0,0,1
+igniizard,Amoonguss,4,3,0,166,167,67,5,0,,1,1,0,1,0
+igniizard,Garchomp,2,2,0,0,100,0,3,0,,1,1,1,1,0
+igniizard,Gholdengo,2,3,0,29,150,50,5,0,,1,1,0,1,0
+igniizard,Great Tusk,5,3,1,125,100,0,5,0,,1,1,0,1,0
+igniizard,Iron Valiant,4,3,0,47,100,0,1,0,,1,1,0,1,0
+igniizard,Kingambit,4,2,2,159,100,0,3,1,Flying,1,1,0,1,0
+Raj.Shoot ♫ ❤ ツ,Baxcalibur,6,5,1,133,100,0,1,0,,1,1,0,1,0
+Raj.Shoot ♫ ❤ ツ,Gholdengo,6,5,0,69,100,0,3,0,,1,1,0,1,0
+Raj.Shoot ♫ ❤ ツ,Glimmora,2,1,1,106,100,0,2,0,,1,1,1,1,0
+Raj.Shoot ♫ ❤ ツ,Iron Valiant,5,1,1,132,100,0,1,1,Dark,1,1,0,1,0
+Raj.Shoot ♫ ❤ ツ,Moltres-Galar,9,4,0,80,100,0,3,0,,1,1,0,1,0
+Raj.Shoot ♫ ❤ ツ,Sneasler,6,2,0,174,100,0,3,0,,1,1,0,1,0
+ATTRIBUTE,Dondozo,16,6,2,111,256,241,15,0,,0,0,0,0,1
+ATTRIBUTE,Great Tusk,3,3,2,107,24,0,1,0,,0,0,0,0,1
+ATTRIBUTE,Moltres,1,1,0,0,100,0,2,0,,0,0,0,1,1
+ATTRIBUTE,Muk-Alola,7,7,1,174,128,28,3,0,,0,0,0,1,1
+ATTRIBUTE,Rotom-Wash,2,1,0,40,106,6,2,0,,0,0,1,1,1
+ATTRIBUTE,Ting-Lu,4,3,1,0,80,27,4,0,,0,0,0,0,1
+feen,Azumarill,3,1,1,148,125,25,3,1,Water,1,0,0,1,0
+feen,Dragapult,1,4,0,0,100,0,2,0,,1,0,0,1,0
+feen,Dragonite,4,3,0,43,100,0,2,0,,1,0,0,1,0
+feen,Landorus-Therian,13,6,1,215,172,72,6,0,,1,0,0,1,0
+feen,Rotom-Wash,4,4,0,20,100,0,3,0,,1,0,1,1,0
+feen,Samurott-Hisui,3,3,0,62,100,0,2,0,,1,0,0,1,0
+msnt,Amoonguss,5,4,1,56,162,62,4,0,,1,1,0,1,1
+msnt,Garganacl,11,4,1,138,228,176,8,1,Water,1,1,0,0,1
+msnt,Great Tusk,3,3,1,131,100,28,1,0,,1,1,0,0,1
+msnt,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,1
+msnt,Zamazenta,3,2,3,75,101,19,2,0,,1,1,0,0,1
+msnt,Zapdos,5,4,0,95,100,0,4,0,,1,1,1,1,1
+Uxilon,Baxcalibur,5,2,1,100,143,43,2,1,Ground,1,1,0,1,0
+Uxilon,Great Tusk,1,2,0,18,106,6,2,0,,1,1,0,1,0
+Uxilon,Iron Valiant,4,2,2,108,100,0,2,0,,1,1,0,1,0
+Uxilon,Samurott-Hisui,3,2,1,138,100,0,2,0,,1,1,1,1,0
+Uxilon,Slowking-Galar,2,2,0,0,100,0,1,0,,1,1,0,1,0
+Uxilon,Zapdos,11,4,0,174,144,44,5,0,,1,1,0,1,0
+ice pais,Cinderace,2,2,1,21,100,0,2,0,,1,0,0,1,1
+ice pais,Kingambit,0,1,0,0,0,0,0,0,,1,0,0,0,1
+ice pais,Landorus-Therian,9,3,3,388,165,65,5,0,,1,0,0,1,1
+ice pais,Rotom-Wash,4,5,0,79,100,0,3,0,,1,0,1,1,1
+ice pais,Slowking-Galar,3,4,2,70,126,54,5,1,Grass,1,0,0,0,1
+ice pais,Sneasler,3,2,0,74,100,0,1,0,,1,0,0,1,1
+SOULWIND,Dragapult,1,3,1,81,100,0,1,1,Ghost,1,1,1,1,1
+SOULWIND,Great Tusk,4,1,0,6,47,0,3,0,,1,1,0,0,1
+SOULWIND,Kingambit,1,2,1,55,100,0,1,0,,1,1,0,1,1
+SOULWIND,Landorus-Therian,8,1,1,250,100,0,1,0,,1,1,0,1,1
+SOULWIND,Samurott-Hisui,5,1,3,175,96,0,1,0,,1,1,0,0,1
+SOULWIND,Slowking-Galar,0,1,0,0,100,0,2,0,,1,1,0,1,1
+sylveon supremacy,Baxcalibur,3,1,3,182,107,7,3,0,,1,0,0,1,0
+sylveon supremacy,Cinderace,2,2,0,0,100,0,2,0,,1,0,0,1,0
+sylveon supremacy,Enamorus,2,1,1,100,100,0,1,0,,1,0,1,1,0
+sylveon supremacy,Great Tusk,7,1,0,75,100,0,2,0,,1,0,0,1,0
+sylveon supremacy,Kingambit,2,1,0,84,100,0,3,0,,1,0,0,1,0
+sylveon supremacy,Slowking-Galar,3,3,0,0,133,33,3,1,Water,1,0,0,1,0
+blunderr,Baxcalibur,4,3,0,47,131,31,2,0,,1,1,0,1,0
+blunderr,Cinderace,4,3,0,22,71,0,2,0,,1,1,0,0,0
+blunderr,Enamorus,1,3,0,56,32,0,1,0,,1,1,0,0,0
+blunderr,Great Tusk,1,2,0,11,110,10,3,0,,1,1,0,1,0
+blunderr,Kingambit,2,2,0,41,92,19,1,1,Flying,1,1,0,0,0
+blunderr,Slowking-Galar,4,7,0,0,209,140,7,0,,1,1,1,0,0
+DugZa,Cinderace,1,1,0,0,0,0,0,0,,0,0,0,0,1
+DugZa,Kingambit,0,0,0,0,0,0,0,0,,0,0,0,0,1
+DugZa,Landorus-Therian,8,6,0,95,33,18,1,0,,0,0,1,0,1
+DugZa,Rotom-Wash,8,4,1,174,65,31,3,0,,0,0,0,0,1
+DugZa,Slowking-Galar,2,3,0,0,56,56,1,0,,0,0,0,0,1
+DugZa,Zamazenta,5,5,1,249,47,0,1,0,,0,0,0,0,1
+Qwily,Baxcalibur,1,2,0,31,100,0,1,0,,1,1,1,1,0
+Qwily,Cinderace,0,2,0,0,100,0,1,0,,1,1,0,1,0
+Qwily,Enamorus,0,1,0,31,100,0,1,0,,1,1,0,1,0
+Qwily,Great Tusk,4,3,0,44,54,6,3,0,,1,1,0,0,0
+Qwily,Kingambit,1,1,1,69,0,0,0,0,,1,1,0,0,0
+Qwily,Slowking-Galar,10,5,1,215,232,132,5,1,Water,1,1,0,1,0
+Luthier,Amoonguss,1,1,0,0,0,0,0,0,,1,0,0,0,1
+Luthier,Enamorus,2,1,0,95,100,0,2,0,,1,0,0,1,1
+Luthier,Garganacl,14,1,3,276,270,170,9,1,Water,1,0,0,1,1
+Luthier,Great Tusk,1,2,0,7,31,0,2,0,,1,0,1,0,1
+Luthier,Kingambit,0,1,0,0,0,0,0,0,,1,0,0,0,1
+Luthier,Zamazenta,2,1,1,100,0,0,0,0,,1,0,0,0,1
+Piyush21,Baxcalibur,4,3,1,142,0,0,0,0,,1,1,0,0,1
+Piyush21,Dragapult,1,1,0,4,0,0,1,0,,1,1,0,0,1
+Piyush21,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Piyush21,Heatran,18,5,3,166,206,106,9,1,Grass,1,1,1,1,1
+Piyush21,Scizor,12,8,0,303,0,0,0,0,,1,1,0,0,1
+Piyush21,Zapdos,12,10,0,224,115,100,5,0,,1,1,0,0,1
+DONDOZO NOSTALGICO,Alomomola,3,2,0,3,129,29,4,0,,1,0,0,1,0
+DONDOZO NOSTALGICO,Blissey,6,3,0,130,100,0,4,0,,1,0,0,1,0
+DONDOZO NOSTALGICO,Ditto,7,5,1,56,200,100,4,0,,1,0,1,1,0
+DONDOZO NOSTALGICO,Dondozo,11,11,0,64,136,98,9,0,,1,0,0,0,0
+DONDOZO NOSTALGICO,Ting-Lu,4,2,0,31,100,0,3,0,,1,0,0,1,0
+DONDOZO NOSTALGICO,Toxapex,5,9,0,0,369,345,11,1,Fairy,1,0,0,0,0
+kaladin,Enamorus,6,2,2,234,130,30,2,0,,1,0,0,1,1
+kaladin,Garganacl,4,2,0,20,205,105,4,1,Water,1,0,0,1,1
+kaladin,Great Tusk,1,1,1,86,100,0,1,0,,1,0,0,1,1
+kaladin,Iron Valiant,3,1,3,91,6,6,0,0,,1,0,0,0,1
+kaladin,Kingambit,5,1,0,120,170,70,3,0,,1,0,0,1,1
+kaladin,Slowking-Galar,3,2,0,0,97,45,3,0,,1,0,1,0,1
+Kebab mlml,Hawlucha,4,2,0,96,106,6,2,1,Steel,1,1,0,1,0
+Kebab mlml,Heatran,4,3,1,109,136,36,5,0,,1,1,0,1,0
+Kebab mlml,Iron Valiant,1,1,0,28,107,7,2,0,,1,1,0,1,0
+Kebab mlml,Mew,2,1,0,0,127,27,4,0,,1,1,0,1,0
+Kebab mlml,Rillaboom,7,4,1,215,125,25,3,0,,1,1,1,1,0
+Kebab mlml,Sneasler,3,1,2,152,100,0,1,0,,1,1,0,1,0
+feen,Baxcalibur,9,6,3,351,189,89,4,1,Dragon,1,1,0,1,0
+feen,Cinderace,7,5,0,29,0,0,0,0,,1,1,0,0,0
+feen,Enamorus,2,4,0,29,71,0,3,0,,1,1,0,1,0
+feen,Great Tusk,2,2,0,28,100,0,2,0,,1,1,0,1,0
+feen,Kingambit,4,3,0,37,148,48,4,0,,1,1,0,1,0
+feen,Slowking-Galar,8,8,0,32,208,108,5,0,,1,1,1,1,0
+Spitfire arcanine,Dondozo,17,4,2,229,153,120,9,0,,1,0,0,0,1
+Spitfire arcanine,Great Tusk,6,5,0,56,100,0,5,0,,1,0,0,1,1
+Spitfire arcanine,Moltres,0,1,0,0,100,0,1,0,,1,0,0,1,1
+Spitfire arcanine,Muk-Alola,0,3,0,0,0,0,0,0,,1,0,0,0,1
+Spitfire arcanine,Rotom-Wash,11,7,2,246,151,90,3,1,Steel,1,0,1,0,1
+Spitfire arcanine,Ting-Lu,0,1,0,0,107,7,2,0,,1,0,0,1,1
+INSULT,Dragapult,9,4,2,302,100,0,3,0,,1,1,0,1,0
+INSULT,Hawlucha,5,5,0,0,100,0,2,0,,1,1,0,1,0
+INSULT,Kingambit,6,4,2,102,155,55,3,1,Fairy,1,1,0,1,0
+INSULT,Landorus-Therian,13,7,1,273,133,33,5,0,,1,1,1,1,0
+INSULT,Toxapex,8,5,0,98,200,100,7,0,,1,1,0,1,0
+INSULT,Zamazenta,7,5,0,175,100,0,3,0,,1,1,0,1,0
+Malekith,Amoonguss,7,8,1,60,328,228,10,0,,1,0,1,1,1
+Malekith,Enamorus,1,1,0,54,100,0,2,0,,1,0,0,1,1
+Malekith,Gholdengo,7,7,1,136,192,92,7,0,,1,0,0,1,1
+Malekith,Great Tusk,9,4,3,214,113,62,4,1,Fairy,1,0,0,0,1
+Malekith,Ting-Lu,9,6,0,0,196,96,10,0,,1,0,0,1,1
+Malekith,Volcanion,7,5,1,89,100,0,3,0,,1,0,0,1,1
+Skypenguin,Cinderace,5,4,0,122,100,0,3,0,,1,0,0,1,0
+Skypenguin,Dragapult,1,2,0,0,106,6,1,0,,1,0,0,1,0
+Skypenguin,Garganacl,4,1,0,0,201,101,3,1,Water,1,0,0,1,0
+Skypenguin,Landorus-Therian,3,5,0,9,100,0,2,0,,1,0,1,1,0
+Skypenguin,Muk-Alola,1,2,0,8,112,12,3,0,,1,0,0,1,0
+Skypenguin,Scream Tail,4,2,0,19,145,45,2,0,,1,0,0,1,0
+DAHLI,Baxcalibur,12,1,6,617,94,0,2,1,Fairy,1,1,0,0,1
+DAHLI,Dragonite,0,0,0,0,0,0,0,0,,1,1,0,0,1
+DAHLI,Enamorus,2,3,0,89,33,0,2,0,,1,1,0,0,1
+DAHLI,Great Tusk,2,2,0,6,60,0,3,0,,1,1,0,0,1
+DAHLI,Kingambit,0,1,0,0,6,6,0,0,,1,1,0,0,1
+DAHLI,Slowking-Galar,3,4,0,0,18,0,1,0,,1,1,1,0,1
+Eoward,Cinderace,1,2,0,53,106,6,2,0,,1,1,1,1,0
+Eoward,Enamorus,1,1,0,0,7,0,1,0,,1,1,0,1,0
+Eoward,Kingambit,8,3,4,269,250,150,4,1,Fairy,1,1,0,1,0
+Eoward,Landorus-Therian,2,1,1,73,112,12,2,0,,1,1,0,1,0
+Eoward,Slowking-Galar,1,2,0,81,146,46,2,0,,1,1,0,1,0
+Eoward,Zamazenta,2,1,0,66,124,24,3,0,,1,1,0,1,0
+70to90gxe,Clodsire,0,3,0,0,106,6,2,0,,1,0,0,1,1
+70to90gxe,Hatterene,2,1,1,46,16,16,1,1,Water,1,0,0,0,1
+70to90gxe,Hawlucha,6,2,2,352,100,0,3,0,,1,0,0,1,1
+70to90gxe,Kingambit,2,1,1,50,100,0,1,0,,1,0,0,1,1
+70to90gxe,Rillaboom,3,3,0,61,123,23,2,0,,1,0,1,1,1
+70to90gxe,Sneasler,6,1,1,212,112,12,2,0,,1,0,0,1,1
+Garay oak,Baxcalibur,1,2,0,0,100,0,2,0,,1,1,0,1,0
+Garay oak,Grimmsnarl,3,1,0,0,100,0,3,0,,1,1,1,1,0
+Garay oak,Hatterene,12,2,1,296,233,133,4,1,Water,1,1,0,1,0
+Garay oak,Iron Valiant,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Garay oak,Moltres-Galar,10,1,2,275,100,0,5,0,,1,1,0,1,0
+Garay oak,Scizor,6,3,1,98,100,0,3,0,,1,1,0,1,0
+pdt,Dragapult,3,1,1,116,100,0,3,1,Steel,1,0,0,1,1
+pdt,Great Tusk,4,3,0,91,137,37,4,0,,1,0,0,1,1
+pdt,Iron Valiant,1,2,1,86,0,0,0,0,,1,0,0,0,1
+pdt,Kingambit,4,2,1,100,100,0,3,0,,1,0,0,1,1
+pdt,Tornadus-Therian,4,1,0,69,100,0,2,0,,1,0,0,1,1
+pdt,Toxapex,9,7,3,223,232,166,6,0,,1,0,1,0,1
+arce9,Dragonite,3,1,0,90,100,0,2,0,,1,0,0,1,0
+arce9,Gholdengo,5,2,1,93,46,0,1,1,Fighting,1,0,0,0,0
+arce9,Great Tusk,2,1,0,41,100,0,1,0,,1,0,0,1,0
+arce9,Hatterene,0,1,0,0,100,0,1,0,,1,0,0,1,0
+arce9,Iron Moth,4,1,1,98,100,0,2,0,,1,0,0,1,0
+arce9,Samurott-Hisui,2,1,0,55,100,0,2,0,,1,0,1,1,0
+Raiza,Baxcalibur,3,1,1,121,100,0,3,0,,1,1,1,1,1
+Raiza,Cinderace,3,2,1,94,100,0,3,0,,1,1,0,1,1
+Raiza,Enamorus,2,2,1,107,90,0,1,0,,1,1,0,0,1
+Raiza,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Raiza,Kingambit,1,1,1,88,0,0,0,0,,1,1,0,0,1
+Raiza,Slowking-Galar,3,3,1,88,128,68,5,1,Grass,1,1,0,0,1
+Skypenguin,Amoonguss,1,1,1,57,100,0,3,1,Water,1,1,0,1,0
+Skypenguin,Cinderace,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Skypenguin,Gholdengo,0,1,0,0,100,0,2,0,,1,1,0,1,0
+Skypenguin,Great Tusk,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Skypenguin,Landorus-Therian,2,4,1,100,100,0,2,0,,1,1,1,1,0
+Skypenguin,Meowscarada,2,2,0,7,100,0,2,0,,1,1,0,1,0
+Fairy Peak!,Amoonguss,0,1,0,0,7,0,1,0,,1,0,0,0,1
+Fairy Peak!,Basculegion-F,4,1,4,309,0,0,0,1,Water,1,0,0,0,1
+Fairy Peak!,Greninja,5,2,2,200,100,0,1,0,,1,0,0,1,1
+Fairy Peak!,Iron Treads,0,0,0,0,0,0,0,0,,1,0,0,0,1
+Fairy Peak!,Pelipper,1,2,0,3,100,0,2,0,,1,0,1,1,1
+Fairy Peak!,Zapdos,1,1,0,88,0,0,0,0,,1,0,0,0,1
+b1kharma,Baxcalibur,7,1,3,294,107,24,2,1,Ground,1,0,0,0,1
+b1kharma,Cinderace,1,1,0,12,0,0,0,0,,1,0,1,0,1
+b1kharma,Enamorus,0,2,0,0,0,0,1,0,,1,0,0,0,1
+b1kharma,Great Tusk,2,3,1,100,117,17,4,0,,1,0,0,1,1
+b1kharma,Kingambit,2,2,0,52,73,24,1,0,,1,0,0,0,1
+b1kharma,Slowking-Galar,0,1,0,0,0,0,0,0,,1,0,0,0,1
+Santu,Baxcalibur,3,3,0,127,100,0,1,1,Dragon,1,1,0,1,0
+Santu,Cinderace,3,3,0,18,12,0,1,0,,1,1,1,0,0
+Santu,Enamorus,0,2,0,0,100,0,2,0,,1,1,0,1,0
+Santu,Great Tusk,3,3,1,89,113,13,3,0,,1,1,0,1,0
+Santu,Kingambit,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Santu,Slowking-Galar,2,1,0,0,52,0,1,0,,1,1,0,0,0
+Starfire Scarlet,Baxcalibur,0,2,0,0,106,6,2,0,,1,0,0,1,0
+Starfire Scarlet,Great Tusk,1,1,0,0,100,0,1,0,,1,0,0,1,0
+Starfire Scarlet,Iron Valiant,1,1,0,62,100,0,1,0,,1,0,0,1,0
+Starfire Scarlet,Samurott-Hisui,0,4,0,0,100,0,1,1,Steel,1,0,1,1,0
+Starfire Scarlet,Slowking-Galar,1,4,0,0,185,85,4,0,,1,0,0,1,0
+Starfire Scarlet,Zapdos,2,3,0,22,100,0,3,0,,1,0,0,1,0
+RUBYBLOOD,Dragapult,2,2,0,131,46,0,1,0,,1,1,0,0,1
+RUBYBLOOD,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,1
+RUBYBLOOD,Heatran,0,0,0,0,0,0,0,0,,1,1,0,0,1
+RUBYBLOOD,Iron Valiant,8,1,5,399,93,0,1,1,Ghost,1,1,0,0,1
+RUBYBLOOD,Samurott-Hisui,3,1,1,100,16,0,0,0,,1,1,0,0,1
+RUBYBLOOD,Zapdos,3,3,0,61,0,0,0,0,,1,1,1,0,1
+starmaster,Baxcalibur,1,3,0,0,100,0,2,0,,1,0,0,1,1
+starmaster,Gholdengo,1,2,0,0,12,0,1,0,,1,0,0,0,1
+starmaster,Iron Valiant,6,1,5,335,84,0,1,1,Dark,1,0,0,0,1
+starmaster,Kingambit,1,1,1,40,6,0,0,0,,1,0,0,0,1
+starmaster,Moltres,13,5,0,177,109,88,8,0,,1,0,1,0,1
+starmaster,Ting-Lu,3,1,0,0,100,0,3,0,,1,0,0,1,1
+ILoveMashing❤,Cinderace,7,5,0,70,100,0,3,0,,1,1,0,1,0
+ILoveMashing❤,Dragonite,2,2,1,87,100,0,2,0,,1,1,0,1,0
+ILoveMashing❤,Enamorus,2,2,1,104,100,0,1,0,,1,1,0,1,0
+ILoveMashing❤,Great Tusk,5,3,0,101,108,8,2,1,Water,1,1,0,1,0
+ILoveMashing❤,Kingambit,0,2,0,0,106,6,1,0,,1,1,0,1,0
+ILoveMashing❤,Slowking-Galar,7,6,0,0,238,138,7,0,,1,1,1,1,0
+Highv0ltag3,Clodsire,1,6,0,0,100,0,4,0,,1,0,0,1,1
+Highv0ltag3,Corviknight,17,12,1,178,456,418,9,0,,1,0,0,0,1
+Highv0ltag3,Dondozo,28,20,1,189,338,315,19,0,,1,0,0,0,1
+Highv0ltag3,Enamorus,5,6,2,221,79,0,3,1,Ground,1,0,0,0,1
+Highv0ltag3,Meowscarada,5,5,0,98,100,0,2,0,,1,0,1,1,1
+Highv0ltag3,Slowking-Galar,23,27,0,244,803,779,17,0,,1,0,0,0,1
+3d,Amoonguss,7,14,0,31,286,264,9,0,,1,1,1,0,0
+3d,Cinderace,18,14,0,457,100,0,3,0,,1,1,0,1,0
+3d,Garganacl,37,14,1,204,702,602,21,1,Ghost,1,1,0,1,0
+3d,Kingambit,10,8,1,301,112,12,4,0,,1,1,0,1,0
+3d,Landorus-Therian,5,5,0,14,100,0,4,0,,1,1,0,1,0
+3d,Zamazenta,5,5,0,28,138,60,1,0,,1,1,0,0,0
+Jytcampbell,Amoonguss,9,2,1,191,60,33,1,1,Fairy,1,1,0,0,1
+Jytcampbell,Enamorus,1,1,0,14,33,0,1,0,,1,1,0,0,1
+Jytcampbell,Garganacl,5,3,0,90,107,37,5,0,,1,1,0,0,1
+Jytcampbell,Great Tusk,1,4,0,5,100,0,3,0,,1,1,1,1,1
+Jytcampbell,Kingambit,1,1,1,32,19,6,1,0,,1,1,0,0,1
+Jytcampbell,Zamazenta,12,2,2,436,100,0,3,0,,1,1,0,1,1
+Fusien,Baxcalibur,12,5,2,268,228,128,3,0,,1,0,0,1,0
+Fusien,Cinderace,5,5,0,24,93,0,3,1,Ghost,1,0,1,0,0
+Fusien,Enamorus,0,2,0,0,100,0,1,0,,1,0,0,1,0
+Fusien,Great Tusk,3,4,0,39,113,13,4,0,,1,0,0,1,0
+Fusien,Kingambit,0,2,0,0,100,0,1,0,,1,0,0,1,0
+Fusien,Slowking-Galar,6,9,0,57,297,266,10,0,,1,0,0,0,0
+kythr,Breloom,1,1,0,0,21,0,1,0,,0,0,1,0,1
+kythr,Gholdengo,4,3,1,115,100,0,4,0,,0,0,0,1,1
+kythr,Great Tusk,6,1,2,111,79,0,5,0,,0,0,0,0,1
+kythr,Hoopa-Unbound,1,2,0,29,0,0,0,0,,0,0,0,0,1
+kythr,Iron Valiant,6,3,0,153,100,0,4,0,,0,0,0,1,1
+kythr,Slowking,3,3,0,29,156,64,3,0,,0,0,0,0,1
+ABR,Garganacl,0,2,0,0,100,0,3,0,,1,1,0,1,0
+ABR,Great Tusk,5,1,0,79,100,0,2,1,Flying,1,1,0,1,0
+ABR,Hoopa-Unbound,3,3,0,214,29,0,1,0,,1,1,0,0,0
+ABR,Moltres,5,5,0,86,144,44,4,0,,1,1,1,1,0
+ABR,Scream Tail,6,4,2,77,64,39,2,0,,1,1,0,1,0
+ABR,Slowking-Galar,0,1,0,0,0,0,0,0,,1,1,0,0,0
+3d,Enamorus,5,1,1,100,84,0,3,1,Steel,1,1,0,0,0
+3d,Garganacl,9,4,1,6,74,73,4,0,,1,1,0,0,0
+3d,Great Tusk,3,3,0,19,138,38,3,0,,1,1,0,1,0
+3d,Samurott-Hisui,3,5,0,148,36,0,2,0,,1,1,1,0,0
+3d,Slowking-Galar,3,4,0,0,126,85,5,0,,1,1,0,0,0
+3d,Zapdos,2,3,0,0,100,0,3,0,,1,1,0,1,0
+ayevon,Dondozo,2,1,0,41,0,0,0,0,,1,0,0,0,1
+ayevon,Great Tusk,6,4,0,48,100,0,3,0,,1,0,0,1,1
+ayevon,Landorus-Therian,7,2,2,142,74,42,0,0,,1,0,0,0,1
+ayevon,Slowking-Galar,3,1,0,84,100,0,4,1,Water,1,0,0,1,1
+ayevon,Ting-Lu,2,4,0,50,28,6,2,0,,1,0,0,0,1
+ayevon,Zapdos,12,6,0,167,161,131,4,0,,1,0,1,0,1
+ZoroDark,Dragapult,1,2,0,11,100,0,1,0,,1,0,0,1,0
+ZoroDark,Great Tusk,4,5,1,75,138,38,1,0,,1,0,0,1,0
+ZoroDark,Kingambit,3,2,2,97,125,25,2,1,Fairy,1,0,0,1,0
+ZoroDark,Landorus-Therian,4,8,0,51,144,44,5,0,,1,0,0,1,0
+ZoroDark,Samurott-Hisui,1,2,0,11,100,0,2,0,,1,0,0,1,0
+ZoroDark,Slowking-Galar,13,11,1,140,399,299,15,0,,1,0,1,1,0
+mushamu,Baxcalibur,2,4,1,0,0,0,0,0,,1,1,0,0,1
+mushamu,Gholdengo,2,2,1,103,100,0,1,0,,1,1,0,1,1
+mushamu,Great Tusk,2,2,2,89,30,6,0,0,,1,1,0,0,1
+mushamu,Ting-Lu,11,2,0,196,136,36,6,1,Ghost,1,1,1,1,1
+mushamu,Volcanion,2,1,0,43,100,0,3,0,,1,1,0,1,1
+mushamu,Zapdos,17,5,2,380,100,0,3,0,,1,1,0,1,1
+Kebab mlml,Baxcalibur,4,2,2,126,100,0,2,0,,1,0,0,1,1
+Kebab mlml,Gholdengo,3,1,2,145,75,0,1,1,Flying,1,0,0,0,1
+Kebab mlml,Greninja,3,1,1,119,100,0,1,0,,1,0,0,1,1
+Kebab mlml,Iron Valiant,3,1,0,74,100,0,2,0,,1,0,0,1,1
+Kebab mlml,Landorus-Therian,5,2,1,108,136,36,4,0,,1,0,0,1,1
+Kebab mlml,Samurott-Hisui,1,2,0,42,100,0,2,0,,1,0,1,1,1
+chloe,Dragapult,2,2,1,78,100,0,1,0,,1,1,0,1,0
+chloe,Great Tusk,0,1,0,0,100,0,1,0,,1,1,0,1,0
+chloe,Heatran,1,1,1,71,112,12,3,1,Grass,1,1,0,1,0
+chloe,Kingambit,4,2,1,151,100,0,2,0,,1,1,0,1,0
+chloe,Slowking-Galar,2,1,1,100,100,0,3,0,,1,1,0,1,0
+chloe,Zapdos,6,2,1,157,150,50,3,0,,1,1,1,1,0
+Aberforth,Azumarill,4,1,3,189,122,25,2,1,Water,1,0,0,0,1
+Aberforth,Great Tusk,0,1,0,0,100,0,1,0,,1,0,0,1,1
+Aberforth,Iron Moth,3,1,0,44,100,0,1,0,,1,0,0,1,1
+Aberforth,Iron Valiant,4,2,0,67,100,0,3,0,,1,0,0,1,1
+Aberforth,Kingambit,4,1,1,160,100,0,2,0,,1,0,0,1,1
+Aberforth,Samurott-Hisui,2,1,0,43,100,0,2,0,,1,0,1,1,1
+QWILY,Cresselia,6,2,0,87,179,79,5,0,,1,1,0,1,0
+QWILY,Hatterene,0,1,0,0,100,0,1,0,,1,1,0,1,0
+QWILY,Hoopa-Unbound,1,1,1,76,12,0,0,0,,1,1,0,0,0
+QWILY,Iron Hands,3,2,2,135,114,14,4,0,,1,1,1,1,0
+QWILY,Kingambit,1,1,0,122,106,6,1,0,,1,1,0,1,0
+QWILY,Ursaluna,3,2,2,178,89,0,1,1,Normal,1,1,0,0,0
+fartballs45,Baxcalibur,1,1,0,37,100,0,3,0,,1,0,0,1,0
+fartballs45,Gholdengo,4,1,1,153,100,0,3,0,,1,0,0,1,0
+fartballs45,Hatterene,2,1,0,46,59,52,2,0,,1,0,0,0,0
+fartballs45,Iron Valiant,1,2,1,46,0,0,0,0,,1,0,1,0,0
+fartballs45,Kingambit,0,0,0,0,0,0,0,0,,1,0,0,0,0
+fartballs45,Sandy Shocks,7,1,2,263,100,0,3,1,Ghost,1,0,0,1,0
+thankyou,Dondozo,0,0,0,0,0,0,0,0,,1,1,0,0,1
+thankyou,Great Tusk,2,2,0,58,106,6,2,0,,1,1,0,1,1
+thankyou,Moltres,2,1,1,86,100,0,3,0,,1,1,0,1,1
+thankyou,Muk-Alola,3,2,1,56,104,30,2,0,,1,1,0,0,1
+thankyou,Rotom-Wash,6,1,1,159,129,29,4,1,Steel,1,1,1,1,1
+thankyou,Ting-Lu,0,1,0,0,106,6,2,0,,1,1,0,1,1
+Joeshh,Baxcalibur,4,2,1,124,96,0,2,0,,1,0,0,0,1
+Joeshh,Gholdengo,1,2,0,22,100,0,3,0,,1,0,1,1,1
+Joeshh,Hatterene,5,3,0,46,173,73,3,0,,1,0,0,1,1
+Joeshh,Iron Valiant,7,1,5,430,16,0,0,1,Dark,1,0,0,0,1
+Joeshh,Kingambit,0,0,0,0,0,0,0,0,,1,0,0,0,1
+Joeshh,Sandy Shocks,2,1,0,32,11,0,1,0,,1,0,0,0,1
+Floss,Amoonguss,3,3,0,19,144,44,3,0,,1,1,0,1,0
+Floss,Enamorus,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Floss,Garganacl,5,2,0,87,134,34,4,1,Water,1,1,1,1,0
+Floss,Great Tusk,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Floss,Kingambit,0,2,0,0,100,0,1,0,,1,1,0,1,0
+Floss,Zamazenta,5,3,2,174,137,37,3,0,,1,1,0,1,0
+thankyou,Amoonguss,5,4,0,125,167,67,7,0,,1,1,0,1,0
+thankyou,Enamorus,1,1,0,0,0,0,0,0,,1,1,0,1,0
+thankyou,Garganacl,12,5,1,292,274,174,8,1,Water,1,1,1,1,0
+thankyou,Great Tusk,1,2,0,0,100,0,2,0,,1,1,0,1,0
+thankyou,Kingambit,0,1,0,0,106,6,2,0,,1,1,0,1,0
+thankyou,Zamazenta,3,2,1,71,119,19,3,0,,1,1,0,1,0
+Igniizard,Enamorus-Therian,19,2,4,468,475,432,11,0,,0,0,0,0,1
+Igniizard,Gholdengo,7,1,1,205,149,49,4,0,,0,0,0,1,1
+Igniizard,Great Tusk,1,1,0,30,16,0,0,0,,0,0,1,0,1
+Igniizard,Iron Moth,2,2,0,51,100,0,1,0,,0,0,0,1,1
+Igniizard,Iron Valiant,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Igniizard,Kingambit,1,1,0,12,6,0,0,0,,0,0,0,0,1
+Unamed,Dragapult,4,2,5,169,67,0,1,0,,1,1,0,0,1
+Unamed,Heatran,3,4,0,113,128,28,4,0,,1,1,0,1,1
+Unamed,Kingambit,0,1,0,0,100,0,1,0,,1,1,0,1,1
+Unamed,Landorus-Therian,5,4,0,208,100,0,3,0,,1,1,1,1,1
+Unamed,Rotom-Wash,2,2,0,13,113,13,2,1,Fairy,1,1,0,1,1
+Unamed,Sneasler,2,1,1,100,0,0,0,0,,1,1,0,0,1
+Spitfire arcanine,Baxcalibur,8,2,4,270,100,0,4,0,,1,0,0,1,0
+Spitfire arcanine,Dragapult,4,5,0,65,100,0,1,0,,1,0,1,1,0
+Spitfire arcanine,Great Tusk,0,3,0,0,112,12,3,0,,1,0,0,1,0
+Spitfire arcanine,Heatran,3,1,0,75,125,25,3,1,Grass,1,0,0,1,0
+Spitfire arcanine,Scizor,0,1,0,0,100,0,1,0,,1,0,0,1,0
+Spitfire arcanine,Zapdos,0,1,0,0,100,0,2,0,,1,0,0,1,0
+stareal,Garganacl,9,5,0,10,303,203,8,1,Water,1,1,1,1,0
+stareal,Gholdengo,3,2,1,45,50,23,2,0,,1,1,0,0,0
+stareal,Great Tusk,3,5,0,8,11,2,1,0,,1,1,0,0,0
+stareal,Meowscarada,2,2,0,90,100,0,1,0,,1,1,0,1,0
+stareal,Moltres,17,6,1,147,299,199,9,0,,1,1,0,1,0
+stareal,Zapdos,4,3,0,48,130,30,3,0,,1,1,0,1,0
+njnp,Baxcalibur,17,8,3,554,210,110,2,1,Ground,1,0,0,1,1
+njnp,Cinderace,7,4,0,170,100,0,2,0,,1,0,1,1,1
+njnp,Enamorus,1,2,0,21,0,0,0,0,,1,0,0,0,1
+njnp,Great Tusk,8,4,1,101,15,0,2,0,,1,0,0,0,1
+njnp,Kingambit,0,1,0,0,27,6,1,0,,1,0,0,0,1
+njnp,Slowking-Galar,15,11,0,0,273,261,7,0,,1,0,0,0,1
+Ruft,Baxcalibur,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Ruft,Cinderace,1,1,0,0,100,0,1,0,,0,0,0,1,1
+Ruft,Enamorus,3,2,1,166,0,0,0,0,,0,0,0,0,1
+Ruft,Great Tusk,4,2,0,123,99,0,2,0,,0,0,0,0,1
+Ruft,Kingambit,5,2,3,300,90,31,4,0,,0,0,0,0,1
+Ruft,Slowking-Galar,4,3,2,28,69,33,1,0,,0,0,1,0,1
+Redemption,Gholdengo,4,4,0,72,142,42,3,0,,1,1,0,1,0
+Redemption,Iron Valiant,1,1,0,0,100,0,1,0,,1,1,0,1,0
+Redemption,Kingambit,4,1,1,145,100,0,2,1,Dark,1,1,0,1,0
+Redemption,Sneasler,1,1,0,0,100,0,2,0,,1,1,0,1,0
+Redemption,Ting-Lu,5,2,0,48,100,0,4,0,,1,1,1,1,0
+Redemption,Walking Wake,2,1,0,45,100,0,2,0,,1,1,0,1,0
+1 True Lycan,Baxcalibur,1,3,1,21,100,0,2,0,,1,1,0,1,1
+1 True Lycan,Corviknight,15,6,4,211,172,114,8,0,,1,1,0,0,1
+1 True Lycan,Great Tusk,3,3,1,31,58,19,4,0,,1,1,0,0,1
+1 True Lycan,Ting-Lu,7,2,0,236,150,50,4,1,Poison,1,1,0,1,1
+1 True Lycan,Tornadus-Therian,3,3,0,46,153,53,4,0,,1,1,1,1,1
+1 True Lycan,Toxapex,5,2,0,6,133,33,3,0,,1,1,0,1,1
+myjava,Dragapult,6,4,0,98,112,12,3,0,,1,0,1,1,0
+myjava,Grimmsnarl,9,4,0,0,124,24,2,0,,1,0,0,1,0
+myjava,Hatterene,14,1,3,312,202,102,6,0,,1,0,0,1,0
+myjava,Kingambit,3,2,0,46,112,12,1,1,Dark,1,0,0,1,0
+myjava,Rillaboom,5,3,0,68,125,25,3,0,,1,0,0,1,0
+myjava,Sneasler,6,2,1,185,100,0,2,0,,1,0,0,1,0
+Raj.Shoot ♫ ❤ ツ,Dragapult,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Raj.Shoot ♫ ❤ ツ,Grimmsnarl,1,1,0,0,33,12,1,0,,0,0,0,0,1
+Raj.Shoot ♫ ❤ ツ,Hatterene,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Raj.Shoot ♫ ❤ ツ,Kingambit,0,1,0,0,29,7,1,0,,0,0,0,0,1
+Raj.Shoot ♫ ❤ ツ,Rillaboom,0,1,0,0,0,0,0,0,,0,0,1,0,1
+Raj.Shoot ♫ ❤ ツ,Sneasler,6,1,3,313,42,21,1,0,,0,0,0,0,1
+Kyo,Amoonguss,2,1,0,9,0,0,0,0,,1,1,0,0,0
+Kyo,Dragapult,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Kyo,Great Tusk,0,1,0,0,113,13,2,1,Water,1,1,0,1,0
+Kyo,Iron Moth,0,0,0,0,0,0,0,0,,1,1,0,0,0
+Kyo,Samurott-Hisui,0,0,0,0,0,0,0,0,,1,1,0,0,0
+Kyo,Zapdos,2,2,0,62,100,0,1,0,,1,1,1,1,0
+DonSalvatore,Gholdengo,0,1,0,0,100,0,1,0,,0,0,0,1,0
+DonSalvatore,Heatran,0,2,0,0,106,6,1,0,,0,0,0,1,0
+DonSalvatore,Landorus-Therian,4,1,1,100,100,0,1,0,,0,0,1,1,0
+DonSalvatore,Samurott-Hisui,1,1,0,49,100,0,1,0,,0,0,0,1,0
+DonSalvatore,Zamazenta,5,2,0,161,113,13,1,0,,0,0,0,1,0
+DonSalvatore,Zapdos,9,2,2,164,250,150,5,0,,0,0,0,1,0
+xavgb,Azumarill,1,1,1,51,125,25,3,0,,1,1,0,1,1
+xavgb,Garchomp,4,1,0,0,100,0,3,0,,1,1,1,1,1
+xavgb,Gholdengo,1,1,0,0,62,7,2,0,,1,1,0,0,1
+xavgb,Great Tusk,3,2,1,136,100,0,2,0,,1,1,0,1,1
+xavgb,Moltres-Galar,5,2,2,215,86,25,3,1,Fairy,1,1,0,0,1
+xavgb,Walking Wake,2,1,2,163,61,0,1,0,,1,1,0,0,1
+MAVERICK SHOOTERS,Azumarill,2,3,1,68,125,25,3,0,,1,0,0,1,1
+MAVERICK SHOOTERS,Dragapult,5,1,0,0,100,0,5,0,,1,0,0,1,1
+MAVERICK SHOOTERS,Hydreigon,4,2,0,101,100,0,2,0,,1,0,1,1,1
+MAVERICK SHOOTERS,Iron Valiant,6,1,3,259,85,0,2,1,Ghost,1,0,0,0,1
+MAVERICK SHOOTERS,Roaring Moon,1,1,0,39,28,0,0,0,,1,0,0,0,1
+MAVERICK SHOOTERS,Uxie,1,1,0,0,12,12,0,0,,1,0,0,0,1
+Stellar Flares,Baxcalibur,0,1,0,0,100,0,1,0,,1,1,0,1,0
+Stellar Flares,Corviknight,6,3,1,4,102,89,2,0,,1,1,0,0,0
+Stellar Flares,Skeledirge,4,3,1,105,100,0,2,1,Water,1,1,0,1,0
+Stellar Flares,Slowking-Galar,1,2,0,0,133,33,3,0,,1,1,0,1,0
+Stellar Flares,Ting-Lu,8,1,1,193,118,18,1,0,,1,1,1,1,0
+Stellar Flares,Zamazenta,0,0,0,0,0,0,0,0,,1,1,0,0,0
+Nutrino,Dragapult,7,3,0,19,100,0,2,0,,1,0,0,1,0
+Nutrino,Garchomp,7,3,0,23,118,18,4,0,,1,0,1,1,0
+Nutrino,Gholdengo,4,3,1,184,112,12,2,0,,1,0,0,1,0
+Nutrino,Kingambit,1,2,1,26,100,0,2,0,,1,0,0,1,0
+Nutrino,Rillaboom,5,5,0,75,148,48,7,0,,1,0,0,1,0
+Nutrino,Sneasler,4,2,1,179,106,6,1,1,Flying,1,0,0,1,0
+Malekith,Dragonite,8,2,2,135,119,64,3,1,Normal,1,1,0,0,1
+Malekith,Great Tusk,1,2,0,0,131,31,1,0,,1,1,0,1,1
+Malekith,Kingambit,5,3,3,172,156,56,1,0,,1,1,0,1,1
+Malekith,Landorus-Therian,12,2,0,173,144,68,2,0,,1,1,1,0,1
+Malekith,Skeledirge,4,3,1,96,200,100,3,0,,1,1,0,1,1
+Malekith,Slowking-Galar,2,3,0,0,34,26,3,0,,1,1,0,0,1
+watashi,Enamorus,1,1,0,92,106,6,10,0,,1,0,0,1,0
+watashi,Garganacl,4,3,0,37,81,6,5,1,Water,1,0,1,0,0
+watashi,Great Tusk,0,1,0,0,0,0,0,0,,1,0,0,0,0
+watashi,Iron Valiant,4,1,1,183,100,0,1,0,,1,0,0,1,0
+watashi,Kingambit,1,2,0,0,112,12,5,0,,1,0,0,1,0
+watashi,Slowking-Galar,0,2,0,0,133,33,6,0,,1,0,0,1,0
+avarice,Brute Bonnet,7,3,3,295,117,92,2,0,,1,1,0,0,1
+avarice,Great Tusk,0,1,0,0,100,0,2,0,,1,1,0,1,1
+avarice,Hatterene,1,2,0,0,37,0,2,0,,1,1,0,1,1
+avarice,Roaring Moon,0,0,0,0,0,0,0,0,,1,1,0,0,1
+avarice,Torkoal,0,1,0,0,25,0,1,0,,1,1,0,0,1
+avarice,Walking Wake,3,2,1,237,58,0,1,1,Water,1,1,1,0,1
+feen,Dragapult,2,3,1,138,100,0,2,1,Ghost,1,0,1,1,0
+feen,Garganacl,0,1,0,0,106,6,2,0,,1,0,0,1,0
+feen,Great Tusk,4,2,1,100,125,25,3,0,,1,0,0,1,0
+feen,Heatran,1,2,1,100,112,12,3,0,,1,0,0,1,0
+feen,Slowbro,1,2,0,54,133,33,2,0,,1,0,0,1,0
+feen,Zapdos,1,2,1,8,100,0,2,0,,1,0,0,1,0
+Unamed,Dragonite,6,1,1,110,100,0,4,0,,1,1,0,1,1
+Unamed,Gholdengo,2,1,0,100,100,0,1,0,,1,1,0,1,1
+Unamed,Iron Moth,3,1,2,149,100,0,2,0,,1,1,0,1,1
+Unamed,Iron Valiant,2,1,2,89,0,0,0,0,,1,1,0,0,1
+Unamed,Sandy Shocks,4,1,1,228,100,0,2,1,Ice,1,1,1,1,1
+Unamed,Scizor,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Mushfiq98,Gholdengo,3,2,1,140,100,0,3,1,Ghost,1,0,0,1,1
+Mushfiq98,Great Tusk,2,1,0,0,100,0,2,0,,1,0,1,1,1
+Mushfiq98,Iron Valiant,1,1,1,3,100,0,1,0,,1,0,0,1,1
+Mushfiq98,Kingambit,3,2,2,68,94,0,3,0,,1,0,0,0,1
+Mushfiq98,Roaring Moon,2,2,1,185,100,0,2,0,,1,0,0,1,1
+Mushfiq98,Thundurus-Therian,3,1,1,105,100,0,4,0,,1,0,0,1,1
+tesoro mio,Dragapult,3,2,1,121,118,18,3,0,,1,1,0,1,0
+tesoro mio,Enamorus,2,1,1,100,100,0,2,0,,1,1,0,1,0
+tesoro mio,Glimmora,1,3,0,0,100,0,2,0,,1,1,1,1,0
+tesoro mio,Iron Moth,3,1,1,92,100,0,1,0,,1,1,0,1,0
+tesoro mio,Iron Valiant,3,1,1,181,100,0,2,1,Steel,1,1,0,1,0
+tesoro mio,Kingambit,4,2,1,100,100,0,2,0,,1,1,0,1,0
+beware of coco,Dragapult,0,1,0,0,100,0,1,1,Normal,1,0,0,1,0
+beware of coco,Iron Treads,5,1,0,68,100,0,1,0,,1,0,1,1,0
+beware of coco,Iron Valiant,2,2,0,40,100,0,2,0,,1,0,0,1,0
+beware of coco,Lilligant-Hisui,2,1,1,14,100,0,3,0,,1,0,0,1,0
+beware of coco,Mew,5,1,1,36,135,35,3,0,,1,0,0,1,0
+beware of coco,Roaring Moon,8,1,2,198,100,0,3,0,,1,0,0,1,0
+pdt,Amoonguss,2,3,0,86,79,67,1,0,,1,1,0,0,1
+pdt,Dragapult,3,2,0,69,112,12,2,0,,1,1,1,1,1
+pdt,Great Tusk,3,1,2,114,43,0,1,0,,1,1,0,0,1
+pdt,Heatran,1,2,1,0,100,0,3,0,,1,1,0,1,1
+pdt,Landorus-Therian,3,5,1,100,124,24,2,0,,1,1,0,1,1
+pdt,Walking Wake,6,2,2,235,100,0,2,1,Water,1,1,0,1,1
+Kaif☆彡Plays♗,Azumarill,3,1,1,126,125,25,4,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Dragapult,3,2,0,0,100,0,4,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Hatterene,6,2,0,44,124,24,1,1,Water,1,1,0,1,0
+Kaif☆彡Plays♗,Iron Valiant,3,1,1,106,100,0,2,0,,1,1,0,1,0
+Kaif☆彡Plays♗,Meowscarada,4,1,0,105,100,0,3,0,,1,1,1,1,0
+Kaif☆彡Plays♗,Sneasler,3,1,1,80,100,0,2,0,,1,1,0,1,0
+Trogba Trogba,Dragapult,2,2,1,57,0,0,0,0,,1,0,0,0,1
+Trogba Trogba,Hatterene,9,1,1,256,222,122,4,0,,1,0,1,1,1
+Trogba Trogba,Kingambit,4,1,1,100,124,24,3,1,Flying,1,0,0,1,1
+Trogba Trogba,Landorus-Therian,1,1,0,63,106,6,2,0,,1,0,0,1,1
+Trogba Trogba,Scizor,5,2,3,149,0,0,0,0,,1,0,0,0,1
+Trogba Trogba,Slowking-Galar,2,2,0,0,80,33,2,0,,1,0,0,0,1
+Eoward,Baxcalibur,12,2,1,332,204,104,3,0,,1,1,1,1,1
+Eoward,Cinderace,2,1,0,4,75,0,1,0,,1,1,0,0,1
+Eoward,Enamorus,0,1,0,0,100,0,1,0,,1,1,0,1,1
+Eoward,Great Tusk,4,2,1,185,112,12,4,0,,1,1,0,1,1
+Eoward,Kingambit,5,2,4,181,103,37,2,1,Fairy,1,1,0,0,1
+Eoward,Slowking-Galar,1,1,0,0,6,6,1,0,,1,1,0,0,1
+oldspicemike,Hatterene,4,3,0,99,203,103,4,0,,1,0,0,1,0
+oldspicemike,Heatran,4,1,0,75,100,0,2,0,,1,0,0,1,0
+oldspicemike,Iron Valiant,3,1,1,58,100,0,2,0,,1,0,0,1,0
+oldspicemike,Kingambit,7,2,2,157,142,42,5,1,Fairy,1,0,0,1,0
+oldspicemike,Rillaboom,2,4,0,6,113,13,3,0,,1,0,1,1,0
+oldspicemike,Sneasler,3,1,0,96,100,0,2,0,,1,0,0,1,0
+sunsetss,Amoonguss,17,11,0,104,230,137,17,0,,1,1,0,0,1
+sunsetss,Cinderace,12,8,0,172,76,0,4,0,,1,1,0,0,1
+sunsetss,Garganacl,12,5,0,127,178,113,6,0,,1,1,0,0,1
+sunsetss,Iron Valiant,11,4,2,323,76,0,1,1,Electric,1,1,0,0,1
+sunsetss,Kingambit,3,4,2,90,109,37,4,0,,1,1,0,0,1
+sunsetss,Landorus-Therian,36,15,2,472,143,45,10,0,,1,1,1,0,1
+velvet,Baxcalibur,3,2,0,102,100,0,3,0,,1,0,0,1,0
+velvet,Corviknight,13,22,0,100,290,190,23,0,,1,0,0,1,0
+velvet,Great Tusk,6,13,0,76,100,0,6,0,,1,0,0,1,0
+velvet,Ting-Lu,8,15,0,26,321,221,16,1,Ghost,1,0,0,1,0
+velvet,Tornadus-Therian,1,7,0,51,223,123,6,0,,1,0,0,1,0
+velvet,Toxapex,21,18,0,321,658,558,24,0,,1,0,1,1,0
+blunderr,Garganacl,7,1,0,36,155,135,3,1,Fairy,1,1,0,0,1
+blunderr,Great Tusk,1,1,1,12,0,0,0,0,,1,1,0,0,1
+blunderr,Maushold-Four,0,0,0,0,0,0,0,0,,1,1,0,0,1
+blunderr,Moltres,4,3,0,8,150,50,3,0,,1,1,0,1,1
+blunderr,Slowking-Galar,2,1,0,73,100,0,3,0,,1,1,0,1,1
+blunderr,Walking Wake,5,4,3,264,49,0,2,0,,1,1,1,0,1
+RUBYBLOOD,Dragapult,2,2,0,73,77,0,2,0,,1,0,0,0,0
+RUBYBLOOD,Great Tusk,3,1,1,100,100,0,2,1,Water,1,0,0,1,0
+RUBYBLOOD,Heatran,6,4,1,88,106,50,4,0,,1,0,0,0,0
+RUBYBLOOD,Iron Valiant,2,3,0,50,100,0,1,0,,1,0,0,1,0
+RUBYBLOOD,Samurott-Hisui,3,2,0,82,100,0,1,0,,1,0,0,1,0
+RUBYBLOOD,Zapdos,0,1,0,0,100,0,1,0,,1,0,1,1,0
+uk wcop ladder alt,Hawlucha,0,0,0,0,0,0,0,0,,1,0,0,0,1
+uk wcop ladder alt,Heatran,6,3,1,94,173,73,4,0,,1,0,1,1,1
+uk wcop ladder alt,Iron Valiant,0,0,0,0,0,0,0,0,,1,0,0,0,1
+uk wcop ladder alt,Landorus-Therian,10,1,5,437,107,53,2,1,Fairy,1,0,0,0,1
+uk wcop ladder alt,Rillaboom,3,3,0,32,65,12,1,0,,1,0,0,0,1
+uk wcop ladder alt,Sneasler,2,2,0,78,106,6,1,0,,1,0,0,1,1
+Joeshh,Amoonguss,1,5,0,0,197,97,3,1,Dark,1,1,1,1,0
+Joeshh,Dragapult,3,3,1,111,100,0,1,0,,1,1,0,1,0
+Joeshh,Garganacl,4,2,0,21,131,31,3,0,,1,1,0,1,0
+Joeshh,Great Tusk,0,1,0,0,103,3,1,0,,1,1,0,1,0
+Joeshh,Skeledirge,1,1,0,36,100,0,2,0,,1,1,0,1,0
+Joeshh,Zapdos,4,3,1,112,100,0,3,0,,1,1,0,1,0
+SOULWIND,Dragonite,5,2,2,102,100,0,3,0,,1,0,0,1,1
+SOULWIND,Great Tusk,5,3,0,71,125,25,3,0,,1,0,0,1,1
+SOULWIND,Kingambit,3,3,1,153,131,31,3,0,,1,0,0,1,1
+SOULWIND,Landorus-Therian,6,4,1,179,149,49,2,0,,1,0,1,1,1
+SOULWIND,Skeledirge,1,1,2,19,43,0,1,1,Water,1,0,0,0,1
+SOULWIND,Slowking-Galar,3,2,0,0,125,33,5,0,,1,0,0,0,1
+Wanony,Dragapult,2,3,0,93,100,0,1,0,,1,1,0,1,0
+Wanony,Great Tusk,4,1,0,91,100,0,2,0,,1,1,0,1,0
+Wanony,Heatran,4,4,1,98,124,24,3,0,,1,1,0,1,0
+Wanony,Iron Valiant,5,1,1,143,100,0,3,1,Ghost,1,1,0,1,0
+Wanony,Samurott-Hisui,3,2,2,50,100,0,3,0,,1,1,0,1,0
+Wanony,Zapdos,7,3,0,125,133,33,4,0,,1,1,1,1,0
+lax,Cinderace,3,2,1,136,100,0,3,0,,1,0,0,1,0
+lax,Kingambit,5,4,0,131,137,37,4,0,,1,0,0,1,0
+lax,Landorus-Therian,7,3,1,207,137,37,1,1,Water,1,0,0,1,0
+lax,Rotom-Wash,8,5,1,145,130,30,5,0,,1,0,0,1,0
+lax,Slowking-Galar,1,2,0,0,55,33,1,0,,1,0,0,0,0
+lax,Sneasler,4,3,1,133,100,0,1,0,,1,0,1,1,0
+Kyo,Baxcalibur,0,2,0,0,100,0,1,0,,1,1,1,1,1
+Kyo,Cinderace,9,4,1,218,100,0,3,0,,1,1,0,1,1
+Kyo,Enamorus,2,4,0,0,65,0,1,0,,1,1,0,1,1
+Kyo,Great Tusk,2,4,0,31,132,32,5,0,,1,1,0,1,1
+Kyo,Kingambit,8,3,4,305,171,91,4,1,Fairy,1,1,0,0,1
+Kyo,Slowking-Galar,3,4,0,0,184,84,7,0,,1,1,0,1,1
+Leftiez,Corviknight,1,3,0,7,100,0,3,0,,1,0,0,1,1
+Leftiez,Greninja,2,2,2,145,100,0,2,0,,1,0,0,1,1
+Leftiez,Kingambit,2,1,2,162,0,0,0,1,Fairy,1,0,0,0,1
+Leftiez,Ting-Lu,7,6,2,147,100,0,8,0,,1,0,0,1,1
+Leftiez,Toxapex,0,0,0,0,0,0,0,0,,1,0,0,0,1
+Leftiez,Zapdos,10,4,0,113,226,189,5,0,,1,0,1,0,1
+Javitu,Gholdengo,2,3,1,31,100,0,1,0,,1,1,0,1,0
+Javitu,Great Tusk,3,5,0,49,137,37,3,0,,1,1,0,1,0
+Javitu,Iron Valiant,2,1,1,35,100,0,1,1,Dark,1,1,0,1,0
+Javitu,Samurott-Hisui,5,3,1,157,100,0,1,0,,1,1,0,1,0
+Javitu,Slowking-Galar,5,4,0,0,176,76,5,0,,1,1,0,1,0
+Javitu,Zapdos,6,4,0,115,100,0,4,0,,1,1,1,1,0
+Vavilov Tcherenkov,Baxcalibur,3,1,0,72,51,0,1,0,,1,1,0,0,1
+Vavilov Tcherenkov,Gholdengo,6,2,1,222,100,0,4,1,Fairy,1,1,0,1,1
+Vavilov Tcherenkov,Hatterene,9,1,3,266,101,80,3,0,,1,1,0,0,1
+Vavilov Tcherenkov,Iron Valiant,2,1,1,63,100,0,1,0,,1,1,0,1,1
+Vavilov Tcherenkov,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Vavilov Tcherenkov,Sandy Shocks,3,2,0,98,100,0,2,0,,1,1,1,1,1
+xdRudi.exe,Enamorus,2,2,0,0,24,0,0,0,,1,0,0,1,0
+xdRudi.exe,Garganacl,6,2,0,59,185,85,5,1,Fairy,1,0,0,1,0
+xdRudi.exe,Great Tusk,2,1,1,45,100,0,3,0,,1,0,0,1,0
+xdRudi.exe,Kingambit,0,2,0,0,106,6,1,0,,1,0,0,1,0
+xdRudi.exe,Slowking-Galar,5,4,2,218,202,102,4,0,,1,0,1,1,0
+xdRudi.exe,Zamazenta,3,2,0,76,187,87,2,0,,1,0,0,1,0
+Trosko,Baxcalibur,6,2,1,147,100,0,2,1,Fairy,1,0,0,1,0
+Trosko,Great Tusk,3,3,1,30,137,37,5,0,,1,0,0,1,0
+Trosko,Kingambit,5,1,2,188,100,0,3,0,,1,0,0,1,0
+Trosko,Moltres,3,4,0,0,246,146,4,0,,1,0,1,1,0
+Trosko,Slowking-Galar,4,7,0,84,211,141,7,0,,1,0,0,0,0
+Trosko,Zamazenta,2,2,1,157,100,0,1,0,,1,0,0,1,0
+Raiza,Great Tusk,6,2,1,117,125,25,3,0,,1,1,0,1,1
+Raiza,Hoopa-Unbound,5,4,2,222,100,0,3,1,Fairy,1,1,0,1,1
+Raiza,Kingambit,5,4,1,142,64,18,1,0,,1,1,0,0,1
+Raiza,Slowking-Galar,0,1,0,0,100,0,1,0,,1,1,0,1,1
+Raiza,Zamazenta,4,3,1,100,133,33,5,0,,1,1,0,1,1
+Raiza,Zapdos,9,7,0,126,100,0,1,0,,1,1,1,1,1
+Highv0ltag3,Armarouge,8,3,5,421,85,0,2,0,,1,1,0,0,1
+Highv0ltag3,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Highv0ltag3,Greninja,2,1,0,87,100,0,2,1,Water,1,1,0,1,1
+Highv0ltag3,Hatterene,1,2,0,30,100,0,2,0,,1,1,0,1,1
+Highv0ltag3,Indeedee,0,2,0,0,90,0,2,0,,1,1,1,0,1
+Highv0ltag3,Iron Valiant,2,1,1,114,100,0,1,0,,1,1,0,1,1
+ayevon,Dragapult,2,3,0,175,100,0,2,0,,1,0,0,1,0
+ayevon,Gholdengo,3,3,2,191,100,0,2,0,,1,0,1,1,0
+ayevon,Great Tusk,0,1,0,0,100,0,1,0,,1,0,0,1,0
+ayevon,Iron Valiant,0,1,0,0,100,0,1,0,,1,0,0,1,0
+ayevon,Slowking-Galar,1,2,1,41,133,33,3,1,Grass,1,0,0,1,0
+ayevon,Ting-Lu,2,1,0,49,119,19,3,0,,1,0,0,1,0
+M Dragon,Baxcalibur,3,3,0,54,100,0,3,0,,1,1,1,1,0
+M Dragon,Dragonite,1,3,0,62,100,0,2,0,,1,1,0,1,0
+M Dragon,Great Tusk,10,6,0,146,124,24,7,0,,1,1,0,1,0
+M Dragon,Iron Valiant,3,7,0,79,100,0,3,0,,1,1,0,1,0
+M Dragon,Kingambit,8,3,2,157,125,25,3,1,Flying,1,1,0,1,0
+M Dragon,Slowking-Galar,4,7,0,42,200,100,5,0,,1,1,0,1,0
+70to90gxe,Amoonguss,3,6,1,32,110,29,3,0,,1,0,1,0,1
+70to90gxe,Enamorus,5,3,1,133,43,0,2,0,,1,0,0,1,1
+70to90gxe,Garganacl,2,1,0,44,42,42,1,0,,1,0,0,0,1
+70to90gxe,Great Tusk,7,3,0,95,100,0,6,0,,1,0,0,1,1
+70to90gxe,Kingambit,7,5,3,143,98,56,2,1,Fairy,1,0,0,0,1
+70to90gxe,Zamazenta,11,3,1,197,155,55,4,0,,1,0,0,1,1
+Sylveon is so cute,Baxcalibur,6,2,5,280,109,12,1,0,,1,1,0,0,1
+Sylveon is so cute,Cinderace,1,1,0,18,9,0,1,0,,1,1,0,0,1
+Sylveon is so cute,Enamorus,4,3,0,132,53,0,2,1,Steel,1,1,0,0,1
+Sylveon is so cute,Great Tusk,7,2,0,122,112,12,7,0,,1,1,0,1,1
+Sylveon is so cute,Kingambit,5,2,1,80,70,32,2,0,,1,1,0,0,1
+Sylveon is so cute,Slowking-Galar,5,4,0,75,95,21,4,0,,1,1,1,0,1
+TPP,Baxcalibur,5,5,0,176,100,0,3,1,Fairy,1,0,1,1,0
+TPP,Corviknight,7,5,0,112,136,36,4,0,,1,0,0,1,0
+TPP,Great Tusk,3,2,0,53,100,0,5,0,,1,0,0,1,0
+TPP,Ting-Lu,4,3,1,59,100,0,4,0,,1,0,0,1,0
+TPP,Tornadus-Therian,1,3,0,0,100,0,2,0,,1,0,0,1,0
+TPP,Toxapex,0,4,0,0,171,71,4,0,,1,0,0,1,0
+xavgb,Gholdengo,4,2,1,142,44,0,1,1,Ghost,1,1,1,0,1
+xavgb,Iron Valiant,2,1,0,0,0,0,0,0,,1,1,0,0,1
+xavgb,Rotom-Wash,6,5,0,95,78,37,4,0,,1,1,0,0,1
+xavgb,Scizor,6,4,0,220,15,0,1,0,,1,1,0,0,1
+xavgb,Ting-Lu,1,1,0,45,23,6,1,0,,1,1,0,0,1
+xavgb,Zamazenta,5,2,3,240,22,0,1,0,,1,1,0,0,1
+b1kharma,Cinderace,2,4,0,37,49,0,1,0,,1,0,1,0,0
+b1kharma,Cresselia,8,2,0,38,192,103,4,0,,1,0,0,0,0
+b1kharma,Dragonite,3,1,0,44,142,42,3,0,,1,0,0,1,0
+b1kharma,Garganacl,1,2,0,0,106,6,2,0,,1,0,0,1,0
+b1kharma,Slowking-Galar,3,2,0,33,159,59,5,0,,1,0,0,1,0
+b1kharma,Zamazenta,3,2,0,18,118,18,3,1,Steel,1,0,0,1,0
+Yelodash,Garganacl,1,1,0,0,107,7,2,0,,1,1,0,1,0
+Yelodash,Great Tusk,7,5,1,87,107,7,7,0,,1,1,0,1,0
+Yelodash,Hoopa-Unbound,3,5,1,92,100,0,1,0,,1,1,1,1,0
+Yelodash,Moltres,4,5,0,9,149,49,6,0,,1,1,0,1,0
+Yelodash,Slowking-Galar,6,8,0,0,391,291,10,0,,1,1,0,1,0
+Yelodash,Zamazenta,2,6,0,63,100,0,4,1,Steel,1,1,0,1,0
+starmaster,Amoonguss,0,3,0,0,47,33,1,0,,1,0,0,0,1
+starmaster,Enamorus,8,3,1,126,64,0,1,1,Steel,1,0,1,0,1
+starmaster,Garganacl,1,1,0,1,9,7,1,0,,1,0,0,0,1
+starmaster,Great Tusk,7,2,0,49,100,0,2,0,,1,0,0,1,1
+starmaster,Kingambit,2,2,0,70,112,12,3,0,,1,0,0,1,1
+starmaster,Zamazenta,18,1,5,615,30,30,0,0,,1,0,0,0,1
+Stellar Flares,Baxcalibur,2,3,1,127,100,0,2,0,,1,0,1,1,1
+Stellar Flares,Cinderace,1,3,0,5,100,0,4,0,,1,0,0,1,1
+Stellar Flares,Enamorus,2,2,0,80,57,12,1,0,,1,0,0,0,1
+Stellar Flares,Kingambit,5,3,3,175,61,43,4,1,Fire,1,0,0,0,1
+Stellar Flares,Landorus-Therian,6,4,0,60,100,0,4,0,,1,0,0,1,1
+Stellar Flares,Slowking-Galar,5,6,0,29,269,198,6,0,,1,0,0,0,1
+punk choi,Dragapult,9,5,3,199,100,0,2,0,,1,1,1,1,0
+punk choi,Garganacl,2,2,0,79,125,25,2,1,Water,1,1,0,1,0
+punk choi,Great Tusk,3,3,0,26,100,0,3,0,,1,1,0,1,0
+punk choi,Scizor,1,1,0,25,0,0,0,0,,1,1,0,0,0
+punk choi,Slowking-Galar,4,3,0,0,80,34,2,0,,1,1,0,0,0
+punk choi,Zapdos,8,4,0,78,118,18,3,0,,1,1,0,1,0
+INSULT,Gholdengo,0,1,0,0,100,0,1,0,,1,1,0,1,0
+INSULT,Glimmora,2,1,0,94,100,0,2,0,,1,1,1,1,0
+INSULT,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,0
+INSULT,Iron Valiant,0,0,0,0,0,0,0,0,,1,1,0,0,0
+INSULT,Roaring Moon,0,0,0,0,0,0,0,0,,1,1,0,0,0
+INSULT,Walking Wake,1,1,0,0,100,0,2,1,Steel,1,1,0,1,0
+Summerchu,Great Tusk,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Summerchu,Hatterene,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Summerchu,Iron Valiant,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Summerchu,Kingambit,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Summerchu,Samurott-Hisui,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Summerchu,Walking Wake,6,1,3,300,94,0,2,0,,0,0,1,0,1
+TPP,Baxcalibur,5,3,2,185,100,0,4,0,,1,0,0,1,0
+TPP,Cinderace,7,7,1,73,100,0,3,0,,1,0,1,1,0
+TPP,Enamorus,2,2,0,57,100,0,3,0,,1,0,0,1,0
+TPP,Great Tusk,3,3,0,40,118,18,3,0,,1,0,0,1,0
+TPP,Kingambit,2,4,0,54,118,18,2,0,,1,0,0,1,0
+TPP,Slowking-Galar,3,3,0,62,151,51,5,1,Grass,1,0,0,1,0
+Hayburner,Amoonguss,3,2,2,34,100,33,2,0,,1,1,0,0,1
+Hayburner,Garganacl,2,2,0,18,113,13,4,1,Water,1,1,0,1,1
+Hayburner,Gholdengo,3,2,1,114,0,0,0,0,,1,1,0,0,1
+Hayburner,Great Tusk,3,3,0,61,110,10,3,0,,1,1,0,1,1
+Hayburner,Ting-Lu,7,1,2,191,148,48,8,0,,1,1,0,1,1
+Hayburner,Zapdos,9,3,1,245,0,0,0,0,,1,1,1,0,1
+DAHLI,Baxcalibur,1,1,0,18,0,0,0,0,,1,0,0,0,1
+DAHLI,Enamorus,2,1,1,127,25,0,1,0,,1,0,0,0,1
+DAHLI,Great Tusk,3,2,1,75,100,0,3,0,,1,0,0,1,1
+DAHLI,Slowking-Galar,0,1,0,0,0,0,0,0,,1,0,0,0,1
+DAHLI,Ting-Lu,6,1,2,108,88,41,4,1,Ghost,1,0,0,0,1
+DAHLI,Zapdos,2,3,0,52,19,0,1,0,,1,0,1,0,1
+Fairy Peak!,Enamorus,2,3,0,72,100,0,3,0,,1,1,0,1,0
+Fairy Peak!,Iron Moth,1,2,0,16,18,0,1,0,,1,1,0,0,0
+Fairy Peak!,Iron Valiant,3,2,1,62,100,0,3,0,,1,1,0,1,0
+Fairy Peak!,Landorus-Therian,4,2,0,10,100,0,3,1,Ghost,1,1,0,1,0
+Fairy Peak!,Meowscarada,2,1,0,25,100,0,2,0,,1,1,1,1,0
+Fairy Peak!,Zamazenta,2,2,0,19,0,0,0,0,,1,1,0,0,0
+StepC,Armarouge,2,1,0,36,100,0,2,1,Psychic,1,0,0,1,0
+StepC,Azelf,5,7,0,75,100,0,3,0,,1,0,1,1,0
+StepC,Hatterene,3,2,0,139,100,0,3,0,,1,0,0,1,0
+StepC,Indeedee,4,2,0,74,100,0,5,0,,1,0,0,1,0
+StepC,Polteageist,3,2,2,167,0,0,0,0,,1,0,0,1,0
+StepC,Sneasler,2,3,2,14,100,0,1,0,,1,0,0,1,0
+xavgb,Dragonite,5,2,2,128,36,0,1,0,,1,1,0,0,1
+xavgb,Garchomp,0,2,0,0,100,0,3,0,,1,1,0,1,1
+xavgb,Gholdengo,5,2,0,74,150,50,7,0,,1,1,1,1,1
+xavgb,Hoopa-Unbound,4,5,3,173,19,0,1,1,Fairy,1,1,0,0,1
+xavgb,Iron Valiant,1,1,0,0,100,0,1,0,,1,1,0,1,1
+xavgb,Rotom-Wash,3,4,0,68,100,0,4,0,,1,1,0,1,1
+Jytcampbell,Baxcalibur,7,3,2,140,100,0,2,0,,1,1,0,1,0
+Jytcampbell,Grimmsnarl,5,2,0,53,100,0,5,0,,1,1,0,1,0
+Jytcampbell,Hatterene,5,3,0,74,159,59,4,0,,1,1,0,1,0
+Jytcampbell,Iron Valiant,6,1,1,191,100,0,2,0,,1,1,0,1,0
+Jytcampbell,Moltres-Galar,3,2,1,59,125,25,4,1,Fairy,1,1,1,1,0
+Jytcampbell,Scizor,2,3,0,57,137,37,2,0,,1,1,0,1,0
+njnp,Baxcalibur,1,3,0,32,100,0,2,0,,1,0,0,1,1
+njnp,Cinderace,6,5,2,205,90,0,3,0,,1,0,0,0,1
+njnp,Iron Valiant,6,5,1,223,100,0,2,0,,1,0,0,1,1
+njnp,Kingambit,7,3,2,135,138,38,3,0,,1,0,1,1,1
+njnp,Landorus-Therian,2,4,0,26,100,0,4,0,,1,0,0,1,1
+njnp,Slowking-Galar,3,2,1,100,81,33,2,1,Water,1,0,0,1,1
+F.A.K.E.E,Cinderace,5,4,0,39,129,56,3,0,,1,0,0,0,1
+F.A.K.E.E,Garganacl,24,2,6,551,468,405,20,1,Water,1,0,0,0,1
+F.A.K.E.E,Great Tusk,5,3,0,28,93,0,3,0,,1,0,0,0,1
+F.A.K.E.E,Hoopa-Unbound,7,4,0,180,100,0,3,0,,1,0,0,1,1
+F.A.K.E.E,Scream Tail,7,6,0,54,247,224,10,0,,1,0,0,0,1
+F.A.K.E.E,Zapdos,10,4,0,82,24,0,2,0,,1,0,1,0,1
+punk choi,Baxcalibur,7,5,1,312,114,14,2,0,,1,1,0,1,0
+punk choi,Cinderace,9,5,0,160,100,0,3,0,,1,1,0,1,0
+punk choi,Great Tusk,8,6,0,127,100,0,7,0,,1,1,0,1,0
+punk choi,Kingambit,2,1,0,30,106,6,2,1,Flying,1,1,0,1,0
+punk choi,Slowking-Galar,7,8,0,53,232,132,6,0,,1,1,0,1,0
+punk choi,Zapdos,23,7,0,357,351,251,13,0,,1,1,1,1,0
+Piyush21,Enamorus,4,2,2,33,84,18,1,0,,0,0,0,0,1
+Piyush21,Garganacl,4,2,0,60,36,6,1,0,,0,0,0,0,1
+Piyush21,Great Tusk,3,1,0,53,100,0,3,0,,0,0,0,1,1
+Piyush21,Iron Valiant,7,1,4,431,100,0,2,0,,0,0,0,1,1
+Piyush21,Kingambit,1,1,0,0,0,0,0,0,,0,0,0,0,1
+Piyush21,Slowking-Galar,3,4,0,0,155,55,5,0,,0,0,1,1,1
+DRlP BAYLESS,Great Tusk,4,1,1,59,100,0,4,0,,1,1,0,1,0
+DRlP BAYLESS,Iron Valiant,2,1,1,100,100,0,1,1,Dark,1,1,0,1,0
+DRlP BAYLESS,Rotom-Wash,3,3,0,30,106,6,2,0,,1,1,1,1,0
+DRlP BAYLESS,Slowking-Galar,6,5,0,78,146,46,3,0,,1,1,0,1,0
+DRlP BAYLESS,Ting-Lu,1,2,0,24,106,6,2,0,,1,1,0,1,0
+DRlP BAYLESS,Zamazenta,3,3,1,118,100,0,2,0,,1,1,0,1,0
+HYper,Great Tusk,6,10,0,17,42,0,3,0,,1,0,0,0,0
+HYper,Kingambit,14,10,2,342,160,109,3,0,,1,0,0,0,0
+HYper,Slowking-Galar,9,8,0,60,157,57,3,0,,1,0,0,1,0
+HYper,Thundurus,16,10,0,209,100,0,2,0,,1,0,1,1,0
+HYper,Walking Wake,5,6,0,128,100,0,1,0,,1,0,0,1,0
+HYper,Zamazenta,4,2,0,132,100,0,2,1,Steel,1,0,0,1,0
+IDM Blim ✅,Blissey,6,11,0,24,250,215,12,0,,1,1,0,0,1
+IDM Blim ✅,Corviknight,8,7,0,23,62,50,1,0,,1,1,0,0,1
+IDM Blim ✅,Hippowdon,11,14,1,112,186,174,10,0,,1,1,1,0,1
+IDM Blim ✅,Skeledirge,8,3,2,113,133,33,4,0,,1,1,0,1,1
+IDM Blim ✅,Tornadus-Therian,4,4,1,71,103,68,3,0,,1,1,0,0,1
+IDM Blim ✅,Toxapex,6,7,0,25,283,183,6,1,Fairy,1,1,0,1,1
+Skc44,Garchomp,13,1,0,28,100,0,2,0,,1,1,0,1,0
+Skc44,Gholdengo,1,1,0,60,100,0,3,0,,1,1,0,1,0
+Skc44,Great Tusk,7,1,0,83,100,0,1,1,Electric,1,1,0,1,0
+Skc44,Iron Valiant,4,4,1,130,100,0,1,0,,1,1,1,1,0
+Skc44,Kingambit,1,2,0,30,100,0,2,0,,1,1,0,1,0
+Skc44,Moltres,2,2,0,29,100,0,2,0,,1,1,0,1,0
+avatar 166,Gholdengo,3,3,0,20,102,67,2,0,,0,0,0,0,1
+avatar 166,Iron Valiant,4,1,1,0,100,0,5,0,,0,0,0,1,1
+avatar 166,Rotom-Wash,8,3,2,146,133,56,4,0,,0,0,0,0,1
+avatar 166,Scizor,1,1,0,11,25,0,1,0,,0,0,0,0,1
+avatar 166,Ting-Lu,8,3,2,75,72,19,4,0,,0,0,1,0,1
+avatar 166,Zamazenta,3,1,1,70,90,0,2,0,,0,0,0,0,1
+xavgb,Enamorus,1,1,0,0,0,0,0,0,,1,0,0,1,1
+xavgb,Gholdengo,11,3,1,289,100,0,8,0,,1,0,0,1,1
+xavgb,Great Tusk,1,3,0,33,100,0,1,0,,1,0,0,1,1
+xavgb,Kingambit,10,2,4,522,124,48,3,1,Dark,1,0,0,0,1
+xavgb,Samurott-Hisui,1,2,1,100,100,0,2,0,,1,0,1,1,1
+xavgb,Zamazenta,3,1,0,66,118,18,13,0,,1,0,0,1,1
+IDM Blim✅,Baxcalibur,4,2,1,118,100,0,3,1,Fairy,1,1,0,1,0
+IDM Blim✅,Corviknight,13,3,1,100,335,235,9,0,,1,1,0,1,0
+IDM Blim✅,Dondozo,8,3,0,121,285,185,6,0,,1,1,0,1,0
+IDM Blim✅,Great Tusk,1,1,0,99,100,0,1,0,,1,1,1,1,0
+IDM Blim✅,Hatterene,1,3,0,3,118,18,2,0,,1,1,0,1,0
+IDM Blim✅,Iron Moth,2,4,2,101,100,0,2,0,,1,1,0,1,0
+punk choi,Amoonguss,7,5,0,96,136,36,7,0,,1,1,0,1,1
+punk choi,Cinderace,5,2,0,36,72,0,2,0,,1,1,0,0,1
+punk choi,Garganacl,14,4,0,125,214,114,6,0,,1,1,0,1,1
+punk choi,Great Tusk,6,6,0,51,142,42,3,0,,1,1,0,1,1
+punk choi,Kingambit,10,4,6,317,69,0,3,1,Fairy,1,1,0,0,1
+punk choi,Thundurus-Therian,6,3,0,136,142,42,2,0,,1,1,1,1,1
+tesoro mio,Dragonite,6,2,0,104,124,24,4,1,Normal,1,0,0,1,0
+tesoro mio,Great Tusk,4,5,0,19,154,54,5,0,,1,0,0,1,0
+tesoro mio,Heatran,7,4,1,135,178,78,9,0,,1,0,1,1,0
+tesoro mio,Iron Valiant,7,8,1,181,100,0,5,0,,1,0,0,1,0
+tesoro mio,Slowking-Galar,4,6,1,58,292,192,7,0,,1,0,0,1,0
+tesoro mio,Tornadus-Therian,9,4,1,116,166,66,4,0,,1,0,0,1,0
+Vavilov Tcherenkov,Azumarill,0,0,0,0,0,0,0,0,,1,0,0,0,1
+Vavilov Tcherenkov,Garchomp,1,3,0,15,106,6,2,0,,1,0,1,1,1
+Vavilov Tcherenkov,Gholdengo,6,3,0,106,101,5,3,0,,1,0,0,1,1
+Vavilov Tcherenkov,Great Tusk,2,1,0,82,100,0,1,0,,1,0,0,1,1
+Vavilov Tcherenkov,Moltres-Galar,10,1,6,333,105,61,3,1,Fairy,1,0,0,0,1
+Vavilov Tcherenkov,Walking Wake,0,0,0,0,0,0,0,0,,1,0,0,0,1
+freezai,Great Tusk,2,2,0,69,100,0,2,0,,1,1,0,1,0
+freezai,Hatterene,5,2,0,96,112,12,4,1,Water,1,1,0,1,0
+freezai,Kingambit,2,2,1,81,100,0,2,0,,1,1,0,1,0
+freezai,Rillaboom,2,4,0,27,100,0,2,0,,1,1,1,1,0
+freezai,Sneasler,1,1,0,39,100,0,1,0,,1,1,0,1,0
+freezai,Walking Wake,2,2,1,100,106,6,2,0,,1,1,0,1,0
+Aberforth,Gholdengo,5,3,1,100,188,88,6,1,Ghost,1,1,0,1,0
+Aberforth,Iron Valiant,1,1,0,47,100,0,1,0,,1,1,0,1,0
+Aberforth,Moltres,11,5,2,154,268,168,9,0,,1,1,0,1,0
+Aberforth,Rotom-Wash,4,2,0,71,118,18,2,0,,1,1,1,1,0
+Aberforth,Sneasler,2,1,1,0,100,0,2,0,,1,1,0,1,0
+Aberforth,Ting-Lu,5,2,0,0,137,37,6,0,,1,1,0,1,0
+ITALIAN BOOMER,Dragapult,5,2,1,100,76,24,1,0,,1,0,0,0,1
+ITALIAN BOOMER,Great Tusk,4,2,0,66,131,31,3,0,,1,0,0,1,1
+ITALIAN BOOMER,Heatran,2,3,2,120,125,25,3,1,Grass,1,0,0,1,1
+ITALIAN BOOMER,Iron Valiant,5,3,2,168,100,0,1,0,,1,0,0,1,1
+ITALIAN BOOMER,Samurott-Hisui,8,5,1,184,100,0,1,0,,1,0,1,1,1
+ITALIAN BOOMER,Zapdos,6,4,0,104,101,50,3,0,,1,0,0,0,1
+Mushfiq98,Amoonguss,3,9,0,8,193,168,8,0,,1,1,1,0,0
+Mushfiq98,Cinderace,4,4,0,21,100,0,4,0,,1,1,0,1,0
+Mushfiq98,Enamorus-Therian,1,3,0,19,127,27,2,0,,1,1,0,1,0
+Mushfiq98,Garganacl,13,9,0,126,200,162,9,1,Water,1,1,0,0,0
+Mushfiq98,Great Tusk,2,2,0,48,100,0,1,0,,1,1,0,1,0
+Mushfiq98,Kingambit,2,2,0,46,100,0,3,0,,1,1,0,1,0
+blunderr,Dondozo,0,1,0,0,20,0,1,0,,1,0,0,0,1
+blunderr,Dragonite,0,0,0,0,0,0,0,0,,1,0,0,0,1
+blunderr,Gholdengo,15,5,2,354,107,35,7,1,Fairy,1,0,0,0,1
+blunderr,Meowscarada,8,7,0,138,27,0,1,0,,1,0,0,0,1
+blunderr,Moltres,8,9,0,80,21,0,2,0,,1,0,1,0,1
+blunderr,Ting-Lu,7,4,2,81,155,60,7,0,,1,0,0,0,1
+i♥catgirls,Dondozo,1,1,0,22,18,0,2,0,,1,1,0,0,1
+i♥catgirls,Garchomp,7,3,0,35,100,0,2,0,,1,1,0,1,1
+i♥catgirls,Gholdengo,8,3,2,146,189,89,10,1,Fairy,1,1,0,1,1
+i♥catgirls,Iron Valiant,13,3,1,300,100,0,2,0,,1,1,0,1,1
+i♥catgirls,Moltres,7,4,2,197,134,100,5,0,,1,1,0,0,1
+i♥catgirls,Ting-Lu,7,2,0,133,142,42,5,0,,1,1,1,1,1
+Dhrabb,Corviknight,10,3,0,78,173,73,5,0,,1,0,0,1,0
+Dhrabb,Hydreigon,3,2,0,13,118,18,2,1,Steel,1,0,0,1,0
+Dhrabb,Iron Valiant,4,1,1,50,100,0,1,0,,1,0,0,1,0
+Dhrabb,Landorus-Therian,10,3,0,219,154,54,2,0,,1,0,1,1,0
+Dhrabb,Rotom-Wash,7,2,1,71,143,43,4,0,,1,0,0,1,0
+Dhrabb,Skeledirge,13,3,2,136,333,321,10,0,,1,0,0,1,0
+thankyou,Garganacl,6,2,1,45,276,176,6,1,Flying,1,1,0,1,1
+thankyou,Great Tusk,1,4,0,0,125,25,4,0,,1,1,0,1,1
+thankyou,Heatran,1,3,1,16,124,24,4,0,,1,1,0,1,1
+thankyou,Iron Valiant,0,0,0,0,0,0,0,0,,1,1,0,0,1
+thankyou,Slowking-Galar,0,1,0,0,0,0,0,0,,1,1,0,0,1
+thankyou,Zapdos,17,9,4,555,74,48,3,0,,1,1,1,0,1
+Raiza,Amoonguss,4,4,0,69,166,66,3,0,,0,0,0,1,0
+Raiza,Cinderace,3,2,0,4,100,0,2,0,,0,0,0,1,0
+Raiza,Dragapult,4,4,0,117,100,0,3,0,,0,0,0,1,0
+Raiza,Iron Valiant,4,1,0,126,100,0,3,0,,0,0,0,1,0
+Raiza,Landorus-Therian,3,5,1,74,130,30,3,0,,0,0,1,1,0
+Raiza,Samurott-Hisui,4,3,2,136,100,0,2,0,,0,0,0,1,0
+z0mog,Dragapult,5,3,1,243,100,0,1,0,,1,1,1,1,0
+z0mog,Great Tusk,0,2,0,0,100,0,1,0,,1,1,0,1,0
+z0mog,Iron Valiant,3,1,2,99,100,0,2,0,,1,1,0,1,0
+z0mog,Kingambit,1,2,0,26,100,0,3,0,,1,1,0,1,0
+z0mog,Slowking-Galar,1,2,0,0,133,33,3,1,Grass,1,1,0,1,0
+z0mog,Zapdos,1,1,0,54,100,0,2,0,,1,1,0,1,0
+damien the genius,Great Tusk,0,2,0,0,106,6,2,0,,1,0,0,1,1
+damien the genius,Hatterene,1,3,0,3,100,0,3,0,,1,0,0,1,1
+damien the genius,Lilligant-Hisui,1,1,0,98,100,0,1,0,,1,0,0,1,1
+damien the genius,Roaring Moon,1,1,0,42,26,0,1,0,,1,0,0,0,1
+damien the genius,Torkoal,1,3,1,2,0,0,0,0,,1,0,1,1,1
+damien the genius,Walking Wake,8,4,5,488,99,0,2,1,Water,1,0,0,0,1
+avarice,Dragapult,3,4,0,145,100,0,1,0,,0,0,0,1,0
+avarice,Great Tusk,3,4,0,102,100,0,4,0,,0,0,0,1,0
+avarice,Iron Valiant,3,3,2,87,100,0,3,0,,0,0,0,1,0
+avarice,Kingambit,5,5,0,96,122,30,4,0,,0,0,0,0,0
+avarice,Slowking-Galar,6,6,1,113,245,145,11,0,,0,0,1,1,0
+avarice,Zapdos,20,6,0,224,396,296,12,0,,0,0,0,1,0
+Garay oak,Dragapult,6,3,1,146,100,0,2,0,,0,0,0,1,1
+Garay oak,Great Tusk,8,6,1,198,75,67,4,0,,0,0,0,0,1
+Garay oak,Kingambit,3,4,1,119,136,36,3,0,,0,0,0,1,1
+Garay oak,Skeledirge,3,1,0,59,40,40,1,0,,0,0,0,0,1
+Garay oak,Slowking-Galar,15,10,2,176,389,289,14,0,,0,0,0,1,1
+Garay oak,Zapdos,12,7,0,211,87,82,3,0,,0,0,1,0,1
+SOULWIND,Dragapult,5,7,1,182,57,0,2,0,,1,0,0,0,0
+SOULWIND,Garganacl,16,4,0,93,258,195,9,0,,1,0,1,0,0
+SOULWIND,Great Tusk,11,7,2,200,168,68,4,1,Steel,1,0,0,1,0
+SOULWIND,Hoopa-Unbound,6,1,0,248,100,0,2,0,,1,0,0,1,0
+SOULWIND,Skeledirge,4,5,0,18,150,50,4,0,,1,0,0,1,0
+SOULWIND,Zapdos,6,5,0,77,150,50,5,0,,1,0,0,1,0
+Tace㋛,Great Tusk,6,8,0,220,80,6,5,0,,1,1,0,0,1
+Tace㋛,Kingambit,1,6,0,27,48,30,1,0,,1,1,0,0,1
+Tace㋛,Samurott-Hisui,2,2,2,154,100,0,2,0,,1,1,0,1,1
+Tace㋛,Slowking-Galar,20,15,2,275,506,418,16,1,Water,1,1,1,0,1
+Tace㋛,Zamazenta,7,3,0,151,100,0,5,0,,1,1,0,1,1
+Tace㋛,Zapdos,5,2,0,13,250,150,5,0,,1,1,0,1,1
+reiku,Corviknight,6,2,1,109,147,50,4,0,,1,1,0,0,1
+reiku,Dragapult,1,2,0,12,100,0,2,0,,1,1,0,1,1
+reiku,Garganacl,7,2,1,59,283,183,7,1,Water,1,1,0,1,1
+reiku,Great Tusk,7,3,1,137,134,34,3,0,,1,1,0,1,1
+reiku,Moltres,3,3,1,130,100,0,3,0,,1,1,0,1,1
+reiku,Sneasler,8,5,2,75,14,0,1,0,,1,1,1,0,1
+ayevon,Gholdengo,3,3,0,89,100,0,6,0,,1,0,0,1,0
+ayevon,Great Tusk,5,2,0,39,100,0,6,0,,1,0,0,1,0
+ayevon,Greninja,2,4,1,25,100,0,2,0,,1,0,1,1,0
+ayevon,Iron Valiant,5,1,2,173,100,0,3,0,,1,0,0,1,0
+ayevon,Kingambit,5,2,0,147,134,34,4,1,Fighting,1,0,0,1,0
+ayevon,Walking Wake,9,1,1,302,100,0,2,0,,1,0,0,1,0
+Kushalos,Gholdengo,6,2,1,151,195,95,3,1,Flying,1,1,0,1,0
+Kushalos,Greninja,4,2,1,107,100,0,1,0,,1,1,0,1,0
+Kushalos,Kingambit,4,1,1,101,100,0,1,0,,1,1,0,1,0
+Kushalos,Roaring Moon,2,1,1,88,100,0,1,0,,1,1,0,1,0
+Kushalos,Sneasler,7,3,1,149,100,0,4,0,,1,1,1,1,0
+Kushalos,Ting-Lu,2,1,0,27,100,0,3,0,,1,1,0,1,0
+Joeshh,Amoonguss,2,4,0,57,161,61,5,0,,1,0,0,1,1
+Joeshh,Cinderace,4,2,0,123,100,0,2,0,,1,0,0,1,1
+Joeshh,Enamorus,1,2,1,88,61,0,1,1,Fairy,1,0,0,0,1
+Joeshh,Kingambit,1,1,1,94,106,6,2,0,,1,0,0,1,1
+Joeshh,Rotom-Wash,8,5,2,96,137,37,3,0,,1,0,1,1,1
+Joeshh,Ursaluna,3,2,2,172,100,0,3,0,,1,0,0,1,1
+stareal,Dragapult,1,3,0,55,100,0,3,0,,1,1,0,1,1
+stareal,Enamorus,4,2,0,177,100,0,2,0,,1,1,0,1,1
+stareal,Great Tusk,2,2,0,26,119,19,3,0,,1,1,0,1,1
+stareal,Heatran,6,3,2,40,26,26,1,0,,1,1,0,0,1
+stareal,Kingambit,5,1,4,155,103,18,4,1,Fairy,1,1,0,0,1
+stareal,Slowking-Galar,2,2,0,71,71,33,2,0,,1,1,1,0,1
+Ban Manaphy,Azumarill,3,2,1,94,130,30,3,0,,1,0,0,1,0
+Ban Manaphy,Garganacl,1,3,0,1,112,12,3,0,,1,0,0,1,0
+Ban Manaphy,Great Tusk,6,5,1,129,100,0,2,0,,1,0,1,1,0
+Ban Manaphy,Meowscarada,4,3,1,142,100,0,2,1,Dark,1,0,0,1,0
+Ban Manaphy,Moltres,2,3,0,6,100,0,3,0,,1,0,0,1,0
+Ban Manaphy,Slowking-Galar,2,3,0,0,145,45,3,0,,1,0,0,1,0
+mimilimi,Corviknight,18,7,1,260,336,236,11,0,,1,1,1,1,0
+mimilimi,Great Tusk,2,3,0,59,110,10,2,0,,1,1,0,1,0
+mimilimi,Kingambit,0,2,0,0,100,0,2,0,,1,1,0,1,0
+mimilimi,Samurott-Hisui,5,6,1,236,100,0,1,1,Water,1,1,0,1,0
+mimilimi,Slowking-Galar,0,1,0,0,100,0,1,0,,1,1,0,1,0
+mimilimi,Zapdos,14,4,1,451,201,101,3,0,,1,1,0,1,0
+Electric win,Dragonite,16,6,2,279,451,362,14,0,,1,0,0,0,1
+Electric win,Great Tusk,3,5,0,15,100,0,3,0,,1,0,0,1,1
+Electric win,Kingambit,5,2,3,275,71,30,2,1,Dark,1,0,0,0,1
+Electric win,Meowscarada,3,3,0,109,100,0,1,0,,1,0,1,1,1
+Electric win,Slowking-Galar,8,8,0,0,252,196,10,0,,1,0,0,0,1
+Electric win,Sneasler,2,1,1,100,100,0,1,0,,1,0,0,1,1
+ATTRIBUTE,Baxcalibur,3,1,1,100,100,0,2,0,,1,1,0,1,0
+ATTRIBUTE,Gholdengo,2,1,0,58,100,0,2,0,,1,1,0,1,0
+ATTRIBUTE,Great Tusk,2,1,1,60,100,0,2,1,Steel,1,1,0,1,0
+ATTRIBUTE,Greninja,2,1,1,109,100,0,1,0,,1,1,0,1,0
+ATTRIBUTE,Iron Valiant,2,2,1,55,100,0,1,0,,1,1,0,1,0
+ATTRIBUTE,Samurott-Hisui,1,2,0,6,100,0,1,0,,1,1,1,1,0
+DugZaッ,Baxcalibur,1,1,1,69,100,0,2,0,,0,0,0,1,1
+DugZaッ,Dragonite,1,1,1,68,0,0,0,0,,0,0,0,0,1
+DugZaッ,Gholdengo,3,1,2,240,100,0,3,0,,0,0,0,1,1
+DugZaッ,Iron Valiant,2,1,1,44,100,0,2,0,,0,0,0,1,1
+DugZaッ,Kingambit,0,0,0,0,0,0,0,0,,0,0,0,0,1
+DugZaッ,Ting-Lu,3,1,1,100,100,0,3,0,,0,0,1,1,1
+vaboh,Dragapult,9,2,3,369,91,24,1,1,Fighting,1,1,0,0,1
+vaboh,Hatterene,4,1,0,36,156,56,5,0,,1,1,0,1,1
+vaboh,Heatran,1,2,0,26,100,0,1,0,,1,1,0,1,1
+vaboh,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,1
+vaboh,Rillaboom,2,3,0,12,113,13,3,0,,1,1,1,1,1
+vaboh,Sneasler,5,1,3,233,63,6,1,0,,1,1,0,0,1
+ninjadog,Baxcalibur,1,1,0,63,107,7,2,1,Fairy,1,0,0,1,0
+ninjadog,Garganacl,3,2,0,30,150,50,5,0,,1,0,0,1,0
+ninjadog,Great Tusk,0,2,0,0,113,13,4,0,,1,0,0,1,0
+ninjadog,Iron Valiant,3,1,2,143,100,0,1,0,,1,0,0,1,0
+ninjadog,Moltres,7,4,1,171,100,0,5,0,,1,0,1,1,0
+ninjadog,Rotom-Wash,2,1,0,0,112,12,4,0,,1,0,0,1,0
+Xen『QT』,Amoonguss,1,4,0,0,131,31,3,0,,1,0,1,1,1
+Xen『QT』,Gholdengo,5,4,2,237,138,38,3,1,Fairy,1,0,0,1,1
+Xen『QT』,Great Tusk,3,2,0,29,100,0,2,0,,1,0,0,1,1
+Xen『QT』,Iron Valiant,3,4,0,96,100,0,1,0,,1,0,0,1,1
+Xen『QT』,Kingambit,2,4,2,30,70,30,2,0,,1,0,0,0,1
+Xen『QT』,Sandy Shocks,6,4,1,193,112,12,2,0,,1,0,0,1,1
+oldspicemike,Enamorus,2,3,1,96,100,0,2,0,,1,1,0,1,0
+oldspicemike,Gholdengo,4,4,1,131,100,0,2,0,,1,1,0,1,0
+oldspicemike,Great Tusk,2,3,0,37,106,6,3,0,,1,1,0,1,0
+oldspicemike,Samurott-Hisui,3,3,1,122,100,0,2,1,Dark,1,1,0,1,0
+oldspicemike,Slowking-Galar,4,7,0,0,176,117,5,0,,1,1,1,0,0
+oldspicemike,Zamazenta,4,4,2,67,139,39,3,0,,1,1,0,1,0
+Sylveon is so cute,Dragapult,2,1,0,63,100,0,1,0,,0,0,0,1,1
+Sylveon is so cute,Hatterene,7,1,3,161,107,97,4,0,,0,0,0,0,1
+Sylveon is so cute,Heatran,1,2,0,0,100,0,3,0,,0,0,0,1,1
+Sylveon is so cute,Kingambit,3,1,2,152,83,13,1,0,,0,0,0,0,1
+Sylveon is so cute,Rillaboom,2,3,0,53,112,12,3,0,,0,0,1,1,1
+Sylveon is so cute,Sneasler,4,1,0,74,105,5,2,0,,0,0,0,1,1
+Fairy Peak!,Greninja,1,1,0,83,100,0,2,0,,1,1,0,1,0
+Fairy Peak!,Hawlucha,2,1,0,26,100,0,2,1,Electric,1,1,0,1,0
+Fairy Peak!,Iron Moth,1,1,1,100,106,6,2,0,,1,1,0,1,0
+Fairy Peak!,Iron Valiant,8,4,3,337,143,43,2,0,,1,1,0,1,0
+Fairy Peak!,Landorus-Therian,2,3,0,30,100,0,3,0,,1,1,0,1,0
+Fairy Peak!,Thundurus,4,2,0,6,84,0,3,0,,1,1,1,0,0
+Dasmer03,Amoonguss,14,14,0,238,223,189,14,0,,0,0,1,0,1
+Dasmer03,Dragonite,0,0,0,0,0,0,0,0,,0,0,0,0,1
+Dasmer03,Gholdengo,0,2,0,0,100,0,2,0,,0,0,0,1,1
+Dasmer03,Great Tusk,7,10,2,137,187,87,8,0,,0,0,0,1,1
+Dasmer03,Kingambit,15,8,4,299,178,114,5,0,,0,0,0,0,1
+Dasmer03,Slowking-Galar,4,10,0,0,272,251,10,0,,0,0,0,0,1
+dice,Cinderace,6,3,0,88,100,0,1,0,,1,1,0,1,0
+dice,Kingambit,12,12,1,263,184,84,9,1,Flying,1,1,0,1,0
+dice,Landorus-Therian,16,9,0,153,118,18,5,0,,1,1,0,1,0
+dice,Rotom-Wash,12,10,0,156,119,19,3,0,,1,1,0,1,0
+dice,Slowking-Galar,3,6,0,0,233,133,9,0,,1,1,1,1,0
+dice,Zamazenta,4,3,1,155,100,0,2,0,,1,1,0,1,0
+chloe,Baxcalibur,8,4,5,460,59,0,0,1,Dragon,1,0,1,0,1
+chloe,Cinderace,6,3,0,32,15,0,1,0,,1,0,0,0,1
+chloe,Enamorus,2,3,1,43,37,0,1,0,,1,0,0,0,1
+chloe,Great Tusk,4,3,0,111,73,0,2,0,,1,0,0,0,1
+chloe,Kingambit,1,3,0,35,98,13,3,0,,1,0,0,0,1
+chloe,Slowking-Galar,1,2,0,0,77,18,3,0,,1,0,0,0,1
+mushamu,Dragapult,1,4,0,37,100,0,2,0,,1,1,1,1,0
+mushamu,Gholdengo,2,7,0,26,150,50,4,0,,1,1,0,1,0
+mushamu,Great Tusk,2,3,0,15,106,6,2,0,,1,1,0,1,0
+mushamu,Kingambit,6,3,0,177,100,0,4,1,Flying,1,1,0,1,0
+mushamu,Rotom-Wash,4,5,0,37,137,37,5,0,,1,1,0,1,0
+mushamu,Ting-Lu,0,1,0,0,100,0,1,0,,1,1,0,1,0
+kaladin,Dondozo,17,2,1,81,251,151,12,0,,1,1,0,1,0
+kaladin,Gholdengo,3,2,0,117,100,0,1,0,,1,1,0,1,0
+kaladin,Great Tusk,3,1,1,100,118,18,2,0,,1,1,0,1,0
+kaladin,Muk-Alola,1,2,1,23,112,12,1,0,,1,1,0,1,0
+kaladin,Ting-Lu,1,2,0,28,43,6,0,1,Poison,1,1,0,0,0
+kaladin,Tornadus-Therian,3,2,0,77,133,33,2,0,,1,1,1,1,0
+March Fires,Azumarill,7,2,1,123,43,0,4,0,,0,0,0,0,1
+March Fires,Garchomp,4,2,0,34,100,0,3,0,,0,0,1,1,1
+March Fires,Gholdengo,1,1,0,74,100,0,3,0,,0,0,0,1,1
+March Fires,Great Tusk,5,3,2,196,41,0,2,0,,0,0,0,0,1
+March Fires,Iron Valiant,2,2,1,44,18,0,1,0,,0,0,0,0,1
+March Fires,Moltres-Galar,3,2,1,115,124,24,4,0,,0,0,0,1,1
+Aberforth,Gholdengo,2,3,1,65,134,50,2,0,,0,0,0,0,1
+Aberforth,Iron Valiant,8,2,0,101,100,0,3,0,,0,0,0,1,1
+Aberforth,Rotom-Wash,2,2,0,22,106,6,2,0,,0,0,1,1,1
+Aberforth,Scizor,0,1,0,0,100,0,2,0,,0,0,0,1,1
+Aberforth,Ting-Lu,2,1,0,35,118,18,8,0,,0,0,0,1,1
+Aberforth,Zamazenta,14,3,3,472,68,0,2,0,,0,0,0,0,1
+VertXXX,Baxcalibur,3,1,1,155,100,0,2,0,,1,1,0,1,0
+VertXXX,Enamorus,1,2,0,0,0,0,0,0,,1,1,0,1,0
+VertXXX,Glimmora,2,3,1,16,100,0,4,1,Ghost,1,1,0,1,0
+VertXXX,Kingambit,3,4,1,116,106,6,1,0,,1,1,0,1,0
+VertXXX,Skeledirge,9,7,1,196,346,276,9,0,,1,1,0,0,0
+VertXXX,Zamazenta,2,2,0,90,100,0,3,0,,1,1,1,1,0
+velvet,Garganacl,6,1,0,22,147,47,2,1,Water,1,0,0,1,1
+velvet,Gholdengo,1,2,1,100,100,0,1,0,,1,0,0,1,1
+velvet,Great Tusk,6,3,2,189,120,30,2,0,,1,0,0,0,1
+velvet,Hoopa-Unbound,1,2,0,0,100,0,2,0,,1,0,0,1,1
+velvet,Iron Valiant,1,2,2,18,100,0,2,0,,1,0,0,1,1
+velvet,Rotom-Wash,6,4,1,201,112,12,3,0,,1,0,1,1,1
+Stallion,Azumarill,3,1,1,50,100,0,3,1,Water,1,1,0,1,0
+Stallion,Great Tusk,10,1,2,234,100,0,3,0,,1,1,0,1,0
+Stallion,Iron Moth,3,2,1,82,100,0,2,0,,1,1,0,1,0
+Stallion,Iron Valiant,2,1,0,77,100,0,1,0,,1,1,0,1,0
+Stallion,Kingambit,4,3,1,152,100,0,4,0,,1,1,0,1,0
+Stallion,Samurott-Hisui,2,1,0,13,100,0,2,0,,1,1,1,1,0
+1 True Lycan,Corviknight,10,5,1,145,302,202,11,1,Water,1,0,1,1,0
+1 True Lycan,Garganacl,6,5,0,13,240,140,8,0,,1,0,0,1,0
+1 True Lycan,Great Tusk,1,2,0,19,100,0,3,0,,1,0,0,1,0
+1 True Lycan,Samurott-Hisui,2,2,0,69,100,0,3,0,,1,0,0,1,0
+1 True Lycan,Slowking-Galar,4,8,0,0,133,33,3,0,,1,0,0,1,0
+1 True Lycan,Tornadus-Therian,7,8,1,154,286,186,7,0,,1,0,0,1,0
+EeveetoTheN00b,Great Tusk,10,6,0,232,186,86,3,0,,1,1,0,1,1
+EeveetoTheN00b,Iron Valiant,0,0,0,0,0,0,0,0,,1,1,0,0,1
+EeveetoTheN00b,Kingambit,7,1,4,302,0,0,1,0,,1,1,0,0,1
+EeveetoTheN00b,Samurott-Hisui,7,5,1,171,37,0,1,0,,1,1,0,0,1
+EeveetoTheN00b,Slowking-Galar,10,6,1,228,168,144,6,1,Water,1,1,0,0,1
+EeveetoTheN00b,Zapdos,9,6,0,129,170,70,5,0,,1,1,1,1,1
+MichaelderBeste2,Abomasnow,0,0,0,0,0,0,0,0,,1,1,0,0,1
+MichaelderBeste2,Frosmoth,9,1,2,270,49,0,1,1,Ground,1,1,1,0,1
+MichaelderBeste2,Hatterene,0,0,0,0,0,0,0,0,,1,1,0,0,1
+MichaelderBeste2,Rillaboom,0,0,0,0,0,0,0,0,,1,1,0,0,1
+MichaelderBeste2,Samurott-Hisui,0,0,0,0,0,0,0,0,,1,1,0,0,1
+MichaelderBeste2,Sneasler,0,0,0,0,0,0,0,0,,1,1,0,0,1
+shafofficiel,Hatterene,4,1,0,0,70,9,1,0,,1,0,0,0,0
+shafofficiel,Iron Moth,0,0,0,0,0,0,0,0,,1,0,0,0,0
+shafofficiel,Kingambit,0,1,0,0,100,0,1,1,Flying,1,0,0,1,0
+shafofficiel,Lilligant-Hisui,0,0,0,0,0,0,0,0,,1,0,0,0,0
+shafofficiel,Sandy Shocks,1,1,0,0,0,0,0,0,,1,0,1,0,0
+shafofficiel,Torkoal,0,1,0,0,100,0,1,0,,1,0,0,1,0
+Unamed,Great Tusk,1,1,1,88,0,0,0,0,,0,0,0,1,0
+Unamed,Heatran,1,2,1,100,100,0,3,0,,0,0,0,1,0
+Unamed,Rillaboom,4,4,1,136,119,19,4,0,,0,0,0,1,0
+Unamed,Sneasler,1,4,0,0,112,12,1,0,,0,0,0,1,0
+Unamed,Thundurus,4,2,0,17,100,0,3,0,,0,0,1,1,0
+Unamed,Walking Wake,4,2,2,228,106,6,3,0,,0,0,0,1,0
+Fogbound Lake,Dragonite,1,1,0,37,100,0,1,0,,1,1,0,1,1
+Fogbound Lake,Garchomp,4,1,0,120,100,0,2,0,,1,1,1,1,1
+Fogbound Lake,Gholdengo,2,1,1,70,100,0,1,0,,1,1,0,1,1
+Fogbound Lake,Iron Valiant,3,1,1,58,100,0,1,0,,1,1,0,1,1
+Fogbound Lake,Moltres,2,3,2,8,109,56,4,0,,1,1,0,0,1
+Fogbound Lake,Samurott-Hisui,5,3,1,183,100,0,1,1,Water,1,1,0,1,1
+DonSalvatore,Amoonguss,1,3,0,0,123,23,2,0,,1,0,0,1,1
+DonSalvatore,Cinderace,6,3,1,181,100,0,2,1,Fire,1,0,0,1,1
+DonSalvatore,Gholdengo,6,6,2,303,100,0,2,0,,1,0,1,1,1
+DonSalvatore,Iron Valiant,4,4,1,92,18,0,2,0,,1,0,0,0,1
+DonSalvatore,Rotom-Wash,12,9,0,107,179,79,3,0,,1,0,0,1,1
+DonSalvatore,Ting-Lu,14,6,2,205,144,44,8,0,,1,0,0,1,1
+sylveon supremacy,Dragapult,9,8,0,62,100,0,1,0,,1,1,0,1,0
+sylveon supremacy,Great Tusk,5,5,0,38,150,50,5,0,,1,1,0,1,0
+sylveon supremacy,Kingambit,7,7,3,230,161,61,4,0,,1,1,0,1,0
+sylveon supremacy,Skeledirge,13,9,2,116,437,337,10,1,Fairy,1,1,0,1,0
+sylveon supremacy,Slowking-Galar,0,4,0,0,150,50,4,0,,1,1,0,1,0
+sylveon supremacy,Zapdos,3,3,0,36,125,25,3,0,,1,1,1,1,0
+Quartos,Dragapult,6,6,0,131,83,0,1,0,,1,1,1,0,1
+Quartos,Great Tusk,3,2,0,68,100,0,2,0,,1,1,0,1,1
+Quartos,Kingambit,8,6,2,337,173,73,3,1,Fairy,1,1,0,1,1
+Quartos,Pelipper,12,8,2,357,100,0,3,0,,1,1,0,1,1
+Quartos,Slowking-Galar,3,5,0,0,234,134,4,0,,1,1,0,1,1
+Quartos,Zamazenta,5,2,2,87,89,25,2,0,,1,1,0,0,1
+Achimoo,Gholdengo,6,6,1,72,204,104,6,0,,1,0,0,1,0
+Achimoo,Great Tusk,4,3,1,76,100,0,4,0,,1,0,0,1,0
+Achimoo,Scream Tail,8,4,0,36,259,159,7,0,,1,0,0,1,0
+Achimoo,Sneasler,3,3,1,68,100,0,1,0,,1,0,1,1,0
+Achimoo,Ting-Lu,5,8,1,93,217,117,9,1,Ghost,1,0,0,1,0
+Achimoo,Volcanion,3,5,0,157,100,0,4,0,,1,0,0,1,0
+Highv0ltag3,Amoonguss,4,3,1,38,208,108,4,0,,1,0,0,1,1
+Highv0ltag3,Dondozo,1,2,0,18,100,0,3,0,,1,0,0,1,1
+Highv0ltag3,Garganacl,11,1,1,145,194,94,6,0,,1,0,0,1,1
+Highv0ltag3,Great Tusk,5,1,0,75,100,0,2,0,,1,0,1,1,1
+Highv0ltag3,Greninja,1,4,0,34,9,0,0,0,,1,0,0,0,1
+Highv0ltag3,Kingambit,5,1,4,239,85,19,2,1,Flying,1,0,0,0,1
+Trogba Trogba,Dragapult,5,2,0,0,100,0,4,0,,1,1,1,1,0
+Trogba Trogba,Gholdengo,2,3,0,60,148,48,2,0,,1,1,0,1,0
+Trogba Trogba,Hatterene,8,1,1,86,229,129,5,0,,1,1,0,1,0
+Trogba Trogba,Sneasler,2,2,0,72,100,0,2,0,,1,1,0,1,0
+Trogba Trogba,Ursaluna,5,2,2,201,100,0,2,1,Water,1,1,0,1,0
+Trogba Trogba,Walking Wake,6,3,1,268,100,0,2,0,,1,1,0,1,0
+kythr,Breloom,4,2,1,102,100,0,3,1,Normal,1,1,0,1,0
+kythr,Iron Valiant,4,2,0,207,100,0,2,0,,1,1,0,1,0
+kythr,Kingambit,2,5,0,65,161,61,6,0,,1,1,0,1,0
+kythr,Rillaboom,2,3,0,18,74,18,1,0,,1,1,1,0,0
+kythr,Sandy Shocks,3,2,1,138,125,25,2,0,,1,1,0,1,0
+kythr,Sneasler,5,3,2,162,118,18,2,0,,1,1,0,1,0
+Trosko,Amoonguss,9,6,1,288,270,170,9,0,,1,0,1,1,1
+Trosko,Dragapult,5,4,2,136,44,12,1,0,,1,0,0,0,1
+Trosko,Great Tusk,1,2,0,65,112,12,2,1,Water,1,0,0,1,1
+Trosko,Heatran,1,1,0,47,100,0,1,0,,1,0,0,1,1
+Trosko,Kingambit,2,2,1,41,54,24,1,0,,1,0,0,0,1
+Trosko,Landorus-Therian,2,2,1,3,112,12,3,0,,1,0,0,1,1
+McMeghan,Dondozo,5,1,1,178,19,0,1,0,,1,1,0,0,1
+McMeghan,Garchomp,0,0,0,0,0,0,0,0,,1,1,0,0,1
+McMeghan,Gholdengo,2,1,1,100,100,0,2,0,,1,1,0,1,1
+McMeghan,Iron Valiant,1,1,1,51,100,0,2,1,Dark,1,1,0,1,1
+McMeghan,Moltres,3,2,2,200,0,0,0,0,,1,1,1,0,1
+McMeghan,Ting-Lu,3,1,1,149,118,18,3,0,,1,1,0,1,1
+FartballsVGC,Dragonite,5,1,0,19,178,78,5,1,Normal,1,0,0,1,0
+FartballsVGC,Gholdengo,4,1,1,130,100,0,2,0,,1,0,0,1,0
+FartballsVGC,Glimmora,3,2,1,27,100,0,1,0,,1,0,0,1,0
+FartballsVGC,Hoopa-Unbound,2,1,1,2,100,0,1,0,,1,0,0,1,0
+FartballsVGC,Masquerain,3,1,0,0,100,0,2,0,,1,0,1,1,0
+FartballsVGC,Samurott-Hisui,1,1,0,75,100,0,2,0,,1,0,0,1,0
+Stall Sucks Bro✞,Enamorus,4,1,4,293,49,0,1,0,,1,1,0,0,1
+Stall Sucks Bro✞,Glimmora,2,1,0,26,100,0,2,0,,1,1,1,1,1
+Stall Sucks Bro✞,Iron Moth,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Stall Sucks Bro✞,Iron Valiant,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Stall Sucks Bro✞,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Stall Sucks Bro✞,Roaring Moon,5,1,2,236,100,0,2,1,Flying,1,1,0,1,1
+MANNAT,Amoonguss,0,1,0,0,100,0,1,0,,1,0,0,1,0
+MANNAT,Great Tusk,0,1,0,0,100,0,1,0,,1,0,0,1,0
+MANNAT,Hoopa-Unbound,1,2,1,59,100,0,2,0,,1,0,0,1,0
+MANNAT,Iron Valiant,0,1,0,0,100,0,1,0,,1,0,0,1,0
+MANNAT,Kingambit,3,2,1,149,112,12,2,1,Fighting,1,0,0,1,0
+MANNAT,Zapdos,2,3,0,41,100,0,2,0,,1,0,1,1,0
+Redemption,Dragonite,2,1,0,111,100,0,2,1,Normal,1,0,0,1,0
+Redemption,Gholdengo,4,1,1,84,100,0,2,0,,1,0,0,1,0
+Redemption,Iron Valiant,1,2,1,4,100,0,1,0,,1,0,0,1,0
+Redemption,Kingambit,0,1,0,0,100,0,1,0,,1,0,0,1,0
+Redemption,Samurott-Hisui,3,1,0,22,100,0,3,0,,1,0,1,1,0
+Redemption,Sandy Shocks,8,1,1,72,100,0,5,0,,1,0,0,1,0
+Qwily,Grimmsnarl,13,2,2,200,100,0,6,0,,1,1,1,1,1
+Qwily,Hatterene,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Qwily,Kingambit,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Qwily,Moltres-Galar,4,1,2,178,125,25,3,1,Fairy,1,1,0,1,1
+Qwily,Scizor,1,1,0,22,100,0,2,0,,1,1,0,1,1
+Qwily,Sneasler,2,1,2,200,22,0,0,0,,1,1,0,0,1
+Trickster7,Baxcalibur,8,1,2,211,97,44,1,1,Ground,1,1,0,0,1
+Trickster7,Cinderace,3,2,1,133,100,0,2,0,,1,1,1,1,1
+Trickster7,Enamorus,1,2,0,96,0,0,0,0,,1,1,0,0,1
+Trickster7,Great Tusk,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Trickster7,Kingambit,6,1,3,176,0,0,0,0,,1,1,0,1,1
+Trickster7,Slowking-Galar,2,2,0,0,133,33,3,0,,1,1,0,1,1
+Leftiez,Hatterene,5,2,0,24,172,72,4,0,,1,0,1,1,0
+Leftiez,Hoopa-Unbound,2,3,1,54,100,0,1,0,,1,0,0,1,0
+Leftiez,Kingambit,2,1,0,0,106,6,2,1,Flying,1,0,0,1,0
+Leftiez,Medicham,2,2,1,177,100,0,1,0,,1,0,0,1,0
+Leftiez,Murkrow,1,1,0,0,100,0,1,0,,1,0,0,1,0
+Leftiez,Tornadus,3,2,0,0,100,0,2,0,,1,0,0,1,0
+ZoroDark,Baxcalibur,2,2,0,51,100,0,3,0,,1,1,0,1,0
+ZoroDark,Great Tusk,12,2,0,383,106,6,4,0,,1,1,0,1,0
+ZoroDark,Heatran,5,2,0,44,125,25,4,0,,1,1,0,1,0
+ZoroDark,Samurott-Hisui,5,1,1,166,100,0,3,1,Fairy,1,1,0,1,0
+ZoroDark,Sneasler,4,2,1,152,100,0,3,0,,1,1,0,1,0
+ZoroDark,Zapdos,2,1,0,32,100,0,2,0,,1,1,1,1,0
+Ahsan-219,Baxcalibur,2,2,2,87,58,0,1,0,,1,0,0,0,1
+Ahsan-219,Great Tusk,5,2,1,131,132,32,5,1,Water,1,0,0,1,1
+Ahsan-219,Iron Valiant,1,1,0,54,100,0,3,0,,1,0,0,1,1
+Ahsan-219,Slowking,6,3,2,204,158,67,5,0,,1,0,0,0,1
+Ahsan-219,Sneasler,0,0,0,0,0,0,0,0,,1,0,0,0,1
+Ahsan-219,Zapdos,14,4,1,155,433,373,13,0,,1,0,1,0,1
+DripLegend,Cinderace,5,1,0,82,100,0,4,0,,1,1,0,1,0
+DripLegend,Kingambit,1,2,0,15,100,0,1,0,,1,1,0,1,0
+DripLegend,Landorus-Therian,5,6,0,69,100,0,3,0,,1,1,0,1,0
+DripLegend,Rotom-Wash,26,1,1,547,209,109,2,1,Steel,1,1,0,1,0
+DripLegend,Slowking-Galar,8,9,0,59,251,151,5,0,,1,1,1,1,0
+DripLegend,Zamazenta,3,4,3,192,100,0,2,0,,1,1,0,1,0
+Malekith,Great Tusk,8,5,5,342,42,0,1,1,Ground,1,0,0,0,1
+Malekith,Hatterene,0,3,0,0,100,0,3,0,,1,0,0,1,1
+Malekith,Moltres,5,3,0,15,176,76,5,0,,1,0,0,1,1
+Malekith,Roaring Moon,21,5,1,185,501,401,19,0,,1,0,0,1,1
+Malekith,Torkoal,6,4,0,65,45,0,4,0,,1,0,0,0,1
+Malekith,Walking Wake,4,4,0,142,100,0,3,0,,1,0,1,1,1
+Lily,Amoonguss,3,6,0,71,177,77,5,0,,1,0,1,1,1
+Lily,Enamorus,1,2,0,0,0,0,0,0,,1,0,0,1,1
+Lily,Garganacl,20,6,4,283,356,345,14,1,Water,1,0,0,0,1
+Lily,Great Tusk,4,2,0,35,100,0,1,0,,1,0,0,1,1
+Lily,Kingambit,2,2,0,63,100,0,2,0,,1,0,0,1,1
+Lily,Zamazenta,7,3,2,156,100,0,4,0,,1,0,0,1,1
+Vavilov Tcherenkov,Baxcalibur,5,3,0,241,100,0,2,0,,1,1,1,1,0
+Vavilov Tcherenkov,Corviknight,21,7,2,125,270,170,6,1,Poison,1,1,0,1,0
+Vavilov Tcherenkov,Great Tusk,1,1,0,4,100,0,2,0,,1,1,0,1,0
+Vavilov Tcherenkov,Iron Valiant,4,6,1,194,100,0,3,0,,1,1,0,1,0
+Vavilov Tcherenkov,Rotom-Wash,1,3,0,53,129,29,4,0,,1,1,0,1,0
+Vavilov Tcherenkov,Ursaluna,3,4,1,177,100,0,3,0,,1,1,0,1,0
+Ruft,Azumarill,1,1,0,0,125,25,2,0,,1,1,0,1,0
+Ruft,Baxcalibur,10,1,1,385,100,0,3,1,Fairy,1,1,0,1,0
+Ruft,Glimmora,2,1,0,1,100,0,1,0,,1,1,1,1,0
+Ruft,Iron Moth,2,1,1,30,100,0,1,0,,1,1,0,1,0
+Ruft,Iron Valiant,10,1,1,335,100,0,4,0,,1,1,0,1,0
+Ruft,Kingambit,2,1,0,89,100,0,2,0,,1,1,0,1,0
+xavgb,Cinderace,1,1,0,0,0,0,0,0,,1,0,0,0,1
+xavgb,Gholdengo,0,1,0,0,100,0,2,0,,1,0,0,1,1
+xavgb,Landorus-Therian,3,2,2,122,100,0,2,0,,1,0,1,1,1
+xavgb,Skeledirge,13,2,1,128,501,401,19,1,Water,1,0,0,1,1
+xavgb,Ting-Lu,4,1,3,278,113,18,2,0,,1,0,0,0,1
+xavgb,Zamazenta,1,1,0,34,54,0,4,0,,1,0,0,0,1
+Aranacana,Dragonite,2,2,1,7,39,0,2,1,Fire,1,1,0,0,1
+Aranacana,Iron Valiant,4,1,2,80,12,0,0,0,,1,1,0,0,1
+Aranacana,Kingambit,4,2,3,127,100,0,1,0,,1,1,0,1,1
+Aranacana,Roaring Moon,0,0,0,0,0,0,0,0,,1,1,0,0,1
+Aranacana,Samurott-Hisui,5,2,0,88,100,0,2,0,,1,1,1,1,1
+Aranacana,Sandy Shocks,3,3,0,62,100,0,5,0,,1,1,0,1,1
+quixana,Basculegion,1,1,1,75,100,0,1,0,,1,0,0,1,0
+quixana,Greninja,2,1,1,115,100,0,2,0,,1,0,0,1,0
+quixana,Kingambit,2,2,1,35,118,18,1,1,Fairy,1,0,0,1,0
+quixana,Pelipper,1,2,0,25,100,0,2,0,,1,0,0,1,0
+quixana,Ting-Lu,2,4,0,0,100,0,2,0,,1,0,1,1,0
+quixana,Zapdos,4,4,0,41,100,0,3,0,,1,0,0,1,0
+1 True Lycan,Amoonguss,4,3,0,64,167,67,7,0,,1,0,0,1,0
+1 True Lycan,Dragapult,5,3,2,118,100,0,1,0,,1,0,0,1,0
+1 True Lycan,Great Tusk,3,1,0,77,113,13,3,0,,1,0,0,1,0
+1 True Lycan,Heatran,2,3,0,32,131,31,3,0,,1,0,0,1,0
+1 True Lycan,Kingambit,1,2,1,30,113,13,2,0,,1,0,0,1,0
+1 True Lycan,Zapdos,6,5,1,118,100,0,3,1,Fairy,1,0,1,1,0
+McMeghan,Dragonite,3,1,1,59,100,0,3,0,,1,1,0,1,1
+McMeghan,Gholdengo,6,5,1,108,146,46,9,1,Fairy,1,1,0,1,1
+McMeghan,Great Tusk,1,1,1,62,2,0,0,0,,1,1,0,0,1
+McMeghan,Samurott-Hisui,3,2,1,85,100,0,2,0,,1,1,0,1,1
+McMeghan,Sneasler,7,4,1,124,5,0,0,0,,1,1,0,0,1
+McMeghan,Ting-Lu,4,1,1,113,106,6,5,0,,1,1,1,1,1
+stareal,Garganacl,1,2,1,18,112,12,3,0,,1,1,0,1,0
+stareal,Gholdengo,6,4,3,166,150,50,5,1,Fairy,1,1,0,1,0
+stareal,Great Tusk,11,4,0,89,108,8,6,0,,1,1,0,1,0
+stareal,Kingambit,0,1,0,0,100,0,1,0,,1,1,0,1,0
+stareal,Moltres,7,4,0,64,135,35,3,0,,1,1,1,1,0
+stareal,Zamazenta,5,4,0,115,136,36,2,0,,1,1,0,1,0
+Lily,Baxcalibur,1,2,1,0,100,0,3,0,,1,0,0,1,1
+Lily,Corviknight,7,3,1,60,73,50,4,1,Fairy,1,0,0,0,1
+Lily,Dragonite,2,2,1,34,62,0,1,0,,1,0,0,0,1
+Lily,Great Tusk,5,3,0,105,100,0,5,0,,1,0,0,1,1
+Lily,Meowscarada,7,4,2,270,100,0,2,0,,1,0,0,1,1
+Lily,Slowking-Galar,6,5,1,155,211,111,7,0,,1,0,1,1,1

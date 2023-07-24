@@ -1,0 +1,66 @@
+Effect of Terastalization on Pokemon Performance,,,,,,
+,,,,,,
+,turns_active,times_brought_in,pct_dmg_dealt,kos,hits_taken,pct_healed
+,,,,,,
+tera,1.642***,0.132,61.984***,0.679***,0.468**,14.056***
+,(6.274),(0.902),(11.790),(12.699),(3.131),(3.646)
+,,,,,,
+N,2502,2502,2502,2502,2502,2502
+,,,,,,
+t statistics in parentheses,,,,,,
+* p<0.05, ** p<0.01, *** p<0.001,,,,
+Effect of Terastalization on Kingambit Performance,,,,,,
+,,,,,,
+,turns_active,times_brought_in,pct_dmg_dealt,kos,hits_taken,pct_healed
+,,,,,,
+tera,1.351*,-0.386,60.491***,0.787***,0.596*,8.489
+,(2.433),(-1.011),(3.895),(4.396),(2.455),(1.624)
+,,,,,,
+N,194,194,194,194,194,194
+,,,,,,
+t statistics in parentheses,,,,,,
+"=""* p<0.05", ** p<0.01," *** p<0.001""",,,,
+Effect of Terastalization on Garganacl Performance,,,,,,
+,,,,,,
+,turns_active,times_brought_in,pct_dmg_dealt,kos,hits_taken,pct_healed
+,,,,,,
+tera,2.249,0.720,36.684,0.587*,2.182*,69.635*
+,(1.039),(1.070),(1.671),(2.559),(2.051),(2.172)
+,,,,,,
+N,85,85,85,85,85,85
+,,,,,,
+t statistics in parentheses,,,,,,
+* p<0.05, ** p<0.01, *** p<0.001,,,,
+Effect of Terastalization on Iron Valiant Performance,,,,,,
+,,,,,,
+,turns_active,times_brought_in,pct_dmg_dealt,kos,hits_taken,pct_healed
+,,,,,,
+tera,1.155*,-0.406,66.043***,0.936***,0.006,-0.699
+,(2.489),(-1.532),(3.516),(4.473),(0.029),(-0.566)
+,,,,,,
+N,142,142,142,142,142,142
+,,,,,,
+t statistics in parentheses,,,,,,
+* p<0.05, ** p<0.01, *** p<0.001,,,,
+Effect of Terastalization on Baxcalibur Performance,,,,,,
+,,,,,,
+,turns_active,times_brought_in,pct_dmg_dealt,kos,hits_taken,pct_healed
+,,,,,,
+tera,2.653***,0.613,118.358***,0.980***,0.370,8.340
+,(3.807),(1.844),(4.761),(3.776),(1.551),(1.575)
+,,,,,,
+N,99,99,99,99,99,99
+,,,,,,
+t statistics in parentheses,,,,,,
+* p<0.05, ** p<0.01, *** p<0.001,,,,
+Effect of Terastalization on Pokemon Performance no Kingambit,,,,,,
+,,,,,,
+,turns_active,times_brought_in,pct_dmg_dealt,kos,hits_taken,pct_healed
+,,,,,,
+tera,1.689***,0.215,62.224***,0.662***,0.447**,14.950***
+,(5.893),(1.363),(11.083),(11.768),(2.705),(3.489)
+,,,,,,
+N,2308,2308,2308,2308,2308,2308
+,,,,,,
+t statistics in parentheses,,,,,,
+* p<0.05, ** p<0.01, *** p<0.001,,,,

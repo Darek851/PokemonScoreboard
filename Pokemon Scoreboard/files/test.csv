@@ -1,0 +1,13 @@
+player,pokemon,turns_active,times_brought_in,kos,pct_dmg_dealt,pct_dmg_taken,pct_dmg_healed,hits_taken,tera,tera_type,team_tera,team_tera_first,lead,faint,team_win
+Nutrino,Dragapult,7,3,0,19,100,0,2,0,,1,0,0,1,0
+Nutrino,Garchomp,7,3,0,-53,118,18,4,0,,1,0,1,1,0
+Nutrino,Gholdengo,4,3,1,184,112,12,2,0,,1,0,0,1,0
+Nutrino,Kingambit,1,2,1,26,100,0,2,0,,1,0,0,1,0
+Nutrino,Rillaboom,5,5,0,75,148,48,7,0,,1,0,0,1,0
+Nutrino,Sneasler,4,2,1,179,106,6,1,1,Flying,1,0,0,1,0
+Malekith,Dragonite,8,2,2,135,119,64,3,1,Normal,1,1,0,0,1
+Malekith,Great Tusk,1,2,0,0,131,31,1,0,,1,1,0,1,1
+Malekith,Kingambit,0,1,0,0,22,12,0,0,,1,1,0,0,1
+Malekith,Landorus-Therian,13,2,0,173,101,75,3,0,,1,1,1,0,1
+Malekith,Skeledirge,4,3,1,96,200,100,3,0,,1,1,0,1,1
+Malekith,Slowking-Galar,6,2,3,172,156,56,3,0,,1,1,0,1,1
